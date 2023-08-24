@@ -15,11 +15,19 @@ tà arsenikà hiereîa<br>
 <h2 id="summary">Summary:</h2>
 <p>For proper adjectives, in indefinite NPs both orders -
 <em>noun-adjective</em> and <em>adjective-noun</em> - are attested, the
-preference for one or the other likely driven by pragmatic reasons. In
-definite NPs, the most common position of the adjective is internal,
-i.e.&nbsp;between the article and the noun; when the adjective is not
-internal, in papyri it is much more commonly placed after the noun than
-before it. Quantifiers are predominantly placed before the noun,</p>
+preference for one or the other likely driven by pragmatic reasons. The
+‘neutral’, unmarked order is considered to be <em>noun-adjective</em>.
+This is observed in the smaller scope of the PapyGreek corpus presents a
+picture of prevailing numbers of post-posed adjectives; however, in
+other corpora, both literary and documentary, there are more pre-posed
+than post-posed adjectives. In definite NPs, the most common position of
+the adjective is internal, i.e.&nbsp;between the article and the noun; when
+the adjective is not internal, in papyri it is much more commonly placed
+after the noun than before it. Quantifiers are predominantly placed
+before the noun in indefinite phrases; in definite ones, our corpus
+presents more instances of quantifiers placed before the article and the
+noun (preposed), but the trend in larger corpora suggests that the
+prefered position on a bigger scope is also the internal one.</p>
 <h2 id="discussion">Discussion:</h2>
 <p>Traditionally, the grammars of Ancient Greek discuss the position of
 the modifier in the noun phrase mostly in terms of its position with
@@ -88,7 +96,11 @@ Therefore, in PapyGreek adjectives appear more often after the noun,
 which is in contrast to what is observed in literary materials and the
 larger automatically annotated Duke-nlp corpus, where the ratio is
 inverted.</p>
-<p>Quantifiers are predominantly placed in a prenominal position.</p>
+<p>Quantifiers are predominantly placed in a prenominal position in
+indefinite phrases, which is characteric for them also in the literary
+and automatically-annotated documentary corpora. In definite NPs, the
+smaller scope of PapyGreek’s corpus again presents a skewed picture, as
+the</p>
 <h2 id="queries">Queries:</h2>
 <ul>
 <li><a data-link-newtab="" href="/search/114" data-url="search/114">All NPs with postnominal adjectives</a></li>
