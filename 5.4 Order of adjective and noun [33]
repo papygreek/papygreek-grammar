@@ -44,7 +44,9 @@ information about its condition:</p>
 opsías tês hṓras (apelthoúsa) <em>(having left) in the late
 hour</em><br>
 <a href="https://papygreek.com/text/1278">bgu.2.380</a>, 3,sent. 2.</li>
-<li>τῷ υἱῷ [μου] [ὀρ]φ̣α̣ν̣ῷ̣</li>
+<li>τῷ υἱῷ [μου] [ὀρ]φ̣α̣ν̣ῷ̣ tôi huiôi mou orphanôi<br>
+<em>to my orphaned son</em><br>
+<a href="">p.babatha.15</a>, sent.</li>
 </ol>
 <p>In the treebanking framework adopted by the PapyGreek project <span class="citation" data-cites="celano2014c">(Celano 2014c)</span>,
 attributive adjectives are always annotated as ATR (ATR_CO). Modifiers
