@@ -55,10 +55,10 @@ attributive adjectives are always annotated as ATR (ATR_CO). Modifiers
 in predicative position are annotated according to their function:
 ADV/ADV_CO if functioning as adjuncts, and PNOM/PNOM_CO if used as
 predicative complements, and ATR/ATR_CO if they cannot be qualified as
-either, but rather modify the noun closely.</p>
-<p>The discussion below concerns attributive adjectives and those
-adjectives in predicative position that have been deemend by the
-annotator to be neither adjuncts nor predicative complements.</p>
+either, but rather modify the noun closely. The discussion below
+concerns attributive adjectives and those adjectives in predicative
+position that have been deemend by the annotator to be neither adjuncts
+nor predicative complements.</p>
 <p>Additionally, in the AGDT treebanking framework there is no
 distinction made between adjectives, demonstratives, and quantifiers,
 all receiving the morphological annotation of <em>adjectives</em>.
