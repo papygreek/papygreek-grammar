@@ -43,9 +43,9 @@ information about its condition:</p>
 <li><strong>ὀψίας</strong> τῆς ὥρας (ἀπελθοῦσα)<br>
 opsías tês hṓras (apelthoúsa) <em>(having left) in the late
 hour</em><br>
-<a href="https://papygreek.com/text/1278">bgu.2.380</a>, 3,sent. 4. τὸν
-τῆς οἰκίας τόπον ψιλὸν<br>
-tòn tês oikías tópon</li>
+<a href="https://papygreek.com/text/1278">bgu.2.380</a>, 3,sent. 2.</li>
+<li>τὸν τῆς οἰκίας τόπον <em>ψιλὸν</em><br>
+tòn tês oikías tópon psilòn</li>
 </ol>
 <p>In the treebanking framework adopted by the PapyGreek project <span class="citation" data-cites="celano2014c">(Celano 2014c)</span>,
 attributive adjectives are always annotated as ATR (ATR_CO). Modifiers
