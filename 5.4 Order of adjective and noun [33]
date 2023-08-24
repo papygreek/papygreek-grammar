@@ -1,0 +1,123 @@
+<h1>5.4 Order of adjective and noun</h1>
+<p><strong>In progress</strong></p>
+<h2 id="relevant-postag-codes-syntactic-relation-labels">Relevant postag
+codes / syntactic relation labels</h2>
+<p><strong>Position in postag string</strong>: 1st (part of speech)</p>
+<p><strong>Letters</strong>: a (adjective), n (noun)</p>
+<p><strong>Syntactic label</strong>: An attributive adjective is
+annotated with the ATR label (ATR_CO if in coordination).</p>
+<p><strong>Example</strong>: τὰ ἀρσενικὰ ἱερεῖα<br>
+tà arsenikà hiereîa<br>
+<em>the male sacrificial animals</em><br>
+<a href="https://papygreek.com/text/24080">P.cair.zen.2.59152</a>, 5-6
+(sent. 2)</p>
+<p></p><div style="height:300px; " data-treeid="1" class="sentence-tree tf-tree tf-result" data-json="eyJvayI6IHRydWUsICJyZXN1bHQiOiBbeyJpZCI6IDM0MDk3LCAibiI6IDMsICJoZWFkIjogIjIiLCAiZm9ybSI6ICJbXHUwMzk2XHUwM2M5XVx1MDNjMFx1MDNjNXxcdTAzYzFcdTAzYWZcdTAzYzlcdTAzYmRcdTAzYmZcdTAzYzIiLCAiaW5zZXJ0aW9uX2lkIjogbnVsbCwgImFydGlmaWNpYWwiOiBudWxsLCAicmVsYXRpb24iOiAiQURWIiwgInBvc3RhZyI6ICJuLXMtLS1tZy0iLCAic29ydGVyMSI6IDMsICJzb3J0ZXIyIjogIiIsICJkZXB0aCI6IDR9LCB7ImlkIjogMzQxMDYsICJuIjogMTIsICJoZWFkIjogIjExIiwgImZvcm0iOiAiXHUwM2MzXHUwM2FkIiwgImluc2VydGlvbl9pZCI6IG51bGwsICJhcnRpZmljaWFsIjogbnVsbCwgInJlbGF0aW9uIjogIk9CSiIsICJwb3N0YWciOiAicDJzLS0tLWEtIiwgInNvcnRlcjEiOiAxMiwgInNvcnRlcjIiOiAiIiwgImRlcHRoIjogNH0sIHsiaWQiOiAzNDEwOCwgIm4iOiAxNCwgImhlYWQiOiAiMTYiLCAiZm9ybSI6ICJcdTAzYzRcdTFmNzRcdTAzYmQiLCAiaW5zZXJ0aW9uX2lkIjogbnVsbCwgImFydGlmaWNpYWwiOiBudWxsLCAicmVsYXRpb24iOiAiQVRSIiwgInBvc3RhZyI6ICJsLXMtLS1mYS0iLCAic29ydGVyMSI6IDE0LCAic29ydGVyMiI6ICIiLCAiZGVwdGgiOiA0fSwgeyJpZCI6IDM0MTE1LCAibiI6IDIxLCAiaGVhZCI6ICIyMyIsICJmb3JtIjogIlx1MDNiYVx1MDNiMVx1MDNiYVx1MWZmNlx1MDNjMiIsICJpbnNlcnRpb25faWQiOiBudWxsLCAiYXJ0aWZpY2lhbCI6IG51bGwsICJyZWxhdGlvbiI6ICJBRFYiLCAicG9zdGFnIjogImQtLS0tLS0tXyIsICJzb3J0ZXIxIjogMjEsICJzb3J0ZXIyIjogIiIsICJkZXB0aCI6IDR9LCB7ImlkIjogMzQxMTYsICJuIjogMjIsICJoZWFkIjogIjIzIiwgImZvcm0iOiAiXHUwM2IxXHUxZjUwXHUwM2M0XHUxZjc0XHUwM2JkIiwgImluc2VydGlvbl9pZCI6IG51bGwsICJhcnRpZmljaWFsIjogbnVsbCwgInJlbGF0aW9uIjogIlNCSiIsICJwb3N0YWciOiAicC1zLS0tZmEtIiwgInNvcnRlcjEiOiAyMiwgInNvcnRlcjIiOiAiIiwgImRlcHRoIjogNH0sIHsiaWQiOiAzNDA5NiwgIm4iOiAyLCAiaGVhZCI6ICIxIiwgImZvcm0iOiAiXHUwM2MwXHUwM2IxXHUwM2MxXHUxZjcwIiwgImluc2VydGlvbl9pZCI6IG51bGwsICJhcnRpZmljaWFsIjogbnVsbCwgInJlbGF0aW9uIjogIkF1eFAiLCAicG9zdGFnIjogInItLS0tLS0tLSIsICJzb3J0ZXIxIjogMiwgInNvcnRlcjIiOiAiIiwgImRlcHRoIjogM30sIHsiaWQiOiAzNDA5OCwgIm4iOiA0LCAiaGVhZCI6ICI2IiwgImZvcm0iOiAiXHUwM2M0XHUxZjcwIiwgImluc2VydGlvbl9pZCI6IG51bGwsICJhcnRpZmljaWFsIjogbnVsbCwgInJlbGF0aW9uIjogIkFUUiIsICJwb3N0YWciOiAibC1wLS0tbmEtIiwgInNvcnRlcjEiOiA0LCAic29ydGVyMiI6ICIiLCAiZGVwdGgiOiAzfSwgeyJpZCI6IDM0MDk5LCAibiI6IDUsICJoZWFkIjogIjYiLCAiZm9ybSI6ICJcdTFmMDBcdTAzMjNcdTAzYzFcdTAzMjNcdTAzYzNcdTAzMjNcdTAzYjVcdTAzYmRcdTAzYjl8XHUwM2JhXHUxZjcwIiwgImluc2VydGlvbl9pZCI6IG51bGwsICJhcnRpZmljaWFsIjogbnVsbCwgInJlbGF0aW9uIjogIkFUUiIsICJwb3N0YWciOiAiYS1wLS0tbmEtIiwgInNvcnRlcjEiOiA1LCAic29ydGVyMiI6ICIiLCAiZGVwdGgiOiAzfSwgeyJpZCI6IDM0MTAyLCAibiI6IDgsICJoZWFkIjogIjkiLCAiZm9ybSI6ICJcdTAzYzRcdTFmZjZcdTAzYjkiLCAiaW5zZXJ0aW9uX2lkIjogbnVsbCwgImFydGlmaWNpYWwiOiBudWxsLCAicmVsYXRpb24iOiAiQVRSIiwgInBvc3RhZyI6ICJsLXMtLS1tZC0iLCAic29ydGVyMSI6IDgsICJzb3J0ZXIyIjogIiIsICJkZXB0aCI6IDN9LCB7ImlkIjogMzQxMDUsICJuIjogMTEsICJoZWFkIjogIjEwIiwgImZvcm0iOiAiXHUwM2MwXHUwM2MxXHUxZjc4XHUwM2MyIiwgImluc2VydGlvbl9pZCI6IG51bGwsICJhcnRpZmljaWFsIjogbnVsbCwgInJlbGF0aW9uIjogIkF1eFAiLCAicG9zdGFnIjogInItLS0tLS0tLSIsICJzb3J0ZXIxIjogMTEsICJzb3J0ZXIyIjogIiIsICJkZXB0aCI6IDN9LCB7ImlkIjogMzQxMTAsICJuIjogMTYsICJoZWFkIjogIjE5IiwgImZvcm0iOiAiXHUwM2M0XHUwM2JmfFx1MDNiYVx1MDNhY1x1MDNiNFx1MDNiMSIsICJpbnNlcnRpb25faWQiOiBudWxsLCAiYXJ0aWZpY2lhbCI6IG51bGwsICJyZWxhdGlvbiI6ICJPQkoiLCAicG9zdGFnIjogIm4tcy0tLWZhLSIsICJzb3J0ZXIxIjogMTYsICJzb3J0ZXIyIjogIiIsICJkZXB0aCI6IDN9LCB7ImlkIjogMzQxMTcsICJuIjogMjMsICJoZWFkIjogIjIwIiwgImZvcm0iOiAiXHUwM2I0XHUwM2I5fFx1MDNiMVx1MDNiYVx1MDNiNVx1MWZkNlx1MDNjM1x1MDNiOFx1MDNiMVx1MDNiOSIsICJpbnNlcnRpb25faWQiOiBudWxsLCAiYXJ0aWZpY2lhbCI6IG51bGwsICJyZWxhdGlvbiI6ICJPQkoiLCAicG9zdGFnIjogInYtLXBuZS0tLSIsICJzb3J0ZXIxIjogMjMsICJzb3J0ZXIyIjogIiIsICJkZXB0aCI6IDN9LCB7ImlkIjogMzQwOTUsICJuIjogMSwgImhlYWQiOiAiNyIsICJmb3JtIjogIlx1MDNiYVtcdTAzYmZcdTAzYmNcdTAzYjlcdTAzYzNcdTAzYWNcdTAzYmNcdTAzYjVdXHUyOWQ5W1x1MjlkOF1cdTAzYmRcdTAzYmZcdTAzYjkiLCAiaW5zZXJ0aW9uX2lkIjogbnVsbCwgImFydGlmaWNpYWwiOiBudWxsLCAicmVsYXRpb24iOiAiQURWIiwgInBvc3RhZyI6ICJ2LXBhcG1tbi0iLCAic29ydGVyMSI6IDEsICJzb3J0ZXIyIjogIiIsICJkZXB0aCI6IDJ9LCB7ImlkIjogMzQxMDAsICJuIjogNiwgImhlYWQiOiAiNyIsICJmb3JtIjogIlx1MWYzMVx1MDNiNVx1MDNjMVx1MDNiNVx1MWZkNjxcdTAzYjE+IiwgImluc2VydGlvbl9pZCI6IG51bGwsICJhcnRpZmljaWFsIjogbnVsbCwgInJlbGF0aW9uIjogIk9CSiIsICJwb3N0YWciOiAibi1wLS0tbmEtIiwgInNvcnRlcjEiOiA2LCAic29ydGVyMiI6ICIiLCAiZGVwdGgiOiAyfSwgeyJpZCI6IDM0MTAzLCAibiI6IDksICJoZWFkIjogIjciLCAiZm9ybSI6ICJcdTFmNTFcdTAzYmZcdTAzYzZcdTAzYmZcdTAzYzFcdTAzYjJcdTFmZjZcdTAzYjkiLCAiaW5zZXJ0aW9uX2lkIjogbnVsbCwgImFydGlmaWNpYWwiOiBudWxsLCAicmVsYXRpb24iOiAiT0JKIiwgInBvc3RhZyI6ICJuLXMtLS1tZC0iLCAic29ydGVyMSI6IDksICJzb3J0ZXIyIjogIiIsICJkZXB0aCI6IDJ9LCB7ImlkIjogMzQxMDQsICJuIjogMTAsICJoZWFkIjogIjciLCAiZm9ybSI6ICJcdTFmMDBcdTAzYzBcdTAzYmZcdTAzYmFcdTAzYjFcdTAzYzRcdTAzYjFcdTAzYzNcdTAzYzRcdTFmYzZcdTAzYzNcdTAzYjFcdTAzYjkiLCAiaW5zZXJ0aW9uX2lkIjogbnVsbCwgImFydGlmaWNpYWwiOiBudWxsLCAicmVsYXRpb24iOiAiQURWIiwgInBvc3RhZyI6ICJ2M3Nhb2EtLS0iLCAic29ydGVyMSI6IDEwLCAic29ydGVyMiI6ICIiLCAiZGVwdGgiOiAyfSwgeyJpZCI6IDM0MTExLCAibiI6IDE3LCAiaGVhZCI6ICIxOCIsICJmb3JtIjogIlx1MDNiZlx1MWY1MCIsICJpbnNlcnRpb25faWQiOiBudWxsLCAiYXJ0aWZpY2lhbCI6IG51bGwsICJyZWxhdGlvbiI6ICJBdXhaIiwgInBvc3RhZyI6ICJkLS0tLS0tLS0iLCAic29ydGVyMSI6IDE3LCAic29ydGVyMiI6ICIiLCAiZGVwdGgiOiAyfSwgeyJpZCI6IDM0MTEzLCAibiI6IDE5LCAiaGVhZCI6ICIxOCIsICJmb3JtIjogIlx1MWYwMFx1MDNjMFx1MDNiZlx1MDNiNFx1MDNiZlx1MWZlNlx1MDNiZFx1MDNiMVx1MDNiOSIsICJpbnNlcnRpb25faWQiOiBudWxsLCAiYXJ0aWZpY2lhbCI6IG51bGwsICJyZWxhdGlvbiI6ICJPQkoiLCAicG9zdGFnIjogInYtLWFuYS0tLSIsICJzb3J0ZXIxIjogMTksICJzb3J0ZXIyIjogIiIsICJkZXB0aCI6IDJ9LCB7ImlkIjogMzQxMTQsICJuIjogMjAsICJoZWFkIjogIjE4IiwgImZvcm0iOiAiXHUwM2JiXHUwM2FkXHUwM2IzXHUwM2M5XHUwM2JkIiwgImluc2VydGlvbl9pZCI6IG51bGwsICJhcnRpZmljaWFsIjogbnVsbCwgInJlbGF0aW9uIjogIkFEViIsICJwb3N0YWciOiAidi1zcHBhbW4tIiwgInNvcnRlcjEiOiAyMCwgInNvcnRlcjIiOiAiIiwgImRlcHRoIjogMn0sIHsiaWQiOiAzNDEwMSwgIm4iOiA3LCAiaGVhZCI6ICIxNSIsICJmb3JtIjogIlx1MDNiNFx1MDNiNVx1MDMyM1x1MDNiNFx1MDMyM1x1MDNjZVx1MDNiYVx1MDNiMXxcdTAzYmNcdTAzYjVcdTAzYmQiLCAiaW5zZXJ0aW9uX2lkIjogbnVsbCwgImFydGlmaWNpYWwiOiBudWxsLCAicmVsYXRpb24iOiAiUFJFRF9DTyIsICJwb3N0YWciOiAidjFwcmlhLS0tIiwgInNvcnRlcjEiOiA3LCAic29ydGVyMiI6ICIiLCAiZGVwdGgiOiAxfSwgeyJpZCI6IDM0MTA3LCAibiI6IDEzLCAiaGVhZCI6ICIxNSIsICJmb3JtIjogIiwiLCAiaW5zZXJ0aW9uX2lkIjogbnVsbCwgImFydGlmaWNpYWwiOiBudWxsLCAicmVsYXRpb24iOiAiQXV4WCIsICJwb3N0YWciOiAidS0tLS0tLS0tIiwgInNvcnRlcjEiOiAxMywgInNvcnRlcjIiOiAiIiwgImRlcHRoIjogMX0sIHsiaWQiOiAzNDExMiwgIm4iOiAxOCwgImhlYWQiOiAiMTUiLCAiZm9ybSI6ICJcdTAzYjJcdTAzYmZcdTAzY2RcdTAzYmJcdTAzYjVcdTAzYzRcdTAzYjFcdTAzYjkiLCAiaW5zZXJ0aW9uX2lkIjogbnVsbCwgImFydGlmaWNpYWwiOiBudWxsLCAicmVsYXRpb24iOiAiUFJFRF9DTyIsICJwb3N0YWciOiAidjNzcGllLS0tIiwgInNvcnRlcjEiOiAxOCwgInNvcnRlcjIiOiAiIiwgImRlcHRoIjogMX0sIHsiaWQiOiAzNDEwOSwgIm4iOiAxNSwgImhlYWQiOiAiMCIsICJmb3JtIjogIlx1MDNiNFx1MWY3MiIsICJpbnNlcnRpb25faWQiOiBudWxsLCAiYXJ0aWZpY2lhbCI6IG51bGwsICJyZWxhdGlvbiI6ICJDT09SRCIsICJwb3N0YWciOiAiYy0tLS0tLS0tIiwgInNvcnRlcjEiOiAxNSwgInNvcnRlcjIiOiAiIiwgImRlcHRoIjogMH0sIHsiaWQiOiAzNDExOCwgIm4iOiAyNCwgImhlYWQiOiAiMCIsICJmb3JtIjogIi4iLCAiaW5zZXJ0aW9uX2lkIjogbnVsbCwgImFydGlmaWNpYWwiOiBudWxsLCAicmVsYXRpb24iOiAiQXV4SyIsICJwb3N0YWciOiAidS0tLS0tLS0tIiwgInNvcnRlcjEiOiAyNCwgInNvcnRlcjIiOiAiIiwgImRlcHRoIjogMH1dLCAiaGlnaGxpZ2h0X25vZGVzIjogIjQsNSw2IiwgImhpZ2hsaWdodF9lZGdlcyI6ICIiLCAiaWQiOiAxfQ=="></div><p></p>
+<h2 id="summary">Summary:</h2>
+<p>Both orders - <em>noun-adjective</em> and <em>adjective-noun</em> -
+are attested, the preference for one or the other likely driven by
+pragmatic reasons. Sematics also play a role in the placement.</p>
+<h2 id="discussion">Discussion:</h2>
+<p>Traditionally, the grammars of Ancient Greek discuss the position of
+the modifier in the noun phrase mostly in terms of its position with
+respect to the article, differentiating between attributive and
+predicative position in <em>definite NPs</em> (cf. <span class="citation" data-cites="emde2019">Emde Boas et al. (2019)</span>).
+An adjective in attributive position, i.e.&nbsp;preceded directly by the
+article, describes the referent’s attribute, characteristic, origin,
+possessor, target, etc.:</p>
+<ol type="1">
+<li><p>τὴν <strong>ταλαίπωρον</strong> θυγατέρα<br>
+tḕn talaípōron thugatéra<br>
+<em>the miserable daughter</em><br>
+<a href="https://papygreek.com/text/27163">p.fouad.75</a>, 4-5, sent.
+2.</p></li>
+<li><p>τὸ συνθεσείδιον τὸ <strong>λευκόν</strong><br>
+tò suntheseídion tò leukón<br>
+<em>the white dress</em><br>
+<a href="https://papygreek.com/text/27741">p.giss.apoll.1</a>, 8-9,
+sent. 4.</p></li>
+</ol>
+<p>An adjective in predicative position, i.e.&nbsp;not preceded by the
+article, provides no identifying description of the referent, but gives
+information about its condition:</p>
+<ol start="3" type="1">
+<li><strong>ὀψίας</strong> τῆς ὥρας (ἀπελθοῦσα)<br>
+opsías tês hṓras (apelthoúsa) <em>(having left) in the late
+hour</em><br>
+<a href="https://papygreek.com/text/1278">bgu.2.380</a>, 3,sent. 2.</li>
+</ol>
+<p>In the treebanking framework adopted by the PapyGreek project <span class="citation" data-cites="celano2014c">(Celano 2014c)</span>,
+attributive adjectives are always annotated as ATR (ATR_CO). Modifiers
+in predicative position are annotated according to their function:
+ADV/ADV_CO if functioning as adjuncts, and PNOM/PNOM_CO if used as
+predicative complements, and ATR/ATR_CO if they cannot be qualified as
+either, but rather modify the noun closely.</p>
+<p>The discussion below concerns attributive adjectives and those
+adjectives in predicative position that have been deemend by the
+annotator to be neither adjuncts nor predicative complements.</p>
+<p>Additionally, in the AGDT treebanking framework there is no
+distinction made between adjectives, demonstratives, and quantifiers,
+all receiving the morphological annotation of <em>adjectives</em>.
+Within the PapyGreek project, we have chosen to annotate demonstrative
+adjectives morphologically as pronouns due to their pronominal origin.
+They are therefore discussed in chapter <a href="https://papygreek.com/grammar/96">5.6. Order of demonstrative and
+noun</a>. For differentiating between quantifiers and proper adjectives,
+additional annotation has been performed outside of the scope of the
+PapyGreek treebanking framework (Yordanova-Nanev, forthcoming).</p>
+<p>Both orders - <em>noun-adjective</em> and <em>adjective-noun</em> -
+are possible in Ancient Greek. The modern scholarly consensus (<span class="citation" data-cites="dik1997">Dik (1997)</span>, <span class="citation" data-cites="emde2019">Emde Boas et al. (2019)</span>)
+is that, in Classical Greek, the main factor behind the preferred
+ordering is pragmatics: the “natural”, unmarked order is the noun
+preceding the adjective, while an adjective preceding its governing noun
+is emphasized in some way. However, there are other factors that can
+influence the position of the adjectival modifier in the noun phrase,
+like the semantic type of the adjective (<span class="citation" data-cites="bergson1960">Bergson (1960)</span>, <span class="citation" data-cites="devinestephens2000">Devine and Stephens (2000)</span>).</p>
+<p>In papyri, articular phrases show similar frequencies of the order
+patterns to those attested in the treebanked literary corpus, where the
+most common placement of the adjective is between the article and the
+noun. In indefinite phrases, however, the smaller size of our corpus
+increases the relevance of the instances of individual lemmas with high
+frequency. Therefore, in PapyGreek adjectives appear more often after
+the noun (44% preposed vs.&nbsp;56% postposed adjectives), which is in
+contrast to what is observed in both literary materials and in the
+automatically annotated Duke-nlp corpus, where the ratio is
+inverted.</p>
+<p>Quantifiers are predominantly placed in a prenominal position.</p>
+<h2 id="queries">Queries:</h2>
+<ul>
+<li><a data-link-newtab="" href="/search/114" data-url="search/114">All NPs with postnominal adjectives</a></li>
+<li><a data-link-newtab="" href="/search/115" data-url="search/115">All NPs with prenominal adjectives</a></li>
+</ul>
+<h2 id="link-to-relevant-wals-chapter">Link to relevant WALS
+chapter:</h2>
+<p><a href="https://wals.info/chapter/87">Order of Adjective and Noun
+(Dryer 2013)</a></p>
+<h2 id="link-to-relevant-passages-in-smyths-grammar">Link to relevant
+passages in Smyth’s Grammar:</h2>
+<h2 class="unnumbered" id="references">References:</h2>
+<div id="refs" class="references csl-bib-body hanging-indent" role="list">
+<div id="ref-bergson1960" class="csl-entry" role="listitem">
+Bergson, Leif. 1960. <em>Zur Stellung Des Adjektivs in Der Älteren
+Griechischen Prosa. Die Motive Der Voran- Bzw. Nachstellung in Ihren
+Hauptzügen.</em> Stockholm: Almqvist &amp; Wiksell.
+</div>
+<div id="ref-celano2014c" class="csl-entry" role="listitem">
+Celano, Giuseppe G.A. 2014c. <em>Guidelines for the Ancient Greek
+Dependency Treebank 2.0</em>. Perseus Digital Library. <a href="https://github.com/PerseusDL/treebank_data/blob/master/AGDT2/guidelines/Greek_guidelines.md#21-article">https://github.com/PerseusDL/treebank_data/blob/master/AGDT2/guidelines/Greek_guidelines.md#21-article</a>.
+</div>
+<div id="ref-devinestephens2000" class="csl-entry" role="listitem">
+Devine, Andrew M., and Laurence D. Stephens. 2000. <em>Discontinuous
+syntax: hyperbaton in Greek</em>. New York: Oxford University Press. <a href="https://worldcat.org/title/191932199">https://worldcat.org/title/191932199</a>.
+</div>
+<div id="ref-dik1997" class="csl-entry" role="listitem">
+Dik, Helma. 1997. <span>“Interpreting adjective position in
+Herodotus.”</span> In <em>Grammar as interpretation: Greek Literature in
+its linguistic contexts</em>, edited by Egbert J. Bakker, 55–76. Leiden
+- New York: Brill.
+</div>
+<div id="ref-emde2019" class="csl-entry" role="listitem">
+Emde Boas, Evert van, Albert Rijksbaron, Luuk Huitink, and Mathieu de
+Bakker. 2019. <em>The Cambridge Grammar of Classical Greek</em>.
+Cambridge: Cambridge University Press. <a href="https://DOI: 10.1017/9781139027052">DOI:
+10.1017/9781139027052</a>.
+</div>
+</div>
