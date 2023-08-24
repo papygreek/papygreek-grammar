@@ -1,0 +1,44 @@
+<h1> A Grammar of Documentary Greek Papyri</h1>
+<h1 id="welcome">Welcome!</h1>
+<p>Welcome to the Digital Grammar of Greek Documentary Papyri. This is a
+work produced by the team of <a href="https://www.helsinki.fi/en/researchgroups/digital-grammar-of-greek-documentary-papyri/about-the-papygreek-project">the
+PapyGreek project</a> at the University of Helsinki. This project has
+received funding from the European Research Council (ERC) under the
+European Union’s Horizon 2020 research and innovation programme (grant
+agreement No 758481).</p>
+<h2 id="about-the-grammar-and-the-corpus">About the Grammar and the
+corpus</h2>
+<p>The manual treebank annotation in PapyGreek corpus mostly follows
+<span class="citation" data-cites="celano2014c">Celano (2014c)</span>
+for the morphological and syntactic layer (the advanced
+syntactic/semantic layer is not present). Some special practices,
+differences and deviations can be found in <a href="https://docs.google.com/document/d/1bqZaRU2E_Ixg6Z3s9qcY4EWN6DB1k5C3I4Vgs7vSsh4/edit?usp=sharing">this
+document</a>. The most notable differences are:</p>
+<ul>
+<li>numerals are all marked as numeral (instead of adjectives)</li>
+<li>pronouns are all marked as pronouns (instead of adjectives)</li>
+</ul>
+<h2 id="about-the-queries-and-trees">About the queries and trees</h2>
+<ul>
+<li>layer differences, orig/reg</li>
+<li>saved searches</li>
+<li>Embedded trees</li>
+</ul>
+<h2 id="how-to-cite">How to cite</h2>
+<p>Vierros, Marja, Sonja Dahlgren, Erik Henriksson, Polina Yordanova,
+and Sari Kock, eds.&nbsp;2023. Digital Grammar of Greek Documentary Papyri.
+Helsinki: University of Helsinki. https:papygreek.com/grammar.</p>
+<p>(changes possible, so access date important; stable versions?)</p>
+<p><span class="citation" data-cites="papygreek">Vierros et al.
+(2023)</span></p>
+<div id="refs" class="references csl-bib-body hanging-indent" role="list">
+<div id="ref-celano2014c" class="csl-entry" role="listitem">
+Celano, Giuseppe G.A. 2014c. <em>Guidelines for the Ancient Greek
+Dependency Treebank 2.0</em>. Perseus Digital Library. <a href="https://github.com/PerseusDL/treebank_data/blob/master/AGDT2/guidelines/Greek_guidelines.md#21-article">https://github.com/PerseusDL/treebank_data/blob/master/AGDT2/guidelines/Greek_guidelines.md#21-article</a>.
+</div>
+<div id="ref-papygreek" class="csl-entry" role="listitem">
+Vierros, Marja, Sonja Dahlgren, Erik Henriksson, Polina Yordanova, and
+Sari Kock, eds. 2023. <em>Digital Grammar of Greek Documentary
+Papyri</em>. Helsinki: University of Helsinki. <a href="https://https:papygreek.com/grammar">https:papygreek.com/grammar</a>.
+</div>
+</div>
