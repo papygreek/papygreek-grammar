@@ -84,12 +84,11 @@ patterns to those attested in the treebanked literary corpus, where the
 most common placement of the adjective is between the article and the
 noun. In indefinite phrases, the smaller size of our corpus increases
 the relevance of the instances of individual lemmas with high frequency.
-Therefore, in PapyGreek adjectives appear more often after the noun (45%
-preposed vs.&nbsp;55% postposed adjectives), which is in contrast to what is
-observed in literary materials, where the ratio is inverted. However,
-the prevalence of postposed adjectives over preposed ones in papyri is
-confirmed through investigation of the larger automatically annotated
-Duke-nlp corpus.</p>
+Therefore, in PapyGreek adjectives appear more often after the noun,
+which is in contrast to what is observed in literary materials, where
+the ratio is inverted. However, the prevalence of postposed adjectives
+over preposed ones in papyri is confirmed through investigation of the
+larger automatically annotated Duke-nlp corpus.</p>
 <p>Quantifiers are predominantly placed in a prenominal position.</p>
 <h2 id="queries">Queries:</h2>
 <ul>
