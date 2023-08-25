@@ -1,0 +1,99 @@
+<h1>2.1.2 Case</h1>
+<h2 id="relevant-postag-code">Relevant postag code</h2>
+<p><strong>Position in postag string: 8th</strong></p>
+<p>letters: n (nominative), g (genitive), d (dative), a (accusative), v
+(vocative)</p>
+<p>Example: n-s—m<strong>n</strong>- (noun, singular, masculine,
+<strong>nominative</strong>)</p>
+<h2 id="number-of-cases">Number of cases</h2>
+<p>In Ancient Greek, there are five cases: nominative, genitive, dative,
+accusative, and vocative. This is relatively rare among the world
+languages, since most of the languages using casemarking have either two
+cases or more than five, as can be seen from <span class="citation" data-cites="iggesen2013">(<strong>iggesen2013?</strong>)</span>. The
+case endings are added to the noun stems; what these endings are is
+determined by the declension the noun follows.</p>
+<p>In the <em>dual</em> there are only two forms: one for nominative,
+accusative and vocative, the other for genitive and dative.</p>
+<p>Although Greek lost the original PIE locative case (“place where”)
+merging it into the dative, some local endings remain in early
+literature, especially in Homer. These endings are (cf. <span class="citation" data-cites="kaegi2007">(<strong>kaegi2007?</strong>)</span>, p.&nbsp;27):</p>
+<ul>
+<li>-θεν denoting whence: οἴκοθεν ‘from home’</li>
+<li>-ι and –θι in the singular, -σι in the plural denoting where: οἴκοι
+‘at home’</li>
+<li>-δε, -σε, -ζε denoting whither: οἴκαδε ‘home(ward)’</li>
+</ul>
+<h2 id="case-syncretism">Case syncretism</h2>
+<p>As per the definition of <span class="citation" data-cites="baerman2013">Baerman and Brown (2013)</span>, we can
+identify case syncretism when a single inflected form corresponds to two
+or more case functions. In Greek, this happens in certain instances both
+with core and non-core cases.</p>
+<p>In core cases (nominative and accusative), the neuter gender
+represents case syncretism in all nominal declensions and in singular
+and plural.</p>
+<ul>
+<li>τὸ δῶρον (tò dôron) <em>gift.sg</em> is a second declension neuter
+noun form <strong>sg.nom=sg.acc</strong></li>
+<li>τὰ δῶρα (tà dôra) <em>gift.pl</em> is a second declension neuter
+noun form <strong>pl.nom=pl.acc</strong></li>
+</ul>
+<p>The nominative and the vocative cases are very often the same form
+(and always in plural), see <a data-link-newtab="" href="/smyth/body.1_div1.2_div2.2.html" data-url="smyth/body.1_div1.2_div2.2.html">Smyth §201,
+§202, §204</a>.</p>
+<p>Occasionally other forms have developed so that they signify several
+cases, like in the Attic second declension words <strong>(Attic second
+declension is not used in papyri, though)</strong>. Example of this is ὁ
+νεώς (ho neṓs) <em>temple</em>, where</p>
+<ul>
+<li>νεώς <strong>sg.nom=pl.acc</strong></li>
+<li>νεῴ <strong>sg.dat=pl.nom=pl.voc</strong></li>
+</ul>
+<p>Moreover, note the forms νεώ (sg.gen) and νεῴς (pl.dat); the presence
+or absence of the iota adscript/subscript plays a vital role in
+identifying cases, and the iota adsript is not necessarily written in
+papyri, but is usually added as a subscript to the edition’s transcript.
+Iota subscript is never written in the papyri.</p>
+<p>Third declension (i/e and υ type) has the same form for plural
+nominative and accusative</p>
+<ul>
+<li>πόλεις (póleis) <em>city.pl</em> / πήχεις (pḗkheis)
+<em>forearm.pl</em> <strong>pl.nom=pl.acc</strong></li>
+</ul>
+<p>In these cases, the definite article or other modifiers may help to
+identify the intended case, if present: αἱ (hai.f.pl.nom), τάς
+(tás.f.pl.acc) and οἱ (hoi.m.pl.nom), τούς (toús.m.pl.acc).</p>
+<h2 id="example-from-papygreek-corpus">Example from PapyGreek
+corpus:</h2>
+<p>XXXX</p>
+<h2 id="discussion">Discussion</h2>
+<ul>
+<li>Many more clashing forms can be found in papyri due to pronunciation
+and misspellings (e.g.&nbsp;πόλεις/πόλις) and not writing out the iota
+subscript (sometimes adscript is used, also hypercorrectly).</li>
+<li>vocative in documentary papyri: still in use occasionally, but
+replaced by the nominative also (examples?)</li>
+<li>local endings not really used in documentary papyri? They are found,
+e.g.&nbsp;in p.babatha.5 word 2-18 (αὐτόθεν: from the same place) (examples
+of the others?)</li>
+<li>use of cases goes into new directions in time, e.g.&nbsp;the genitive and
+dative can replace one another (&gt; syntax, use of cases?)</li>
+<li>Merger of 1st and 3rd declension, e.g., was very significant for the
+development of the declension system in Medieval and Modern Greek (see
+Horrocks 2010, 120–121+)</li>
+</ul>
+<h2 id="queries">Queries</h2>
+<p>XXXX</p>
+<h2 id="link-to-relevant-passages-in-smyths-grammar">Link to relevant
+passages in Smyth’s Grammar:</h2>
+<ul>
+<li><a data-link-newtab="" href="/smyth/body.1_div1.2_div2.2.html" data-url="smyth/body.1_div1.2_div2.2.html">§196–204</a></li>
+<li><a data-link-newtab="" href="/smyth/body.1_div1.4_div2.14.html" data-url="smyth/body.1_div1.4_div2.14.html">§1020</a></li>
+</ul>
+<div id="refs" class="references csl-bib-body hanging-indent" role="list">
+<div id="ref-baerman2013" class="csl-entry" role="listitem">
+Baerman, Matthew, and Dunstan Brown. 2013. <span>“Case
+Syncretism.”</span> In <em>The World Atlas of Language Structures
+Online</em>, edited by Matthew S. Dryer and Martin Haspelmath. Leipzig:
+Max Planck Institute for Evolutionary Anthropology. <a href="https://wals.info/chapter/28">https://wals.info/chapter/28</a>.
+</div>
+</div>
