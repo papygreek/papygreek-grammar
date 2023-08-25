@@ -1,0 +1,78 @@
+<h1>2.3.2 2nd declension</h1>
+<h2 id="relevant-postag-codes">Relevant postag codes:</h2>
+<p><strong>Position and letters in postag string:</strong></p>
+<ol type="1">
+<li><p>part of speech: <strong>1st</strong>; letter: <strong>n</strong>
+(noun)</p></li>
+<li><p>number: <strong>3rd</strong>; letters: <strong>s</strong>
+(singular), <strong>d</strong> (dual), <strong>p</strong>
+(plural)</p></li>
+<li><p>gender: <strong>7th</strong>; letters: <strong>m</strong>
+(masculine), <strong>f</strong> (feminine), <strong>n</strong>
+(neuter)</p></li>
+<li><p>case: <strong>8th</strong>; letters: <strong>n</strong>
+(nominative), <strong>g</strong> (genitive), <strong>d</strong>
+(dative), <strong>a</strong> (accusative), <strong>v</strong>
+(vocative)</p></li>
+</ol>
+<p><strong>Example postag string:</strong> n-s—mn- (noun, singular,
+masculine, nominative)</p>
+<h2 id="summary">Summary</h2>
+<p>Nouns in AG are usually treated as inflecting in three
+<strong>declensions</strong>. The declensions have their own sets of
+endings.</p>
+<p>The second declension, also called as o-declension, includes mostly
+masculine words that end in the nominative singular in -ος or -ους and
+neuter nouns ending in -ον (or -ουν). For the 2nd declension tables in
+classical Attic Greek, endings here
+<a data-link-newtab="" href="/smyth/body.1_div1.2_div2.4.html+body.1_div1.2_div2.4_div3.2" data-url="smyth/body.1_div1.2_div2.4.html+body.1_div1.2_div2.4_div3.2">see Smyth
+§228</a>.</p>
+<h2 id="examples-of-inflection-from-papygreek-corpus">Examples of
+inflection from PapyGreek corpus</h2>
+<h3 id="nd-declension">2nd declension</h3>
+<ol type="1">
+<li>Masculine nouns ending in nominative singular in -ος or -ους,
+e.g.</li>
+</ol>
+<ul>
+<li>ὁ δοῦλος (ho doûlos) <em>slave</em> <a data-link-newtab="" href="/search/7" data-url="search/7">search all forms of
+this lemma</a></li>
+<li>ὁ νόος (ho nóos) <em>mind</em> (Attic contraction νοῦς)
+<a data-link-newtab="" href="/search/12" data-url="search/12">search all forms of this lemma</a></li>
+</ul>
+<ol start="2" type="1">
+<li>Feminine nouns ending in in nominative singular in -ος, e.g.</li>
+</ol>
+<ul>
+<li>ἡ νόσος (ho nósos) <em>disease</em> <a data-link-newtab="" href="/search/10" data-url="search/10">search all forms of
+this lemma</a></li>
+</ul>
+<ol start="3" type="1">
+<li>Neuter nouns ending in nominative singular in -ον (or -ουν),
+e.g.</li>
+</ol>
+<ul>
+<li>τὸ ἱμάτιον (tò himátion) <em>dress, cloth</em> <a data-link-newtab="" href="/search/11" data-url="search/11">search all
+forms of this lemma</a></li>
+</ul>
+<ol start="4" type="1">
+<li>Attic declension, e.g.&nbsp;ὁ νεώς (ho néōs) for ὁ ναός (ho nāos) or ὁ
+λεώς (ho leôs) for ὁ λαός (ho lāos)
+<a data-link-newtab="" href="/smyth/body.1_div1.2_div2.4.html+body.1_div1.2_div2.4_div3.4" data-url="smyth/body.1_div1.2_div2.4.html+body.1_div1.2_div2.4_div3.4">see
+Smyth</a>, was not adopted in the Koine (<span class="citation" data-cites="emde2019">Emde Boas et al. (2019)</span>), and does not
+appear in papyri</li>
+</ol>
+<ul>
+<li>ὁ ναός (ho nāos) <em>temple</em> <a data-link-newtab="" href="/search/13" data-url="search/13">search all forms of this
+lemma</a></li>
+<li>ὁ λαός (ho lāos) <em>people</em> <a data-link-newtab="" href="/search/14" data-url="search/14">search all forms of this
+lemma</a></li>
+</ul>
+<div id="refs" class="references csl-bib-body hanging-indent" role="list">
+<div id="ref-emde2019" class="csl-entry" role="listitem">
+Emde Boas, Evert van, Albert Rijksbaron, Luuk Huitink, and Mathieu de
+Bakker. 2019. <em>The Cambridge Grammar of Classical Greek</em>.
+Cambridge: Cambridge University Press. <a href="https://DOI: 10.1017/9781139027052">DOI:
+10.1017/9781139027052</a>.
+</div>
+</div>
