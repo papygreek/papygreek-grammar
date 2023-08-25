@@ -1,0 +1,69 @@
+<h1>3.3.4 Imperative</h1>
+<h2 id="relevant-postag-codes">Relevant postag codes:</h2>
+<p><strong>Position and letters in postag string:</strong></p>
+<ol type="1">
+<li><p>part of speech: <strong>1st</strong>; letter: <strong>v</strong>
+(verb)</p></li>
+<li><p>person: <strong>2nd</strong>; numbers: <strong>1</strong>,
+<strong>2</strong>, <strong>3</strong></p></li>
+<li><p>number: <strong>3rd</strong>; letters: <strong>s</strong>
+(singular), <strong>p</strong> (plural), <strong>d</strong>
+(dual)</p></li>
+<li><p>tense: <strong>4th</strong>; letters: <strong>p</strong>
+(present), <strong>i</strong> (imperfect), <strong>r</strong> (perfect),
+<strong>l</strong> (pluperfect), <strong>t</strong> (future perfect),
+<strong>f</strong> (future), <strong>a</strong> (aorist)</p></li>
+<li><p>mood: <strong>5th</strong>; letters: <strong>i</strong>
+(indicative), <strong>s</strong> (subjunctive), <strong>o</strong>
+(optative), <strong>n</strong> (infinitive), <strong>m</strong>
+(imperative), <strong>p</strong> (participle)</p></li>
+<li><p>voice: <strong>6th</strong>; letters: <strong>a</strong>
+(active), <strong>p</strong> (passive), <strong>m</strong> (middle),
+<strong>e</strong> (medio-passive)</p></li>
+</ol>
+<p><strong>Example postag string:</strong> v2spma— (verb, 2nd person,
+singular, present, imperative, active)</p>
+<h2 id="queries">Queries</h2>
+<ul>
+<li><p><a data-link-newtab="" href="/search/134" data-url="search/134">imperative, active present</a></p></li>
+<li><p><a data-link-newtab="" href="/search/135" data-url="search/135">imperative, active aorist</a></p></li>
+<li><p><a data-link-newtab="" href="/search/136" data-url="search/136">imperative, active perfect</a></p></li>
+<li><p><a data-link-newtab="" href="/search/137" data-url="search/137">imperative, middle present</a></p></li>
+<li><p><a data-link-newtab="" href="/search/138" data-url="search/138">imperative, middle aorist</a></p></li>
+<li><p><a data-link-newtab="" href="/search/139" data-url="search/139">imperative, middle perfect</a> (No hits.)</p></li>
+<li><p><a data-link-newtab="" href="/search/140" data-url="search/140">imperative, medio-passive present</a></p></li>
+<li><p><a data-link-newtab="" href="/search/141" data-url="search/141">imperative, medio-passive aorist</a></p></li>
+<li><p><a data-link-newtab="" href="/search/142" data-url="search/142">imperative, medio-passive perfect</a></p></li>
+<li><p><a data-link-newtab="" href="/search/143" data-url="search/143">imperative, passive present</a> (No hits.)</p></li>
+<li><p><a data-link-newtab="" href="/search/144" data-url="search/144">imperative, passive aorist</a></p></li>
+<li><p><a data-link-newtab="" href="/search/145" data-url="search/145">imperative, passive perfect</a> (No hits.)</p></li>
+<li><p><a data-link-newtab="" href="/search/146" data-url="search/146">imperative, second person singular</a></p></li>
+<li><p><a data-link-newtab="" href="/search/147" data-url="search/147">imperative, second person plural</a></p></li>
+<li><p><a data-link-newtab="" href="/search/148" data-url="search/148">imperative, third person singular</a></p></li>
+<li><p><a data-link-newtab="" href="/search/149" data-url="search/149">imperative, third person plural</a></p></li>
+</ul>
+<h2 id="summary">Summary</h2>
+<p>The imperative mood conveys a command or prohibition directed to the
+second or third person. It exists in all voices and in present and
+aorist tenses. The negative is μή.</p>
+<p>The present imperative is used to command someone to proceed (or not
+to proceed) with the action that they were already carrying out. The
+aorist imperative is used to command someone to complete the action.
+(Rijksbaron 2006, 44-5)</p>
+<h2 id="examples-of-imperative-mood-from-papygreek-corpus">Examples of
+imperative mood from PapyGreek corpus</h2>
+<ol type="1">
+<li>καὶ [τ]ὴν [ἐ]ξέδραν <strong>[σκεύ?]ασον</strong> καὶ τὸ τρίκλινον
+<strong>στρωθήτω</strong>, [καθ]ὼς Ἀπφὺς θελήση[ι] ἐκ[ε]ῖ γενέσ[]θαι, τὰ
+κρόκια καὶ τὰ ἱμάτια <strong>ἐκτίνασσε</strong>·<br>
+(kaì tḕn exédran <strong>skeúason</strong> kaì tò tríklinon
+<strong>strōthḗtō</strong>, kathṑs Apphùs thelḗsēi ekeî genésthai, tà
+kroḱia kaì tà himátia <strong>ektínasse</strong>:)<br>
+<em>And make the exedra ready and let the dining room be paved,
+according to the arragement Aphys wants; shake out the woollen cloths
+and clothes (…)</em><br>
+<a href="https://papygreek.com/text/33446">p.mil.vogl.2.77.</a>, 10-13
+(sent. 5), transl. Bagnall-Cribiore (2006) p.&nbsp;186.</li>
+</ol>
+<p></p><div style="height:300px; " data-treeid="1" class="sentence-tree tf-tree tf-result" data-json="eyJvayI6IHRydWUsICJyZXN1bHQiOiBbeyJpZCI6IDUxNzk0LCAibiI6IDEzLCAiaGVhZCI6ICIxNCIsICJmb3JtIjogIlx1MWYxMFx1MDNiYVtcdTAzYjVdXHUxZmQ2IiwgImluc2VydGlvbl9pZCI6IG51bGwsICJhcnRpZmljaWFsIjogbnVsbCwgInJlbGF0aW9uIjogIkFEViIsICJwb3N0YWciOiAiZC0tLS0tLS0tIiwgInNvcnRlcjEiOiAxMywgInNvcnRlcjIiOiAiIiwgImRlcHRoIjogNH0sIHsiaWQiOiA1MTc5NywgIm4iOiAxNiwgImhlYWQiOiAiMTciLCAiZm9ybSI6ICJcdTAzYzRcdTAzMjNcdTFmNzAiLCAiaW5zZXJ0aW9uX2lkIjogbnVsbCwgImFydGlmaWNpYWwiOiBudWxsLCAicmVsYXRpb24iOiAiQVRSIiwgInBvc3RhZyI6ICJsLXAtLS1uYS0iLCAic29ydGVyMSI6IDE2LCAic29ydGVyMiI6ICIiLCAiZGVwdGgiOiA0fSwgeyJpZCI6IDUxODAwLCAibiI6IDE5LCAiaGVhZCI6ICIyMCIsICJmb3JtIjogIlx1MDNjNFx1MWY3MCIsICJpbnNlcnRpb25faWQiOiBudWxsLCAiYXJ0aWZpY2lhbCI6IG51bGwsICJyZWxhdGlvbiI6ICJBVFIiLCAicG9zdGFnIjogImwtcC0tLW5hLSIsICJzb3J0ZXIxIjogMTksICJzb3J0ZXIyIjogIiIsICJkZXB0aCI6IDR9LCB7ImlkIjogNTE3ODMsICJuIjogMiwgImhlYWQiOiAiMyIsICJmb3JtIjogIltcdTAzYzRdXHUxZjc0XHUwM2JkIiwgImluc2VydGlvbl9pZCI6IG51bGwsICJhcnRpZmljaWFsIjogbnVsbCwgInJlbGF0aW9uIjogIkFUUiIsICJwb3N0YWciOiAibC1zLS0tZmEtIiwgInNvcnRlcjEiOiAyLCAic29ydGVyMiI6ICIiLCAiZGVwdGgiOiAzfSwgeyJpZCI6IDUxNzg3LCAibiI6IDYsICJoZWFkIjogIjciLCAiZm9ybSI6ICJcdTAzYzRcdTFmNzgiLCAiaW5zZXJ0aW9uX2lkIjogbnVsbCwgImFydGlmaWNpYWwiOiBudWxsLCAicmVsYXRpb24iOiAiQVRSIiwgInBvc3RhZyI6ICJsLXMtLS1ubi0iLCAic29ydGVyMSI6IDYsICJzb3J0ZXIyIjogIiIsICJkZXB0aCI6IDN9LCB7ImlkIjogNTE3OTEsICJuIjogMTAsICJoZWFkIjogIjEyIiwgImZvcm0iOiAiW1x1MDNiYVx1MDNiMVx1MDNiOF1cdTFmN2NcdTAzYzIiLCAiaW5zZXJ0aW9uX2lkIjogbnVsbCwgImFydGlmaWNpYWwiOiBudWxsLCAicmVsYXRpb24iOiAiQURWIiwgInBvc3RhZyI6ICJkLS0tLS0tLS0iLCAic29ydGVyMSI6IDEwLCAic29ydGVyMiI6ICIiLCAiZGVwdGgiOiAzfSwgeyJpZCI6IDUxNzkyLCAibiI6IDExLCAiaGVhZCI6ICIxMiIsICJmb3JtIjogIlx1MWYwOFx1MDNjMFx1MDNjNlx1MWY3YVx1MDNjMiIsICJpbnNlcnRpb25faWQiOiBudWxsLCAiYXJ0aWZpY2lhbCI6IG51bGwsICJyZWxhdGlvbiI6ICJTQkoiLCAicG9zdGFnIjogIm4tcy0tLW1uLSIsICJzb3J0ZXIxIjogMTEsICJzb3J0ZXIyIjogIiIsICJkZXB0aCI6IDN9LCB7ImlkIjogNTE3OTUsICJuIjogMTQsICJoZWFkIjogIjEyIiwgImZvcm0iOiAiXHUwM2IzXHUwM2I1XHUwM2JkXHUwM2FkXHUwM2MzXHUyOWQ5W1x1MjlkOF1cdTAzYjhcdTAzMjNcdTAzYjFcdTAzYjkiLCAiaW5zZXJ0aW9uX2lkIjogbnVsbCwgImFydGlmaWNpYWwiOiBudWxsLCAicmVsYXRpb24iOiAiT0JKIiwgInBvc3RhZyI6ICJ2LS1hbm0tLS0iLCAic29ydGVyMSI6IDE0LCAic29ydGVyMiI6ICIiLCAiZGVwdGgiOiAzfSwgeyJpZCI6IDUxNzk4LCAibiI6IDE3LCAiaGVhZCI6ICIxOCIsICJmb3JtIjogIlx1MDNiYVx1MDNjMVx1MDNjY1x1MDNiYVx1MDNiOVx1MDNiMSIsICJpbnNlcnRpb25faWQiOiBudWxsLCAiYXJ0aWZpY2lhbCI6IG51bGwsICJyZWxhdGlvbiI6ICJPQkpfQ08iLCAicG9zdGFnIjogIm4tcC0tLW5hLSIsICJzb3J0ZXIxIjogMTcsICJzb3J0ZXIyIjogIiIsICJkZXB0aCI6IDN9LCB7ImlkIjogNTE4MDEsICJuIjogMjAsICJoZWFkIjogIjE4IiwgImZvcm0iOiAiXHUxZjMxKFx1MDBhOClcdTAzYmNcdTAzYWNcdTAzYzRcdTAzYjlcdTAzYjEiLCAiaW5zZXJ0aW9uX2lkIjogbnVsbCwgImFydGlmaWNpYWwiOiBudWxsLCAicmVsYXRpb24iOiAiT0JKX0NPIiwgInBvc3RhZyI6ICJuLXAtLS1uYS0iLCAic29ydGVyMSI6IDIwLCAic29ydGVyMiI6ICIiLCAiZGVwdGgiOiAzfSwgeyJpZCI6IDUxNzg0LCAibiI6IDMsICJoZWFkIjogIjQiLCAiZm9ybSI6ICJbXHUxZjEwXVx1MDNiZVx1MDNhZFx1MDNiNFx1MDNjMVx1MDNiMVx1MDNiZCIsICJpbnNlcnRpb25faWQiOiBudWxsLCAiYXJ0aWZpY2lhbCI6IG51bGwsICJyZWxhdGlvbiI6ICJPQkoiLCAicG9zdGFnIjogIm4tcy0tLWZhLSIsICJzb3J0ZXIxIjogMywgInNvcnRlcjIiOiAiIiwgImRlcHRoIjogMn0sIHsiaWQiOiA1MTc4OCwgIm4iOiA3LCAiaGVhZCI6ICI4IiwgImZvcm0iOiAiXHUwM2M0XHUwM2MxXHUwM2FmXHUwM2JhXHUwM2JiXHUwM2I5XHUwM2JkXHUwM2JmXHUwM2JkIiwgImluc2VydGlvbl9pZCI6IG51bGwsICJhcnRpZmljaWFsIjogbnVsbCwgInJlbGF0aW9uIjogIlNCSiIsICJwb3N0YWciOiAiYS1zLS0tbm4tIiwgInNvcnRlcjEiOiA3LCAic29ydGVyMiI6ICIiLCAiZGVwdGgiOiAyfSwgeyJpZCI6IDUxNzkzLCAibiI6IDEyLCAiaGVhZCI6ICI4IiwgImZvcm0iOiAiXHUwM2I4XHUwM2I1XHUwM2JiXHUwM2FlXHUwM2MzXHUwMzIzXHUwM2I3XHUwMzIzW1x1MDNiOV0iLCAiaW5zZXJ0aW9uX2lkIjogbnVsbCwgImFydGlmaWNpYWwiOiBudWxsLCAicmVsYXRpb24iOiAiQURWIiwgInBvc3RhZyI6ICJ2M3Nhc2EtLS0iLCAic29ydGVyMSI6IDEyLCAic29ydGVyMiI6ICIiLCAiZGVwdGgiOiAyfSwgeyJpZCI6IDUxNzk5LCAibiI6IDE4LCAiaGVhZCI6ICIyMSIsICJmb3JtIjogIlx1MDNiYVx1MDNiMVx1MWY3NiIsICJpbnNlcnRpb25faWQiOiBudWxsLCAiYXJ0aWZpY2lhbCI6IG51bGwsICJyZWxhdGlvbiI6ICJDT09SRCIsICJwb3N0YWciOiAiYy0tLS0tLS0tIiwgInNvcnRlcjEiOiAxOCwgInNvcnRlcjIiOiAiIiwgImRlcHRoIjogMn0sIHsiaWQiOiA1MTc4MiwgIm4iOiAxLCAiaGVhZCI6ICI1IiwgImZvcm0iOiAiXHUwM2JhXHUwM2IxXHUxZjc2IiwgImluc2VydGlvbl9pZCI6IG51bGwsICJhcnRpZmljaWFsIjogbnVsbCwgInJlbGF0aW9uIjogIkF1eFkiLCAicG9zdGFnIjogImMtLS0tLS0tLSIsICJzb3J0ZXIxIjogMSwgInNvcnRlcjIiOiAiIiwgImRlcHRoIjogMX0sIHsiaWQiOiA1MTc4NSwgIm4iOiA0LCAiaGVhZCI6ICI1IiwgImZvcm0iOiAiW1x1MDNjM1x1MDNiYVx1MDNiNVx1MDNjZCg/KV1cdTAzYjFcdTAzYzNcdTAzYmZcdTAzYmQiLCAiaW5zZXJ0aW9uX2lkIjogbnVsbCwgImFydGlmaWNpYWwiOiBudWxsLCAicmVsYXRpb24iOiAiUFJFRF9DTyIsICJwb3N0YWciOiAidjJzYW1hLS0tIiwgInNvcnRlcjEiOiA0LCAic29ydGVyMiI6ICIiLCAiZGVwdGgiOiAxfSwgeyJpZCI6IDUxNzg5LCAibiI6IDgsICJoZWFkIjogIjUiLCAiZm9ybSI6ICJcdTAzYzNcdTAzYzRcdTAzYzFcdTAzYzlcdTAzYjhcdTAzYWVcdTAzYzRcdTAzYzkiLCAiaW5zZXJ0aW9uX2lkIjogbnVsbCwgImFydGlmaWNpYWwiOiBudWxsLCAicmVsYXRpb24iOiAiUFJFRF9DTyIsICJwb3N0YWciOiAidjNzYW1wLS0tIiwgInNvcnRlcjEiOiA4LCAic29ydGVyMiI6ICIiLCAiZGVwdGgiOiAxfSwgeyJpZCI6IDUxODAyLCAibiI6IDIxLCAiaGVhZCI6ICI1IiwgImZvcm0iOiAiXHUxZjEwXHUwM2JhXHUwM2M0XHUwM2FmXHUwM2JkXHUwM2IxXHUwM2MzfFx1MDNjM1x1MDNiNSIsICJpbnNlcnRpb25faWQiOiBudWxsLCAiYXJ0aWZpY2lhbCI6IG51bGwsICJyZWxhdGlvbiI6ICJQUkVEX0NPIiwgInBvc3RhZyI6ICJ2MnNwbWEtLS0iLCAic29ydGVyMSI6IDIxLCAic29ydGVyMiI6ICIiLCAiZGVwdGgiOiAxfSwgeyJpZCI6IDUxNzg2LCAibiI6IDUsICJoZWFkIjogIjAiLCAiZm9ybSI6ICJcdTAzYmFcdTAzYjFcdTFmNzYiLCAiaW5zZXJ0aW9uX2lkIjogbnVsbCwgImFydGlmaWNpYWwiOiBudWxsLCAicmVsYXRpb24iOiAiQ09PUkQiLCAicG9zdGFnIjogImMtLS0tLS0tLSIsICJzb3J0ZXIxIjogNSwgInNvcnRlcjIiOiAiIiwgImRlcHRoIjogMH0sIHsiaWQiOiA1MTc5MCwgIm4iOiA5LCAiaGVhZCI6ICIwIiwgImZvcm0iOiAiLCIsICJpbnNlcnRpb25faWQiOiBudWxsLCAiYXJ0aWZpY2lhbCI6IG51bGwsICJyZWxhdGlvbiI6ICJBdXhYIiwgInBvc3RhZyI6ICJ1LS0tLS0tLS0iLCAic29ydGVyMSI6IDksICJzb3J0ZXIyIjogIiIsICJkZXB0aCI6IDB9LCB7ImlkIjogNTE3OTYsICJuIjogMTUsICJoZWFkIjogIjAiLCAiZm9ybSI6ICIsIiwgImluc2VydGlvbl9pZCI6IG51bGwsICJhcnRpZmljaWFsIjogbnVsbCwgInJlbGF0aW9uIjogIkF1eFgiLCAicG9zdGFnIjogInUtLS0tLS0tLSIsICJzb3J0ZXIxIjogMTUsICJzb3J0ZXIyIjogIiIsICJkZXB0aCI6IDB9LCB7ImlkIjogNTE4MDMsICJuIjogMjIsICJoZWFkIjogIjAiLCAiZm9ybSI6ICJcdTAwYjciLCAiaW5zZXJ0aW9uX2lkIjogbnVsbCwgImFydGlmaWNpYWwiOiBudWxsLCAicmVsYXRpb24iOiAiQXV4SyIsICJwb3N0YWciOiAidS0tLS0tLS0tIiwgInNvcnRlcjEiOiAyMiwgInNvcnRlcjIiOiAiIiwgImRlcHRoIjogMH1dLCAiaGlnaGxpZ2h0X25vZGVzIjogIjQsOCwyMSIsICJoaWdobGlnaHRfZWRnZXMiOiAiIiwgImlkIjogMX0="></div><p></p>
+<h2 id="discussion">Discussion</h2>
