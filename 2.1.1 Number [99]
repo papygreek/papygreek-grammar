@@ -1,0 +1,40 @@
+<h1>2.1.1 Number</h1>
+<h2 id="in-progress">In progress</h2>
+<h2 id="relevant-postag-code">Relevant postag code</h2>
+<p><strong>Position in postag string: 3rd</strong></p>
+<p>letters: <strong>s</strong> (singular), <strong>d</strong> (dual),
+<strong>p</strong> (plural)</p>
+<p>Example: n-<strong>s</strong>—mn- (noun, <strong>singular</strong>,
+masculine, nominative)</p>
+<h2 id="summary">Summary</h2>
+<p>See <span class="citation" data-cites="viti2013">Viti
+(2013)</span></p>
+<p>A good example of how dual was <em>not</em> used in the papyri even
+when the semantics would be there (both the number two as well as the
+word ‘pair’), is :</p>
+<p>εἶπο&lt;ν&gt; αὐτῶι δός μοι <strong>τὰ δύο ζεύκη</strong> τῶν
+ἄρτων.<br>
+(eîpon autôi dós moi <strong>tà dúo zeúkē</strong> tôn ártōn)<br>
+<em>I said to him ‘Give me the two pairs of loaves of bread’</em><br>
+<a href="https://papygreek.com/text/316521">O.Krok.2.184</a>, sentence 9
+(transl. A. Bülow-Jacobsen)</p>
+<p></p><div style="height:300px; " data-treeid="1" class="sentence-tree tf-tree tf-result" data-json="eyJvayI6IHRydWUsICJyZXN1bHQiOiBbeyJpZCI6IDgzMDc5LCAibiI6IDgsICJoZWFkIjogIjkiLCAiZm9ybSI6ICJcdTAzYzRcdTFmZjZcdTAzYmQiLCAiaW5zZXJ0aW9uX2lkIjogbnVsbCwgImFydGlmaWNpYWwiOiBudWxsLCAicmVsYXRpb24iOiAiQVRSIiwgInBvc3RhZyI6ICJsLXAtLS1tZy0iLCAic29ydGVyMSI6IDgsICJzb3J0ZXIyIjogIiIsICJkZXB0aCI6IDR9LCB7ImlkIjogODMwNzYsICJuIjogNSwgImhlYWQiOiAiNyIsICJmb3JtIjogIlx1MDNjNFx1MWY3MCIsICJpbnNlcnRpb25faWQiOiBudWxsLCAiYXJ0aWZpY2lhbCI6IG51bGwsICJyZWxhdGlvbiI6ICJBVFIiLCAicG9zdGFnIjogImwtcC0tLW5hLSIsICJzb3J0ZXIxIjogNSwgInNvcnRlcjIiOiAiIiwgImRlcHRoIjogM30sIHsiaWQiOiA4MzA3NywgIm4iOiA2LCAiaGVhZCI6ICI3IiwgImZvcm0iOiAiXHUwM2I0XHUwM2NkXHUwM2JmIiwgImluc2VydGlvbl9pZCI6IG51bGwsICJhcnRpZmljaWFsIjogbnVsbCwgInJlbGF0aW9uIjogIkFUUiIsICJwb3N0YWciOiAibS1kLS0tX18tIiwgInNvcnRlcjEiOiA2LCAic29ydGVyMiI6ICIiLCAiZGVwdGgiOiAzfSwgeyJpZCI6IDgzMDgwLCAibiI6IDksICJoZWFkIjogIjciLCAiZm9ybSI6ICJcdTFmMDRcdTAzYzFcdTAzYzRcdTAzYzlcdTAzYmRcdTIwMWQiLCAiaW5zZXJ0aW9uX2lkIjogbnVsbCwgImFydGlmaWNpYWwiOiBudWxsLCAicmVsYXRpb24iOiAiQVRSIiwgInBvc3RhZyI6ICJuLXAtLS1tZy0iLCAic29ydGVyMSI6IDksICJzb3J0ZXIyIjogIiIsICJkZXB0aCI6IDN9LCB7ImlkIjogODMwNzUsICJuIjogNCwgImhlYWQiOiAiMyIsICJmb3JtIjogIlx1MDNiY1x1MDNiZlx1MDNiOSIsICJpbnNlcnRpb25faWQiOiBudWxsLCAiYXJ0aWZpY2lhbCI6IG51bGwsICJyZWxhdGlvbiI6ICJPQkoiLCAicG9zdGFnIjogInAxcy0tLW1kLSIsICJzb3J0ZXIxIjogNCwgInNvcnRlcjIiOiAiIiwgImRlcHRoIjogMn0sIHsiaWQiOiA4MzA3OCwgIm4iOiA3LCAiaGVhZCI6ICIzIiwgImZvcm0iOiAiXHUwM2I2XHUwM2I1XHUwM2NkXHUwM2JhXHUwM2I3IiwgImluc2VydGlvbl9pZCI6IG51bGwsICJhcnRpZmljaWFsIjogbnVsbCwgInJlbGF0aW9uIjogIk9CSiIsICJwb3N0YWciOiAibi1wLS0tbmEtIiwgInNvcnRlcjEiOiA3LCAic29ydGVyMiI6ICIiLCAiZGVwdGgiOiAyfSwgeyJpZCI6IDgzMDczLCAibiI6IDIsICJoZWFkIjogIjEiLCAiZm9ybSI6ICJcdTAzYjFcdTFmNTBcdTAzYzRcdTFmZjZcdTAzYjkiLCAiaW5zZXJ0aW9uX2lkIjogbnVsbCwgImFydGlmaWNpYWwiOiBudWxsLCAicmVsYXRpb24iOiAiT0JKIiwgInBvc3RhZyI6ICJwLXMtLS1uZC0iLCAic29ydGVyMSI6IDIsICJzb3J0ZXIyIjogIiIsICJkZXB0aCI6IDF9LCB7ImlkIjogODMwNzQsICJuIjogMywgImhlYWQiOiAiMSIsICJmb3JtIjogIlx1MjAxY1x1MDNiNFx1MDNjY1x1MDNjMiIsICJpbnNlcnRpb25faWQiOiBudWxsLCAiYXJ0aWZpY2lhbCI6IG51bGwsICJyZWxhdGlvbiI6ICJFeEQiLCAicG9zdGFnIjogInYyc2FtYS0tLSIsICJzb3J0ZXIxIjogMywgInNvcnRlcjIiOiAiIiwgImRlcHRoIjogMX0sIHsiaWQiOiA4MzA3MiwgIm4iOiAxLCAiaGVhZCI6ICIwIiwgImZvcm0iOiAiXHUwM2I1XHUxZjM2XHUwM2MwXHUwM2JmPFx1MDNiZD4iLCAiaW5zZXJ0aW9uX2lkIjogbnVsbCwgImFydGlmaWNpYWwiOiBudWxsLCAicmVsYXRpb24iOiAiUFJFRCIsICJwb3N0YWciOiAidjFzYWlhLS0tIiwgInNvcnRlcjEiOiAxLCAic29ydGVyMiI6ICIiLCAiZGVwdGgiOiAwfSwgeyJpZCI6IDgzMDgxLCAibiI6IDEwLCAiaGVhZCI6ICIwIiwgImZvcm0iOiAiLiIsICJpbnNlcnRpb25faWQiOiBudWxsLCAiYXJ0aWZpY2lhbCI6IG51bGwsICJyZWxhdGlvbiI6ICJBdXhLIiwgInBvc3RhZyI6ICJ1LS0tLS0tLS0iLCAic29ydGVyMSI6IDEwLCAic29ydGVyMiI6ICIiLCAiZGVwdGgiOiAwfV0sICJoaWdobGlnaHRfbm9kZXMiOiAiNSw2LDciLCAiaGlnaGxpZ2h0X2VkZ2VzIjogIiIsICJpZCI6IDF9"></div><p></p>
+<p>Here the word ζεῦγος (zeûgos) <em>pair</em> is a neuter declined in
+the third declension (gen. ζεύγεος), from which the dual nom+acc form
+would end in -ει (-ei). The ending used in the the text is however the
+plural nom+acc form -η &lt;-εα (-ē &lt; -ea), and even if these two
+endings could well be confused phonologically, the definite article
+reveals that the plural neuter form was intended (plural τά (tá), dual
+τώ (tṓ)).</p>
+<h2 id="queries">Queries</h2>
+<ul>
+<li><a data-link-newtab="" href="/search/150" data-url="search/150">Dual</a> (NB. erroneous dual annotations are in
+non-finalized texts)</li>
+</ul>
+<div id="refs" class="references csl-bib-body hanging-indent" role="list">
+<div id="ref-viti2013" class="csl-entry" role="listitem">
+Viti, Carlotta. 2013. <span>“Number.”</span> In <em>Encyclopedia of
+Ancient Greek Language and Linguistics</em>, edited by Georgios K.
+Giannakis. Brill. <a href="http://dx.doi.org/10.1163/2214-448X_eagll_COM_00000255">http://dx.doi.org/10.1163/2214-448X_eagll_COM_00000255</a>.
+</div>
+</div>
