@@ -27,25 +27,6 @@ treebanked texts.</p>
 corpus:</h2>
 <p>TBA</p>
 <h2 id="discussion">Discussion</h2>
-<h3 id="types-of-genitive">Types of genitive</h3>
-<p>The adnominal genitive is a genitive that modifies a noun. Its
-syntactic function could be
-(<a data-link-newtab="" href="/smyth/body.1_div1.4_div2.18.html+body.1_div1.4_div2.18_div3.6" data-url="smyth/body.1_div1.4_div2.18.html+body.1_div1.4_div2.18_div3.6">Smyth
-§1290</a>):</p>
-<ul>
-<li>Genitive of possession or belonging;</li>
-<li>Genitive of the divided whole (partitive genitive);</li>
-<li>Genitive of quality;</li>
-<li>Genitive of explanation (appositive genitive);</li>
-<li>Genitive of material or contents;</li>
-<li>Genitive of measure;</li>
-<li>Subjective and objective genitive;</li>
-<li>Genitive of value.</li>
-</ul>
-<p>The specific syntactic function of the genitive is not marked in the
-treebanking framework employed by the PapyGreek project; all adnominal
-genitives are placed under the noun which they are modifying and are
-labeled with the syntactic label ATR.</p>
 <p>In linguistic typology, a distinction is kept between lexical
 genitives (with a noun) and grammatical genitives (with a person-marked
 pronoun or adjective). The discussion below concerns lexical
