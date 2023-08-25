@@ -1,0 +1,34 @@
+<h1>3.2.3 Medio-passive</h1>
+<h2 id="sari-is-editing">Sari is editing</h2>
+<h2 id="relevant-postag-codes">Relevant postag codes:</h2>
+<p><strong>Position and letters in postag string:</strong></p>
+<ol type="1">
+<li><p>part of speech: <strong>1st</strong>; letter: <strong>v</strong>
+(verb)</p></li>
+<li><p>person: <strong>2nd</strong>; numbers: <strong>1</strong>,
+<strong>2</strong>, <strong>3</strong></p></li>
+<li><p>number: <strong>3rd</strong>; letters: <strong>s</strong>
+(singular), <strong>p</strong> (plural), <strong>d</strong>
+(dual)</p></li>
+<li><p>tense: <strong>4th</strong>; letters: <strong>p</strong>
+(present), <strong>i</strong> (imperfect), <strong>r</strong> (perfect),
+<strong>l</strong> (pluperfect), <strong>t</strong> (future perfect),
+<strong>f</strong> (future), <strong>a</strong> (aorist)</p></li>
+<li><p>mood: <strong>5th</strong>; letters: <strong>i</strong>
+(indicative), <strong>s</strong> (subjunctive), <strong>o</strong>
+(optative), <strong>n</strong> (infinitive), <strong>m</strong>
+(imperative), <strong>p</strong> (participle)</p></li>
+<li><p>voice: <strong>6th</strong>; letters: <strong>a</strong>
+(active), <strong>p</strong> (passive), <strong>m</strong> (middle),
+<strong>e</strong> (medio-passive)</p></li>
+</ol>
+<p><strong>Example postag string:</strong> v3paim— (verb, 3rd person,
+plural, aorist, indicative, middle)</p>
+<h2 id="summary">Summary</h2>
+<h2 id="queries">Queries</h2>
+<ul>
+<li><a data-link-newtab="" href="/search/160" data-url="search/160">All medio-passive verb forms</a></li>
+</ul>
+<h2 id="examples-of-passive-voice-from-papygreek-corpus">Examples of
+passive voice from PapyGreek corpus</h2>
+<h2 id="discussion">Discussion</h2>
