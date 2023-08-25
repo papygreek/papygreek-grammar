@@ -2,7 +2,7 @@
 <h2 id="relevant-postag-codes">Relevant postag codes:</h2>
 <p><strong>Position and letters in postag string:</strong> 1. part of
 speech: <strong>1st</strong>; letter: <strong>v</strong> (verb)</p>
-<ol type="1" start="2">
+<ol start="2" type="1">
 <li><p>person: <strong>2nd</strong>; numbers: <strong>1</strong>,
 <strong>2</strong>, <strong>3</strong></p></li>
 <li><p>number: <strong>3rd</strong>; letters: <strong>s</strong>
