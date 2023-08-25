@@ -1,0 +1,64 @@
+<h1>2.3 Nouns</h1>
+<p>Status: <em>draft</em></p>
+<h2 id="relevant-postag-codes">Relevant postag codes:</h2>
+<p><strong>Position and letters in postag string:</strong></p>
+<ol type="1">
+<li><p>part of speech: <strong>1st</strong>; letter: <strong>n</strong>
+(noun)</p></li>
+<li><p>number: <strong>3rd</strong>; letters: <strong>s</strong>
+(singular), <strong>d</strong> (dual), <strong>p</strong>
+(plural)</p></li>
+<li><p>gender: <strong>7th</strong>; letters: <strong>m</strong>
+(masculine), <strong>f</strong> (feminine), <strong>n</strong>
+(neuter)</p></li>
+<li><p>case: <strong>8th</strong>; letters: <strong>n</strong>
+(nominative), <strong>g</strong> (genitive), <strong>d</strong>
+(dative), <strong>a</strong> (accusative), <strong>v</strong>
+(vocative)</p></li>
+</ol>
+<p><strong>Example postag string:</strong> n-s—mn- (noun, singular,
+masculine, nominative)</p>
+<h2 id="summary">Summary</h2>
+<p>Nouns in AG are usually treated as inflecting in three
+<strong>declensions</strong>. The declensions have their own sets of
+endings.</p>
+<ol type="1">
+<li>1st declension (a-declension)
+<a data-link-newtab="" href="/smyth/body.1_div1.2_div2.4.html+body.1_div1.2_div2.4_div3.1" data-url="smyth/body.1_div1.2_div2.4.html+body.1_div1.2_div2.4_div3.1">see Smyth
+§211ff.</a></li>
+<li>2nd declension (o-declension)
+<a data-link-newtab="" href="/smyth/body.1_div1.2_div2.4.html+body.1_div1.2_div2.4_div3.2" data-url="smyth/body.1_div1.2_div2.4.html+body.1_div1.2_div2.4_div3.2">see Smyth
+§</a></li>
+<li>3rd declension (stem ending in a consonant or ι or υ (or semivowels
+y or ϝ))
+<a data-link-newtab="" href="/smyth/body.1_div1.2_div2.4.html+body.1_div1.2_div2.4_div3.5" data-url="smyth/body.1_div1.2_div2.4.html+body.1_div1.2_div2.4_div3.5">see
+Smyth</a></li>
+</ol>
+<p>However, in postclassical Greek the noun declension underwent various
+changes (e.g.&nbsp;gradual merger of masculine and feminine nouns of the
+first and third declensions and a new oxytone masculine declension in
+-ᾶς <strong>[XXXsiis eihän tuo ole oxytone vaan
+perispomenon…])</strong>. Therefore, for example the Cambridge Grammar
+of Medieval and Early Modern Greek has chosen to present noun inflection
+with different paradigms closer to Standard Modern Greek grammars (<span class="citation" data-cites="holton2019">Holton et al. (2019)</span> II
+253–254). These changes were caused by changes in pronunciation and
+e.g.&nbsp;the loss of vowel length distinction (see <a href="/grammar/7" data-link="" data-url="grammar/7">1.2</a> XXX in
+Phonology) and for this reason the papyri are an important testimony for
+the timeline of the changes appearing in texts of different registers.
+The written standard for the most part still appears as trying to follow
+the CG declension, and we will present our material following the three
+declensions familiar from the school grammars, but discussing the
+possible markers of change visible in papyri.</p>
+<p><strong>tulisiko haut erikseen jokaisesta sijamuodosta?</strong></p>
+<h2 id="discussion">Discussion</h2>
+<ul>
+<li>How is the nominal morphology in Egyptian different from Greek and
+how are Egyptian words integrated in Greek papyri?</li>
+</ul>
+<div id="refs" class="references csl-bib-body hanging-indent" role="list">
+<div id="ref-holton2019" class="csl-entry" role="listitem">
+Holton, David, Geoffrey C. Horrocks, Marjolijne Janssen, Tina Lentarē,
+Iō Manōlessou, and Notis Toufexis. 2019. <em>The Cambridge Grammar of
+Medieval and Early Modern Greek</em>. <a href="https://www.worldcat.org/title/1025407451">https://www.worldcat.org/title/1025407451</a>.
+</div>
+</div>
