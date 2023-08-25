@@ -1,0 +1,73 @@
+<h1>2.3.1 1st declension</h1>
+<p>Status: <em>draft</em></p>
+<h2 id="relevant-postag-codes">Relevant postag codes:</h2>
+<p><strong>Position and letters in postag string:</strong></p>
+<ol type="1">
+<li><p>part of speech: <strong>1st</strong>; letter: <strong>n</strong>
+(noun)</p></li>
+<li><p>number: <strong>3rd</strong>; letters: <strong>s</strong>
+(singular), <strong>d</strong> (dual), <strong>p</strong>
+(plural)</p></li>
+<li><p>gender: <strong>7th</strong>; letters: <strong>m</strong>
+(masculine), <strong>f</strong> (feminine), <strong>n</strong>
+(neuter)</p></li>
+<li><p>case: <strong>8th</strong>; letters: <strong>n</strong>
+(nominative), <strong>g</strong> (genitive), <strong>d</strong>
+(dative), <strong>a</strong> (accusative), <strong>v</strong>
+(vocative)</p></li>
+</ol>
+<p><strong>Example postag string:</strong> n-s—fn- (noun, singular,
+feminine, nominative)</p>
+<h2 id="summary">Summary</h2>
+<p>Nouns in AG are usually treated as inflecting in three
+<strong>declensions</strong>. The declensions have their own sets of
+endings.</p>
+<p>The first declension (also called as a-declension) includes mostly
+feminine nouns that end in the nominative singular in a long -η/-ᾱ, or
+in a short -ᾰ. It also contains a group of masculine nouns with a
+nominative singular ending in -ης/-ᾱς. For the 1st declension tables in
+classical Attic Greek
+<a data-link-newtab="" href="/smyth/body.1_div1.2_div2.4.html+body.1_div1.2_div2.4_div3.1" data-url="smyth/body.1_div1.2_div2.4.html+body.1_div1.2_div2.4_div3.1">see Smyth
+§211</a>.</p>
+<h2 id="examples-of-inflection-from-papygreek-corpus">Examples of
+inflection from PapyGreek corpus</h2>
+<h3 id="st-declension">1st declension</h3>
+<ol type="1">
+<li>Feminine nouns, nominative singular ending in a long -η/-ᾱ,
+e.g.:</li>
+</ol>
+<ul>
+<li>ἡ τύχη (hē túkhē) <em>fate</em> <a data-link-newtab="" href="/search/3" data-url="search/3">search all forms of this
+lemma</a></li>
+<li>ἡ χώρᾱ (hē khōrā) <em>land</em> <a data-link-newtab="" href="/search/4" data-url="search/4">search all forms of this
+lemma</a></li>
+</ul>
+<ol start="2" type="1">
+<li>Feminine nouns, nominative singular ending in a short ᾰ, e.g.:</li>
+</ol>
+<ul>
+<li>ἡ διάνοιᾰ (hē diánoia) <em>thought</em></li>
+</ul>
+<ol start="3" type="1">
+<li>Masculine nouns, with a nominative singular ending in -ης/-ᾱς,
+e.g.:</li>
+</ol>
+<ul>
+<li>ὁ δικαστής (ho dikastḗs) <em>judge</em> <a data-link-newtab="" href="/search/20" data-url="search/20">search all forms
+of this lemma</a></li>
+</ul>
+<ol start="4" type="1">
+<li>Exceptions mentioned in grammars, due to contracted forms, e.g</li>
+</ol>
+<ul>
+<li>ἡ μνᾶ (hē mnâ) <em>mina</em> <a data-link-newtab="" href="/search/5" data-url="search/5">search all forms of this
+lemma</a></li>
+<li>ὁ Βορρᾶς / Βορέας (ho borrâs/boréas) <em>north, north wind</em>
+<a data-link-newtab="" href="/search/6" data-url="search/6">search all forms of this lemma</a></li>
+</ul>
+<h2 id="discussion">Discussion</h2>
+<ul>
+<li>group 3 is a large group in papyri due to many personal names, but
+proper names in -ης may also belong to the third declension!
+<strong>(own section on declension of personal names?)</strong></li>
+</ul>
