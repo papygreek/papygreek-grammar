@@ -4,7 +4,7 @@ can be understood from the context. In the literary treebanked corpus,
 however, the number of sentences in which the subject is explicitly
 mentioned is higher than the number of sentences where it has been
 omitted (60% vs.&nbsp;40%). In the PapyGreek corpus, sentences with
-explicitly mentioned SBJ are far fewer - only 23% of all instances. In
+explicitly mentioned SBJ are far fewer - only 23% of all sentences. In
 Duke-nlp the ratio is also in favour of omitting the subject.</p>
 <p>When the subject is present in the sentence, it is nearly twice as
-common for it to be placed before than after the verb.</p>
+common for it to be placed before than after the verb: *:search-</p>
