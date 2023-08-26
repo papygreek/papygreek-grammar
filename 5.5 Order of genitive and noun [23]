@@ -64,12 +64,18 @@ of the np-head and the adnominal genitive</h3>
 <h3 id="syntactic-function-of-the-genitive">Syntactic function of the
 genitive</h3>
 <p>In Literature, the syntactic function of the genitive is influential
-for its position in the NP. When the genitive is argumental (objective
-or subjective), the likelihood of it appearing in internal position
-(between the article and the np-head) is much higher<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a>
-than if it is partitive or possessive.<a href="#fn2" class="footnote-ref" id="fnref2" role="doc-noteref"><sup>2</sup></a> In
-PapyGreek, however, argumental genitives display no such preference, and
-tend to be most often postposed.</p>
+for its position in the NP, as presented in earlier studies on the noun
+phrase <span class="citation" data-cites="manolessou2000">(Manolessou
+2000)</span> and confirmed by an investigation of the literary
+treebanked corpus. When the genitive is argumental (objective or
+subjective), the likelihood of it appearing in internal position
+(between the article and the np-head) is much higher than if it is
+partitive or possessive. In the documentary texts in the PapyGreek
+corpus, however, argumental genitives display no such preference, and
+tend to be most often postposed:</p>
+<ol type="1">
+<li></li>
+</ol>
 <h3 id="variety-of-lemmata-participating-in-nps-with-adnominal-genitives">Variety
 of lemmata participating in NPs with adnominal genitives</h3>
 <p>Due to the size of our corpus and the specificity of topics covered
@@ -86,9 +92,9 @@ PapyGreek, have almost exclusively postposed genitives.</p>
 <p>In Literature, the definiteness of the genitive plays a significant
 role for its position in the NP. Non-articular genitives are more often
 preposed than postposed, while articular genitives appear more often
-after their governing noun.<a href="#fn3" class="footnote-ref" id="fnref3" role="doc-noteref"><sup>3</sup></a> On the contrary, in
+after their governing noun.<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a> On the contrary, in
 papyri there is no notable difference between the preferred placement of
-articular and non-articular genitives.<a href="#fn4" class="footnote-ref" id="fnref4" role="doc-noteref"><sup>4</sup></a></p>
+articular and non-articular genitives.<a href="#fn2" class="footnote-ref" id="fnref2" role="doc-noteref"><sup>2</sup></a></p>
 <h3 id="syllable-heaviness">Syllable heaviness</h3>
 <p>In literary Greek there is an observable preference to put genitives
 that are lighter (i.e.&nbsp;have fewer syllables) than their governing noun
@@ -106,25 +112,25 @@ chapter:</h2>
 passages in Smyth’s Grammar:</h2>
 <p>§1290 Genitive (The Genitive Proper with Nouns (Adnominal
 Genitive))</p>
+<div id="refs" class="references csl-bib-body hanging-indent" role="list">
+<div id="ref-manolessou2000" class="csl-entry" role="listitem">
+Manolessou, Io. 2000. <em>Greek Noun Phrase Structure: A Study in
+Syntactic Evolution</em>.
+</div>
+</div>
 <section id="footnotes" class="footnotes footnotes-end-of-document" role="doc-endnotes">
 <hr>
 <ol>
-<li id="fn1"><p>Argumental: 8% preposed, 48% internal, 44% postposed;
-partitive: 6% preposed, 29% internal, 65% postposed; possessive: 11%
-preposed, 37% internal, 51% postposed.<a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
-<li id="fn2"><p>The syntactic function of the genitive has been
-annotated programmatically based on features of the np-head - see
-Yordanova, forthcoming.<a href="#fnref2" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
-<li id="fn3"><p>In Prose, in non-articular phrases, when the genitive is
+<li id="fn1"><p>In Prose, in non-articular phrases, when the genitive is
 non-articular, the ratio is 55% preposed, 45% postposed; when it is
 articular, the ratio changes to 29% preposed and 72% postposed. In
 articular phrases the numbers for non-articular genitives are 18%
 preposed, 46% internal, 36% postposed, and for articular genitives they
-are 10% preposed, 38% internal, and 52% postposed.<a href="#fnref3" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
-<li id="fn4"><p>In non-articular phrases: 29% preposed and 71% postposed
+are 10% preposed, 38% internal, and 52% postposed.<a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn2"><p>In non-articular phrases: 29% preposed and 71% postposed
 non-articular genitives vs.&nbsp;23% preposed and 77% postposed genitives; in
 articular phrases: 4% preposed, 18% internal, 78% postposed
 non-articular genitives vs.&nbsp;3% preposed, 17% internal and 80% postposed
-articular genitives.<a href="#fnref4" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+articular genitives.<a href="#fnref2" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
 </ol>
 </section>
