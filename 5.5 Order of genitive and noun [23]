@@ -21,9 +21,9 @@ postposition of the genitive than what is observed in treebanked
 literary texts.</p>
 <h2 id="discussion">Discussion</h2>
 <p>In linguistic typology, a distinction is kept between lexical
-genitives (with a noun) and grammatical genitives (with a person-marked
-pronoun or adjective). The discussion below concerns lexical genitives
-with heads that are nouns and not proper names.</p>
+genitives - those with a noun - and grammatical genitives - those with a
+person-marked pronoun or adjective (@). The discussion below concerns
+lexical genitives with heads that are nouns and not proper names.</p>
 <p>In addition to pragmatic factors, which cannot be programmatically
 queried from the treebanked data, the presence of other modifiers in the
 NP, the semantics of the np-head and the genitive, the syntactic
