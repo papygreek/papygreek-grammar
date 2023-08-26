@@ -1,0 +1,109 @@
+<h1>5.8 Order of prepositional phrase and noun</h1>
+<h2 id="relevant-postag-codes-syntactic-relation-labels">Relevant postag
+codes / syntactic relation labels</h2>
+<p><strong>Syntactic label:</strong> A prepositional phrase modifying a
+substantive is placed as its dependent. The preposition receives the
+AuxP label and the phrase it introduces is annotated as ATR (ATR_CO if
+in participating in coordination).</p>
+<p><strong>Example:</strong></p>
+<ol type="1">
+<li>πέπομφα{ι} δέ σοι τὴν καταγραφὴν <strong>τοῦ <em>ἐν ἁλὶ</em>
+χωρίου</strong> καὶ τὸν τοῦ βασιλικοῦ γραμματέως σχοινισμόν·<br>
+pépomphai dé soi tḕn katagraphḕn <strong>toû <em>en halì</em>
+khōríou</strong> kaì tòn toû basilikoû grammatéōs skhoinismón<br>
+<em>I have sent you the register of the land damaged by salt and the
+royal scribe’s survey report.</em><br>
+<a href="https://papygreek.com/text/1053">BGU.16.2631</a>, 1-3 (sent.
+8), transl. Brashear (1995) p.&nbsp;127</li>
+</ol>
+<p></p><div style="height:300px; " data-treeid="1" class="sentence-tree tf-tree tf-result" data-json="eyJvayI6IHRydWUsICJyZXN1bHQiOiBbeyJpZCI6IDM2NjMsICJuIjogOCwgImhlYWQiOiAiNyIsICJmb3JtIjogIlx1MWYwMVx1MDNiYlx1MWY3YSIsICJpbnNlcnRpb25faWQiOiBudWxsLCAiYXJ0aWZpY2lhbCI6IG51bGwsICJyZWxhdGlvbiI6ICJBVFIiLCAicG9zdGFnIjogIm4tcy0tLW1kLSIsICJzb3J0ZXIxIjogOCwgInNvcnRlcjIiOiAiIiwgImRlcHRoIjogNn0sIHsiaWQiOiAzNjYxLCAibiI6IDYsICJoZWFkIjogIjkiLCAiZm9ybSI6ICJcdTAzYzRcdTAzYmZcdTFmZTYiLCAiaW5zZXJ0aW9uX2lkIjogbnVsbCwgImFydGlmaWNpYWwiOiBudWxsLCAicmVsYXRpb24iOiAiQVRSIiwgInBvc3RhZyI6ICJsLXMtLS1uZy0iLCAic29ydGVyMSI6IDYsICJzb3J0ZXIyIjogIiIsICJkZXB0aCI6IDV9LCB7ImlkIjogMzY2MiwgIm4iOiA3LCAiaGVhZCI6ICI5IiwgImZvcm0iOiAiXHUxZjEwXHUwM2JkIiwgImluc2VydGlvbl9pZCI6IG51bGwsICJhcnRpZmljaWFsIjogbnVsbCwgInJlbGF0aW9uIjogIkF1eFAiLCAicG9zdGFnIjogInItLS0tLS0tLSIsICJzb3J0ZXIxIjogNywgInNvcnRlcjIiOiAiIiwgImRlcHRoIjogNX0sIHsiaWQiOiAzNjY3LCAibiI6IDEyLCAiaGVhZCI6ICIxNCIsICJmb3JtIjogIlx1MDNjNFx1MDNiZlx1MWZlNiIsICJpbnNlcnRpb25faWQiOiBudWxsLCAiYXJ0aWZpY2lhbCI6IG51bGwsICJyZWxhdGlvbiI6ICJBVFIiLCAicG9zdGFnIjogImwtcy0tLW1nLSIsICJzb3J0ZXIxIjogMTIsICJzb3J0ZXIyIjogIiIsICJkZXB0aCI6IDV9LCB7ImlkIjogMzY2OCwgIm4iOiAxMywgImhlYWQiOiAiMTQiLCAiZm9ybSI6ICIoXHUwM2IyXHUwM2IxXHUwM2MzXHUwM2I5XHUwM2JiXHUwM2I5XHUwM2JhKFx1MDNiZlx1MWZlNikpIiwgImluc2VydGlvbl9pZCI6IG51bGwsICJhcnRpZmljaWFsIjogbnVsbCwgInJlbGF0aW9uIjogIkFUUiIsICJwb3N0YWciOiAiYS1fLS0tX19fIiwgInNvcnRlcjEiOiAxMywgInNvcnRlcjIiOiAiIiwgImRlcHRoIjogNX0sIHsiaWQiOiAzNjU5LCAibiI6IDQsICJoZWFkIjogIjUiLCAiZm9ybSI6ICJcdTAzYzRcdTFmNzRcdTAzYmQiLCAiaW5zZXJ0aW9uX2lkIjogbnVsbCwgImFydGlmaWNpYWwiOiBudWxsLCAicmVsYXRpb24iOiAiQVRSIiwgInBvc3RhZyI6ICJsLXMtLS1mYS0iLCAic29ydGVyMSI6IDQsICJzb3J0ZXIyIjogIiIsICJkZXB0aCI6IDR9LCB7ImlkIjogMzY2NCwgIm4iOiA5LCAiaGVhZCI6ICI1IiwgImZvcm0iOiAiXHUwM2M3XHUwM2M5XHUwM2MxXHUwM2FmXHUwM2JmXHUwM2M1IiwgImluc2VydGlvbl9pZCI6IG51bGwsICJhcnRpZmljaWFsIjogbnVsbCwgInJlbGF0aW9uIjogIkFUUiIsICJwb3N0YWciOiAibi1zLS0tbmctIiwgInNvcnRlcjEiOiA5LCAic29ydGVyMiI6ICIiLCAiZGVwdGgiOiA0fSwgeyJpZCI6IDM2NjYsICJuIjogMTEsICJoZWFkIjogIjE1IiwgImZvcm0iOiAiXHUwM2M0XHUxZjc4XHUwM2JkIiwgImluc2VydGlvbl9pZCI6IG51bGwsICJhcnRpZmljaWFsIjogbnVsbCwgInJlbGF0aW9uIjogIkFUUiIsICJwb3N0YWciOiAibC1zLS0tbWEtIiwgInNvcnRlcjEiOiAxMSwgInNvcnRlcjIiOiAiIiwgImRlcHRoIjogNH0sIHsiaWQiOiAzNjY5LCAibiI6IDE0LCAiaGVhZCI6ICIxNSIsICJmb3JtIjogIihcdTAzYjNcdTAzYzFcdTAzYjFcdTAzYmNcdTAzYmNcXFx1MDNiMVx1MDNjNFx1MDNhZC8oXHUwM2M5XHUwM2MyKSkiLCAiaW5zZXJ0aW9uX2lkIjogbnVsbCwgImFydGlmaWNpYWwiOiBudWxsLCAicmVsYXRpb24iOiAiQVRSIiwgInBvc3RhZyI6ICJuLV8tLS1tXy0iLCAic29ydGVyMSI6IDE0LCAic29ydGVyMiI6ICIiLCAiZGVwdGgiOiA0fSwgeyJpZCI6IDM2NjAsICJuIjogNSwgImhlYWQiOiAiMTAiLCAiZm9ybSI6ICJcdTAzYmFcdTAzYjFcdTAzYzRcdTAzYjFcdTAzYjNcdTAzYzFcdTAzYjFcdTAzYzZcdTFmNzRcdTAzYmQiLCAiaW5zZXJ0aW9uX2lkIjogbnVsbCwgImFydGlmaWNpYWwiOiBudWxsLCAicmVsYXRpb24iOiAiT0JKX0NPIiwgInBvc3RhZyI6ICJuLXMtLS1mYS0iLCAic29ydGVyMSI6IDUsICJzb3J0ZXIyIjogIiIsICJkZXB0aCI6IDN9LCB7ImlkIjogMzY3MCwgIm4iOiAxNSwgImhlYWQiOiAiMTAiLCAiZm9ybSI6ICJcdTAzYzNcdTAzYzdcdTAzYmZcdTAzYjlcdTAzYmRcdTAzYjlcdTAzYzNcdTAzMjNcdTAzYmNcdTAzMjNbXHUwM2NjXVx1MDNiZCIsICJpbnNlcnRpb25faWQiOiBudWxsLCAiYXJ0aWZpY2lhbCI6IG51bGwsICJyZWxhdGlvbiI6ICJPQkpfQ08iLCAicG9zdGFnIjogIm4tcy0tLW1hLSIsICJzb3J0ZXIxIjogMTUsICJzb3J0ZXIyIjogIiIsICJkZXB0aCI6IDN9LCB7ImlkIjogMzY1OCwgIm4iOiAzLCAiaGVhZCI6ICIxIiwgImZvcm0iOiAiXHUwM2MzXHUwM2JmXHUwM2I5IiwgImluc2VydGlvbl9pZCI6IG51bGwsICJhcnRpZmljaWFsIjogbnVsbCwgInJlbGF0aW9uIjogIk9CSiIsICJwb3N0YWciOiAicDJzLS0tbWQtIiwgInNvcnRlcjEiOiAzLCAic29ydGVyMiI6ICIiLCAiZGVwdGgiOiAyfSwgeyJpZCI6IDM2NjUsICJuIjogMTAsICJoZWFkIjogIjEiLCAiZm9ybSI6ICJcdTAzYmFcdTAzYjFcdTFmNzYiLCAiaW5zZXJ0aW9uX2lkIjogbnVsbCwgImFydGlmaWNpYWwiOiBudWxsLCAicmVsYXRpb24iOiAiQ09PUkQiLCAicG9zdGFnIjogImMtLS0tLS0tLSIsICJzb3J0ZXIxIjogMTAsICJzb3J0ZXIyIjogIiIsICJkZXB0aCI6IDJ9LCB7ImlkIjogMzY1NiwgIm4iOiAxLCAiaGVhZCI6ICIyIiwgImZvcm0iOiAiXHUwM2MwXHUwM2FkXHUwM2MwXHUwM2JmXHUwM2JjXHUwM2M2XHUwM2Ixe1x1MDNiOX0iLCAiaW5zZXJ0aW9uX2lkIjogbnVsbCwgImFydGlmaWNpYWwiOiBudWxsLCAicmVsYXRpb24iOiAiUFJFRF9DTyIsICJwb3N0YWciOiAidjFzcmlhLS0tIiwgInNvcnRlcjEiOiAxLCAic29ydGVyMiI6ICIiLCAiZGVwdGgiOiAxfSwgeyJpZCI6IDM2NTcsICJuIjogMiwgImhlYWQiOiAiMCIsICJmb3JtIjogIlx1MDNiNFx1MDNhZCIsICJpbnNlcnRpb25faWQiOiBudWxsLCAiYXJ0aWZpY2lhbCI6IG51bGwsICJyZWxhdGlvbiI6ICJDT09SRCIsICJwb3N0YWciOiAiYy0tLS0tLS0tIiwgInNvcnRlcjEiOiAyLCAic29ydGVyMiI6ICIiLCAiZGVwdGgiOiAwfSwgeyJpZCI6IDM2NzEsICJuIjogMTYsICJoZWFkIjogIjAiLCAiZm9ybSI6ICJcdTAwYjciLCAiaW5zZXJ0aW9uX2lkIjogbnVsbCwgImFydGlmaWNpYWwiOiBudWxsLCAicmVsYXRpb24iOiAiQXV4SyIsICJwb3N0YWciOiAidS0tLS0tLS0tIiwgInNvcnRlcjEiOiAxNiwgInNvcnRlcjIiOiAiIiwgImRlcHRoIjogMH1dLCAiaGlnaGxpZ2h0X25vZGVzIjogIjYsNyw4LDkiLCAiaGlnaGxpZ2h0X2VkZ2VzIjogIiIsICJpZCI6IDF9"></div><p></p>
+<h2 id="summary">Summary</h2>
+<p>In our corpus, adnominal prepositional phrases appear mostly after
+their governing substantive when in non-articular phrases, and in
+general more often in internal position, i.e.&nbsp;between the article and
+the substantive, in articular NPs. There is a noticeable increase in
+instances of internally placed PPs in texts with official style of
+language, compared to private documents.</p>
+<h2 id="discussion">Discussion</h2>
+<p>Many of the NPs modified by adnominal prepositional phrases are
+headed by a deverbal noun (e.g.&nbsp;τῆς <strong>παρὰ σοῦ</strong> βοηθείας -
+tês parà soû boētheías - <em>the help by you</em> <a href="https://papygreek.com/text/55759">UPZ.1.17</a>); another large
+group has the PP as a locative modifier (e.g.&nbsp;οἱ <strong>ἐμ
+Πεεμπασβύτει</strong> κριταὶ - hoi em Peempasbútei kritaì - <em>the
+judges in Peenpasbutis</em> <a href="https://papygreek.com/text/38287">p.polit.iud.18</a>) The most
+common prepositions in the PapyGreek corpus introducing adnominal PPs
+are ἐν, παρά, and πρός (respectively 22%, 21% and 11% of all NPs
+modified by a PP). Adnominal prepositional phrases may appear both
+prenominally and postnominally; however, based on the instances in our
+corpus, we can observe certain preferences for their position, depending
+on the definiteness of the NP.</p>
+<h4 id="non-articular-nps">Non-articular NPs</h4>
+<p>Similarly to the distributions in the literary treebanked corpus, in
+papyri the preference is for placing the adnominal prepositional phrases
+after their governing substantive in non-articular phrases. Examples of
+preposed PPs are to a large extent coming from the Katochoi archive in
+the form of often repeated phrases such as <strong>πρὸς τὸ
+θεῖον</strong> ὁσιότητα (upz.1.33, upz.1.34, upz.1.35, upz. 1.36),
+<strong>εἰς/πρὸς</strong> τὸ θεῖον εὐσέβειαν (upz.1.39, 40, 41),
+<strong>ἐν τούτοις</strong> συνεργείας (upz.1.33, 34, 35, 36) etc. More
+and more varied noun NP-head lemmata appear with postposed PPs. If the
+NP-head is a pronoun, the PP is universally postposed in our corpus.</p>
+<h4 id="articular-nps">Articular NPs</h4>
+<p>The most common placement of the adnominal PP in articular NPs is in
+the internal position between the article and the noun:</p>
+<ol type="1">
+<li>τὴν <strong>παρὰ Ἀπολλωνίου</strong> ἐπιστολὴν<br>
+tḕn <strong>parà Apollōníou</strong> epistolḕn<br>
+<em>the letter by Apollonios</em><br>
+<a href="https://papygreek.com/text/23997">P.cair.zen.1.59059</a>, 4
+(sent. 3)</li>
+<li>τοὺς <strong>κατὰ σε</strong> τόπους<br>
+toùs <strong>katà se</strong> tópous.<br>
+<em>the places near you</em><br>
+<a href="https://papygreek.com/text/1067">BGU.16.2645</a>, 5 (sent.
+2)</li>
+</ol>
+<p>In PapyGreek’s corpus, internal PPs are more common in administrative
+and legal documents - accounts, contracts, declarations, petitions,
+which may be regarded as a feature of the official language in these
+texts <span class="citation" data-cites="manolessou2000">(Manolessou
+2000)</span>.<br>
+In private documents, although internal PPs are still the most favoured,
+there is an increase in the numbers of postposed PPs, and especially
+with a repeated article:</p>
+<ol start="3" type="1">
+<li>τὸ σήσαμον τὸ <strong>ἐμ Πέλαι</strong><br>
+tò sḗsamon tò <strong>en Pélai</strong><br>
+<em>the sesamy in Pelae</em><br>
+<a href="https://papygreek.com/text/29021">P.hib.1.43</a>, 3 (sent.
+2)</li>
+</ol>
+<p>When the definite article is used as an independent pronoun and
+modified by a prepositional phrase, or the antecedent of the pronoun is
+a proper name, the pronoun is taken to be the head of the PP:</p>
+<ol start="4" type="1">
+<li><p>τοῦς <strong>περὶ Σιμύλον</strong><br>
+toùs <strong>perì Simúlon</strong><br>
+<em>the associates of Simylos</em><br>
+<a href="https://papygreek.com/text/24078">P.cair.zen.2.59150</a>, 22-23
+(sent. 7)</p></li>
+<li><p>(Ἀμμώ(νιος)) ὁ <strong>παρὰ Σώσου</strong><br>
+Ammṓnios ho parà Sṓsou<br>
+<em>Ammonios, the associate of Sosos</em><br>
+<a href="https://papygreek.com/text/1867">BGU.3.994</a>, 9 (sent.
+8)</p></li>
+</ol>
+<h2 id="queries-in-the-papygreek-corpus">Queries in the PapyGreek
+Corpus:</h2>
+<ul>
+<li><a data-link-newtab="" href="/search/73" data-url="search/73">All noun-headed NPs modified by an adnominal
+prepositional phrase</a></li>
+<li><a data-link-newtab="" href="/search/74" data-url="search/74">All pronoun-headed NPs modified by an adnominal
+prepositional phrase</a></li>
+</ul>
+<div id="refs" class="references csl-bib-body hanging-indent" role="list">
+<div id="ref-manolessou2000" class="csl-entry" role="listitem">
+Manolessou, Io. 2000. <em>Greek Noun Phrase Structure: A Study in
+Syntactic Evolution</em>.
+</div>
+</div>
