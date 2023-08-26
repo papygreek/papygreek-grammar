@@ -16,9 +16,11 @@ aspalísmata tês oikías<br>
 <h2 id="summary">Summary</h2>
 <p>In Ancient Greek, including in the variety attested in documentary
 papyri, the adnominal genitive can appear before or after its governing
-noun. However, in papyri there is a higher preference for the
-post-position of the genitive than what is observed in treebanked
-literary texts.</p>
+noun. However, the factors which are observed to exert influence over
+the position of the genitive in literary Greek apppear to be disregarded
+in documentary materials, and in papyri there is a higher preference for
+the post-position of the genitive than what is observed in the
+treebanked literary texts.</p>
 <h2 id="discussion">Discussion</h2>
 <p>In linguistic typology, a distinction is kept between lexical
 genitives, which are nouns, and grammatical genitives, which are
@@ -111,9 +113,10 @@ perì tês práseōs tôn himatíōn<br>
 <p>In Literature, the definiteness of the genitive plays a significant
 role for its position in the NP. Non-articular genitives are more often
 preposed than postposed, while articular genitives appear more often
-after their governing noun [Yordanova, forthcoming]. On the contrary, in
-papyri there is no notable difference between the preferred placement of
-articular and non-articular genitives.<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a></p>
+after their governing noun (Yordanova, forthcoming). In papyri, however,
+both in the PapyGreek corpus and in the automatically annotated Duke-nlp
+corpus, there is no notable difference between the preferred placement
+of articular and non-articular genitives.</p>
 <h3 id="variety-of-lemmata-participating-in-nps-with-adnominal-genitives">Variety
 of lemmata participating in NPs with adnominal genitives</h3>
 <p>Due to the size of our corpus and the specificity of topics covered
@@ -148,13 +151,3 @@ functional analysis of word order freedom in the noun phrase”</span> 84
 (1-4): 203–38. <a href="http://www.jstor.org/stable/40730997.">http://www.jstor.org/stable/40730997.</a>
 </div>
 </div>
-<section id="footnotes" class="footnotes footnotes-end-of-document" role="doc-endnotes">
-<hr>
-<ol>
-<li id="fn1"><p>In non-articular phrases: 29% preposed and 71% postposed
-non-articular genitives vs.&nbsp;23% preposed and 77% postposed genitives; in
-articular phrases: 4% preposed, 18% internal, 78% postposed
-non-articular genitives vs.&nbsp;3% preposed, 17% internal and 80% postposed
-articular genitives.<a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
-</ol>
-</section>
