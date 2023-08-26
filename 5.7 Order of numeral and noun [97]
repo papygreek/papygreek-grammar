@@ -1,0 +1,55 @@
+<h1>5.7 Order of numeral and noun</h1>
+<p><strong><em>Unfinished!</em></strong></p>
+<h2 id="relevant-postag-codes">Relevant postag codes</h2>
+<p>See <a href="https://papygreek.com/grammar/41">2.6. Numerals</a>.</p>
+<h2 id="summary">Summary</h2>
+<p>In non-articular NPs, the usual position of both cardinal and ordinal
+numerals is postnominal. In articular NPs, however, they are found more
+often in the internal position, i.e.&nbsp;between the article and the head.
+The numeral can sometimes be found preposed in non-articular phrases for
+the purpose of emphasis.</p>
+<h2 id="examples-from-papygreeks-corpus">Examples from PapyGreek’s
+corpus</h2>
+<h3 id="cardinal-numerals">Cardinal numerals:</h3>
+<p>φέρει δὲ καὶ Πατροκος ὄρνιθας ἀγρίους <strong>δύο</strong>, ὠιὰ χήνεα
+<strong>ϛ</strong>. (<a href="https://papygreek.com/text/24058">p.cair.zen.2.59130</a>, l.
+24-26, sentence 9)</p>
+<p>αἱ <strong>τριάκοντα</strong> ἄρουραι αἱ περὶ Νῶιν βεβρεγμέναι εἰσί·
+(<a href="https://papygreek.com/text/1087">bgu.16.2665</a>, l. 15-16,
+sentence 9)</p>
+<h3 id="ordinal-numerals">Ordinal numerals:</h3>
+<p>Διονυσίωι τῶν φίλων καὶ στρατηγῶι παρὰ Ἁρμάιος τῶν ἐν τῶι μεγάλωι
+Σαραπιείωι ὄντων ἐν κατοχῆι ἔτος <strong>πέμπτον</strong>, διαζῶντος δὲ
+καὶ ἀφʼ ὧν ἐπαιτῶ ἐν τῶι ἱερῶι. (<a href="https://papygreek.com/text/55763">upz.1.2</a>, l. 1-4, sentence
+1)</p>
+<p>καὶ εἰ ἐκ τῶν <strong>πρώτων</strong> πυρῶν ἐμβάλῃ εἰς Ἀλεξάνδρειαν ,
+σήμανον· (<a href="https://papygreek.com/text/1033">bgu.16.2611</a>, l.
+4-5, sentence 4)</p>
+<h2 id="discussion">Discussion</h2>
+<p>The overwhelmingly predominant postnominal position of numerals in
+non-articular phrases found in papyri is in contrast with the results
+observed in the treebanked corpus of literary Greek, where the numeral
+is found more commonly before the governing noun, regardless of whether
+the noun is definite or not.</p>
+<p>Preposing the numeral in non-articular NPs is often done in order to
+achieve emphasis (also resulting in hyperbaton):</p>
+<ol type="1">
+<li>ἰδοῦ δὴ <strong>τρίτην</strong> ἐπιστολὴν σοι γράφω.<br>
+idoû dḕ trítēn epistolḕn soi gráfō. <em>See then, I am writing a third
+letter to you.</em><br>
+(<a href="https://new.papygreek.com/text/1723">BGU.3.827</a>, l. 20-21,
+sent. 7.</li>
+<li><strong>τρίτον</strong> σοι τοῦτο, ἄδελφε, ὄστρακον γράφω.<br>
+tríton soi toûto, ádelphe, óstrakon gráphō.<br>
+_ (<a href="https://papygreek.com/text/10186">o.claud.1.145</a>, l. 3-4,
+sentence 2).</li>
+</ol>
+<p>In our corpus, numerals appear most commonly in dates (modifying
+year, month, or day), prices and sums (e.g.&nbsp;δραχμή) and with words
+signifying measures for land, produce etc. (e.g.&nbsp;ἀρτάβη, πῆχυς, χοῦς
+etc.). The high number of instances of such phrases are mostly due to
+the nature of our documents - letters, contracts, petitions, and other
+texts concerning business affairs and employing widely used dating
+formulae.</p>
+<p>In the Duke-nlp corpus, the wide-spread tendency for placing the
+numeral after the noun in non-articular phrases is also observable;</p>
