@@ -1,0 +1,163 @@
+<h1>5.6 Order of demonstrative and noun</h1>
+<h2 id="relevant-postag-codes-syntactic-relation-labels">Relevant postag
+codes / syntactic relation labels</h2>
+<p><strong>Position and letters in postag string</strong>:<br>
+See <a href="https://papygreek.com/grammar/47">2.5.3. Demonstrative
+pronouns</a></p>
+<p><strong>Syntactic label:</strong><br>
+Demonstratives are placed directly under the head they modify and are
+annotated with the label ATR (ATR_CO if in coordination).</p>
+<p><strong>Example:</strong></p>
+<p>ὣς ἄν τις εὕρῃ <strong>τουτω τὸ ὄσστρακον</strong>, δώσι
+στρατηρα.<br>
+ṑs án tis heúrēi touto tò óstrakon, dṓsi stathra.<br>
+<em>Whoever finds this ostracon, will give a coin.</em><br>
+<a href="https://papygreek.com/text/10135">o.claud.1.1</a>, 1-3
+(sent.1)</p>
+<p></p><div style="height:300px; " data-treeid="1" class="sentence-tree tf-tree tf-result" data-json="eyJvayI6IHRydWUsICJyZXN1bHQiOiBbeyJpZCI6IDk5NDIsICJuIjogMywgImhlYWQiOiAiMSIsICJmb3JtIjogIlx1MDNjNFx1MDNiOVx1MDNjMiIsICJpbnNlcnRpb25faWQiOiBudWxsLCAiYXJ0aWZpY2lhbCI6IG51bGwsICJyZWxhdGlvbiI6ICJBVFIiLCAicG9zdGFnIjogInAtcy0tLW1uLSIsICJzb3J0ZXIxIjogMywgInNvcnRlcjIiOiAiIiwgImRlcHRoIjogM30sIHsiaWQiOiA5OTQ0LCAibiI6IDUsICJoZWFkIjogIjciLCAiZm9ybSI6ICJcdTAzYzRcdTAzYmZcdTAzYzVcdTAzYzRcdTAzYzkiLCAiaW5zZXJ0aW9uX2lkIjogbnVsbCwgImFydGlmaWNpYWwiOiBudWxsLCAicmVsYXRpb24iOiAiQVRSIiwgInBvc3RhZyI6ICJwLXMtLS1uXy0iLCAic29ydGVyMSI6IDUsICJzb3J0ZXIyIjogIiIsICJkZXB0aCI6IDN9LCB7ImlkIjogOTk0NSwgIm4iOiA2LCAiaGVhZCI6ICI3IiwgImZvcm0iOiAiXHUwM2M0XHUxZjc4IiwgImluc2VydGlvbl9pZCI6IG51bGwsICJhcnRpZmljaWFsIjogbnVsbCwgInJlbGF0aW9uIjogIkFUUiIsICJwb3N0YWciOiAibC1zLS0tbmEtIiwgInNvcnRlcjEiOiA2LCAic29ydGVyMiI6ICIiLCAiZGVwdGgiOiAzfSwgeyJpZCI6IDk5NDAsICJuIjogMSwgImhlYWQiOiAiNCIsICJmb3JtIjogIlx1MWY2M1x1MDNjMiIsICJpbnNlcnRpb25faWQiOiBudWxsLCAiYXJ0aWZpY2lhbCI6IG51bGwsICJyZWxhdGlvbiI6ICJTQkoiLCAicG9zdGFnIjogInAtcy0tLW1uLSIsICJzb3J0ZXIxIjogMSwgInNvcnRlcjIiOiAiIiwgImRlcHRoIjogMn0sIHsiaWQiOiA5OTQxLCAibiI6IDIsICJoZWFkIjogIjQiLCAiZm9ybSI6ICJcdTFmMDRcdTAzYmQiLCAiaW5zZXJ0aW9uX2lkIjogbnVsbCwgImFydGlmaWNpYWwiOiBudWxsLCAicmVsYXRpb24iOiAiQXV4WSIsICJwb3N0YWciOiAiZC0tLS0tLS0tIiwgInNvcnRlcjEiOiAyLCAic29ydGVyMiI6ICIiLCAiZGVwdGgiOiAyfSwgeyJpZCI6IDk5NDYsICJuIjogNywgImhlYWQiOiAiNCIsICJmb3JtIjogIlx1MWY0NFx1MDNjM1x1MDNjM1x1MDNjNFx1MDNjMVx1MDNiMXxcdTAzYmFcdTAzYmZcdTAzYmQiLCAiaW5zZXJ0aW9uX2lkIjogbnVsbCwgImFydGlmaWNpYWwiOiBudWxsLCAicmVsYXRpb24iOiAiT0JKIiwgInBvc3RhZyI6ICJuLXMtLS1uYS0iLCAic29ydGVyMSI6IDcsICJzb3J0ZXIyIjogIiIsICJkZXB0aCI6IDJ9LCB7ImlkIjogOTk0NywgIm4iOiA4LCAiaGVhZCI6ICI0IiwgImZvcm0iOiAiLCIsICJpbnNlcnRpb25faWQiOiBudWxsLCAiYXJ0aWZpY2lhbCI6IG51bGwsICJyZWxhdGlvbiI6ICJBdXhYIiwgInBvc3RhZyI6ICJ1LS0tLS0tLS0iLCAic29ydGVyMSI6IDgsICJzb3J0ZXIyIjogIiIsICJkZXB0aCI6IDJ9LCB7ImlkIjogOTk0MywgIm4iOiA0LCAiaGVhZCI6ICI5IiwgImZvcm0iOiAiXHUwM2I1XHUxZjU1XHUwM2MxXHUxZmMzIiwgImluc2VydGlvbl9pZCI6IG51bGwsICJhcnRpZmljaWFsIjogbnVsbCwgInJlbGF0aW9uIjogIlNCSiIsICJwb3N0YWciOiAidjNzYXNhLS0tIiwgInNvcnRlcjEiOiA0LCAic29ydGVyMiI6ICIiLCAiZGVwdGgiOiAxfSwgeyJpZCI6IDk5NDksICJuIjogMTAsICJoZWFkIjogIjkiLCAiZm9ybSI6ICJcdTAzYzNcdTAzYzRcdTAzYzFcdTAzYjFcdTAzYzRcdTAzYjd8XHUwM2MxXHUwM2IxIiwgImluc2VydGlvbl9pZCI6IG51bGwsICJhcnRpZmljaWFsIjogbnVsbCwgInJlbGF0aW9uIjogIk9CSiIsICJwb3N0YWciOiAibi1zLS0tbWEtIiwgInNvcnRlcjEiOiAxMCwgInNvcnRlcjIiOiAiIiwgImRlcHRoIjogMX0sIHsiaWQiOiA5OTQ4LCAibiI6IDksICJoZWFkIjogIjAiLCAiZm9ybSI6ICJcdTAzYjRcdTAzY2VcdTAzYzNcdTAzYjkiLCAiaW5zZXJ0aW9uX2lkIjogbnVsbCwgImFydGlmaWNpYWwiOiBudWxsLCAicmVsYXRpb24iOiAiUFJFRCIsICJwb3N0YWciOiAidjNzZmlhLS0tIiwgInNvcnRlcjEiOiA5LCAic29ydGVyMiI6ICIiLCAiZGVwdGgiOiAwfSwgeyJpZCI6IDk5NTAsICJuIjogMTEsICJoZWFkIjogIjAiLCAiZm9ybSI6ICIuIiwgImluc2VydGlvbl9pZCI6IG51bGwsICJhcnRpZmljaWFsIjogbnVsbCwgInJlbGF0aW9uIjogIkF1eEsiLCAicG9zdGFnIjogInUtLS0tLS0tLSIsICJzb3J0ZXIxIjogMTEsICJzb3J0ZXIyIjogIiIsICJkZXB0aCI6IDB9XSwgImhpZ2hsaWdodF9ub2RlcyI6ICI1LDYsNyIsICJoaWdobGlnaHRfZWRnZXMiOiAiIiwgImlkIjogMX0="></div><p></p>
+<h2 id="summary">Summary</h2>
+<p>Demonstratives can appear both before or after their governing noun,
+their position being influenced most likely by pragmatic reasons.
+Demonstrative pronouns have predominantly preposed instances;
+demonstrative pronominal adjectives are preposed in non-articular NPs
+and mostly internal (between the article and the head) in articular
+ones. Fixed legal formulae make up a big part of the attested
+instances.</p>
+<h2 id="discussion">Discussion</h2>
+<h3 id="annotation-decisions">Annotation decisions</h3>
+<p>According to the the AGDT 2 framework <span class="citation" data-cites="celano2014c">(Celano 2014c)</span>, the demonstrative
+pronouns should receive the <em>pronoun</em> annotation both when
+substantivized and when modifying an NP-head. Demonstrative adjectives,
+such as τοιοῦτος (toioûtos), τοιόσδε (toiósde) <em>of such a
+kind/quality/nature</em> and τοσοῦτος (tosoûtos), τοσόσδε (tosósde)
+<em>of such a size</em> have been annotated in the literary treebanked
+corpus predominantly as adjectives. However, due to their pronominal
+origin, we have decided to treat them as pronouns in the PapyGreek
+corpus.</p>
+<h3 id="ὄδε-οὗτος-ἐκεῖνος">ὄδε, οὗτος, ἐκεῖνος</h3>
+<p>As noted already by <span class="citation" data-cites="mayser1970">(<strong>mayser1970?</strong>)</span> and <span class="citation" data-cites="manolessou2000">Manolessou (2000)</span>,
+there are very few attributive demonstratives in papyri, so it is
+difficult to make generalizations from their distributions. There are
+only a handful of instances of ὄδε modifying a noun in our corpus, all
+but one preposed. The results for ἐκεῖνος are even fewer and do not
+allow for a fruitful investigation. The most common demonstrative in our
+corpus is οὗτος. When modifying a noun in an indefinite NP, it is mostly
+appears in dates and its usual position after the noun:</p>
+<ol type="1">
+<li>ἔτος τοῦτο ἑνδέκατον<br>
+étos toûto endékaton<br>
+<em>(during) this eleventh year</em><br>
+<a href="https://papygreek.com/text/55768">UPZ.1.24</a>, 3, sent.
+1.</li>
+</ol>
+<p>In definite NPs, οὗτος is equally common before and after the
+head:</p>
+<ol start="2" type="1">
+<li>ταυτηνὶ τὴν ἐπιστο|λήν<br>
+tautēnì tḕn epistolḗn<br>
+<em>this letter</em><br>
+<a href="https://papygreek.com/text/31749">p.lond.6.1915</a>, 29, sent.
+6.</li>
+<li>[τ]ὴν ἐπιστολὴν ταύτην<br>
+tḕn epistolḕn taútēn<br>
+<em>this letter</em><br>
+<a href="https://papygreek.com/text/33022">p.mich.8.476</a>, 20, sent.
+11.</li>
+</ol>
+<p>Fixed formulaic expressions, such as τὸ δὲ δάνειον τοῦτο (tò dè
+dáneion toûto <em>this loan</em>), appear again and again in legal
+texts. The wide-spread prenominal placement of the demonstrative in
+legal formulae, observed by <span class="citation" data-cites="manolessou2000">Manolessou (2000)</span> (p.&nbsp;33), is not as
+evident on the scale of our corpus; however, examples of it in
+administrative documents can still be found:</p>
+<ol start="4" type="1">
+<li>τοῦτο τὸ μαρτυροποίημα<br>
+toûto tò marturopoíēma<br>
+<em>this statement on oath</em><br>
+<a href="https://papygreek.com/text/22323">p.babatha.15</a>, l.
+12,32</li>
+</ol>
+<ul>
+<li><a data-link-newtab="" href="/search/75" data-url="search/75">All instances of ὄδε</a></li>
+<li><a data-link-newtab="" href="/search/77" data-url="search/77">All instances of οὗτος</a></li>
+<li><a data-link-newtab="" href="/search/76" data-url="search/76">All instances of ἐκεῖνος</a></li>
+</ul>
+<p>The automatically Duke-nlp corpus provides a larger picture, which
+reveals differences in the placement distributions of the three
+demonstrative pronouns. Ὅδε is overwhelmingly preposed (83% of its
+attested instances). Οὗτος (which here, too, is the most common
+demonstrative) also has a larger number of pre-nominal instances, but
+the contrast between the numbers of pre- and post-nominal attestations
+is less stark (65% pre- vs.&nbsp;31% postposed), and there are some internal
+instances (4%). For ἐκεῖνος, the predominance of preposed instances is
+even more diminished (69% preposed, 5% internal, 36% postposed).</p>
+<h3 id="demonstrative-adjectives">Demonstrative adjectives</h3>
+<p>In the documents that make up the current PapyGreek corpus, we only
+have attestations of τοιοῦτος and τοσοῦτος. They mostly appear in
+non-articular NPs in prenominal position, and the majority of instances
+come from the UPZ archive:</p>
+<ol start="5" type="1">
+<li>τοιούτους καιροὺς<br>
+toioútous kairoùs<br>
+<em>such times</em><br>
+<a href="https://papygreek.com/text/55808">UPZ.1.60</a>, 13-14, sent.
+3</li>
+</ol>
+<ul>
+<li><a data-link-newtab="" href="/search/75" data-url="search/75">All instances of τοιοῦτος</a></li>
+<li><a data-link-newtab="" href="/search/77" data-url="search/77">All instances of τοσοῦτος</a></li>
+</ul>
+<p>Within the larger Duke-nlp corpus, demonstrative adjectives are
+mostly found before the noun in non-articular and between the article
+and the noun in articular NPs.</p>
+<h3 id="demonstrative-use-of-αὐτός">Demonstrative use of αὐτός</h3>
+<p><span class="citation" data-cites="horrocks2010">Horrocks
+(2010)</span> observes that already in texts from the Roman period there
+are instances of αὐτός in pre-articular being used in a deictic sense,
+due overlapping discourse functions with demonstratives, a phenomenon
+which increases in popularity through late antiquity and the Byzantine
+period and eventually becomes the standard in Modern Greek (p.&nbsp;128). The
+examples of preposed αὐτός in our corpus are too few in order to
+corroborrate this, and an interpretation of αὐτός as <em>the same</em>
+is still possible:</p>
+<ol start="6" type="1">
+<li>πέπομφα δέ σοι <strong>αὐτὸ τὸ ἐπίσταλμα</strong> [τὸ]
+συ&lt;ν&gt;ηλιγμένον τῇ ἐπιστολῇ ἐπ&lt;ε&gt;ὶ νῦν παρῃτημένοι {σι} τὸν
+στρατηγὸν οἱ ὀφείλοντες τὰς μετεπιγραφὰς τὰ&lt;ς&gt; ἕως τῆς ι τοῦ
+Μεχείρ·<br>
+pépompha dé soi <strong>autò tò epístalma</strong> [tò] synēligménon têi
+epistolêi epeì nûn parēitēménoi {si} tòn stratēgòn hoi opheílontes tàs
+metepigraphàs tà&lt;s&gt; héōs tês i toû Mecheír.<br>
+<em>I have sent you <strong>the commission</strong> wrapped up in the
+letter, since those obliged to make conveyance (of their land) by the
+10th of Mecheir are petitioning the strategos.</em> (transl. Brashear
+2015)<br>
+<a href="https://papygreek.com/text/1065">BGU.16.2643</a>, 13-17, sent.
+4.</li>
+</ol>
+<p><a data-link-newtab="" href="/search/116" data-url="search/116">See all preposed instances of αὐτός</a></p>
+<h3 id="position-of-demonstratives-in-nps-headed-by-a-proper-name">Position
+of demonstratives in NPs headed by a proper name</h3>
+<p>According to <span class="citation" data-cites="devinestephens2000">(<strong>devinestephens2000?</strong>)</span>,
+the frequent postposition of demonstratives with proper names in
+literary texts is due to their deictive function with such heads; if the
+demonstrative is used restrictively, they appear in the focus position
+before the noun. However, there are no instances of demonstratives
+modifying proper names in the PapyGreek corpus, and examples from the
+automatically annotated Duke-nlp corpus do not corroborate an increased
+tendency for postposing the demonstrative in phrases, compared to their
+placement in phrases governed by common nouns.</p>
+<div id="refs" class="references csl-bib-body hanging-indent" role="list">
+<div id="ref-celano2014c" class="csl-entry" role="listitem">
+Celano, Giuseppe G.A. 2014c. <em>Guidelines for the Ancient Greek
+Dependency Treebank 2.0</em>. Perseus Digital Library. <a href="https://github.com/PerseusDL/treebank_data/blob/master/AGDT2/guidelines/Greek_guidelines.md#21-article">https://github.com/PerseusDL/treebank_data/blob/master/AGDT2/guidelines/Greek_guidelines.md#21-article</a>.
+</div>
+<div id="ref-horrocks2010" class="csl-entry" role="listitem">
+Horrocks, Geoffrey C. 2010. <em>Greek: A History of the Language and Its
+Speakers</em>. 2nd ed. Oxford: Wiley-Blackwell.
+</div>
+<div id="ref-manolessou2000" class="csl-entry" role="listitem">
+Manolessou, Io. 2000. <em>Greek Noun Phrase Structure: A Study in
+Syntactic Evolution</em>.
+</div>
+</div>
