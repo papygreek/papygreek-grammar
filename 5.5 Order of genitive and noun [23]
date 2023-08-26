@@ -24,11 +24,12 @@ literary texts.</p>
 genitives (with a noun) and grammatical genitives (with a person-marked
 pronoun or adjective). The discussion below concerns lexical genitives
 with heads that are nouns and not proper names.</p>
-<p>The presence of other modifiers in the NP, the syntactic function of
-the genitive, its semantics and definiteness all influence the position
-of the adnominal genitive. Additionally, in our corpus the assortment of
-lemmata participating in NPs with adnominal genitives affects the
-distributions of the genitives.</p>
+<p>In addition to pragmatic factors, which cannot be programmatically
+queried from the treebanked data, the presence of other modifiers in the
+NP, the syntactic function of the genitive, its semantics and
+definiteness all influence the position of the adnominal genitive. In
+our corpus the assortment of lemmata participating in NPs with adnominal
+genitives affects the distributions of the genitives.</p>
 <h3 id="influence-of-the-presence-of-other-modifiers-in-the-np">Influence of
 the presence of other modifiers in the NP</h3>
 <p>The presence of another modifier in the NP influences the order
