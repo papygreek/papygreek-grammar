@@ -11,24 +11,28 @@ the purpose of emphasis.</p>
 <h2 id="examples-from-papygreeks-corpus">Examples from PapyGreek’s
 corpus</h2>
 <h3 id="cardinal-numerals">Cardinal numerals:</h3>
-<p>φέρει δὲ καὶ Πατροκος ὄρνιθας ἀγρίους <strong>δύο</strong>, ὠιὰ χήνεα
-<strong>ϛ</strong>.<br>
+<ol type="1">
+<li><p>φέρει δὲ καὶ Πατροκος ὄρνιθας ἀγρίους <strong>δύο</strong>, ὠιὰ
+χήνεα <strong>ϛ</strong>.<br>
 <a href="https://papygreek.com/text/24058">p.cair.zen.2.59130</a>, l.
-24-26, sent. 9.</p>
-<p>αἱ <strong>τριάκοντα</strong> ἄρουραι αἱ περὶ Νῶιν βεβρεγμέναι
+24-26, sent. 9.</p></li>
+<li><p>αἱ <strong>τριάκοντα</strong> ἄρουραι αἱ περὶ Νῶιν βεβρεγμέναι
 εἰσί·<br>
 <a href="https://papygreek.com/text/1087">bgu.16.2665</a>, l. 15-16,
-sent. 9.</p>
+sent. 9.</p></li>
+</ol>
 <h3 id="ordinal-numerals">Ordinal numerals:</h3>
-<p>Διονυσίωι τῶν φίλων καὶ στρατηγῶι παρὰ Ἁρμάιος τῶν ἐν τῶι μεγάλωι
+<ol start="3" type="1">
+<li><p>Διονυσίωι τῶν φίλων καὶ στρατηγῶι παρὰ Ἁρμάιος τῶν ἐν τῶι μεγάλωι
 Σαραπιείωι ὄντων ἐν κατοχῆι ἔτος <strong>πέμπτον</strong>, διαζῶντος δὲ
 καὶ ἀφʼ ὧν ἐπαιτῶ ἐν τῶι ἱερῶι.<br>
 <a href="https://papygreek.com/text/55763">upz.1.2</a>, l. 1-4, sent.
-1</p>
-<p>καὶ εἰ ἐκ τῶν <strong>πρώτων</strong> πυρῶν ἐμβάλῃ εἰς Ἀλεξάνδρειαν ,
-σήμανον·<br>
+1</p></li>
+<li><p>καὶ εἰ ἐκ τῶν <strong>πρώτων</strong> πυρῶν ἐμβάλῃ εἰς
+Ἀλεξάνδρειαν , σήμανον·<br>
 <a href="https://papygreek.com/text/1033">bgu.16.2611</a>, l. 4-5, sent.
-4</p>
+4</p></li>
+</ol>
 <h2 id="discussion">Discussion</h2>
 <p>The overwhelmingly predominant postnominal position of numerals in
 non-articular phrases found in papyri is in contrast with the results
@@ -37,7 +41,7 @@ is found more commonly before the governing noun, regardless of whether
 the noun is definite or not.</p>
 <p>Preposing the numeral in non-articular NPs is often done in order to
 achieve emphasis (also resulting in hyperbaton):</p>
-<ol type="1">
+<ol start="5" type="1">
 <li>ἰδοῦ δὴ <strong>τρίτην</strong> ἐπιστολὴν σοι γράφω.<br>
 idoû dḕ trítēn epistolḕn soi gráfō.<br>
 <em>Look now, this is the third letter I am writing you.</em><br>
@@ -57,4 +61,4 @@ the nature of our documents - letters, contracts, petitions, and other
 texts concerning business affairs and employing widely used dating
 formulae.</p>
 <p>In the Duke-nlp corpus, the wide-spread tendency for placing the
-numeral after the noun in non-articular phrases is also observable;</p>
+numeral after the noun in non-articular phrases is also observable.</p>
