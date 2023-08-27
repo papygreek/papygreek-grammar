@@ -1,10 +1,13 @@
 <h1>5.2 Order of subject and verb</h1>
 <p>In Ancient Greek, the subject is often omitted in sentences where it
-can be understood from the context. In the literary treebanked corpus,
-however, the number of sentences in which the subject is explicitly
-mentioned is higher than the number of sentences where it has been
-omitted (60% vs.&nbsp;40%). In the PapyGreek corpus, sentences with
-explicitly mentioned SBJ are far fewer - only 23% of all sentences. In
-Duke-nlp the ratio is also in favour of omitting the subject.</p>
+can be understood from the the personal ending of the verb and the
+context, e.g.&nbsp;if the subject has already been mentioned in a previous
+sentence and is not changed.</p>
+<p>In the literary treebanked corpus, the number of sentences in which
+the subject is explicitly mentioned is higher than the number of
+sentences where it has been omitted (60% vs.&nbsp;40%). In the PapyGreek
+corpus, sentences with explicitly mentioned SBJ are far fewer - only 23%
+of all sentences. In Duke-nlp the ratio is also in favour of omitting
+the subject.</p>
 <p>When the subject is present in the sentence, it is nearly twice as
-common for it to be placed before than after the verb: <br></p>
+common for it to be placed before than after the verb:</p>
