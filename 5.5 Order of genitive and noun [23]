@@ -114,8 +114,8 @@ perì tês práseōs tôn himatíōn<br>
 <p>In Literature, the definiteness of the genitive plays a significant
 role for its position in the NP. Non-articular genitives are more often
 preposed than postposed, while articular genitives appear more often
-after their governing noun (Yordanova, forthcoming). In papyri, however,
-both in the PapyGreek corpus and in the automatically annotated Duke-nlp
+after their governing noun.<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a> In papyri, however, both
+in the PapyGreek corpus and in the automatically annotated Duke-nlp
 corpus, there is no notable difference between the preferred placement
 of articular and non-articular genitives.</p>
 <h3 id="variety-of-lemmata-participating-in-nps-with-adnominal-genitives">Variety
@@ -136,7 +136,7 @@ postposed genitives.</p>
 <li><a data-link-newtab="" href="/search/163" data-url="search/163">All instances of post-posed adnominal genitives</a></li>
 </ul>
 <p>*Note: the discussion above is based on searches designed and
-performed in the KTB platform<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a>, where additional
+performed in the KTB platform<a href="#fn2" class="footnote-ref" id="fnref2" role="doc-noteref"><sup>2</sup></a>, where additional
 annotation performed on the treebanked texts allows for optimal
 reduction of false positive results. The search results available
 through PapyGreek’s search may vary.</p>
@@ -163,5 +163,6 @@ functional analysis of word order freedom in the noun phrase”</span> 84
 <hr>
 <ol>
 <li id="fn1"><p>Yordanova, forthcoming.<a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn2"><p>Yordanova, forthcoming.<a href="#fnref2" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
 </ol>
 </section>
