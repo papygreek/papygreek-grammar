@@ -81,15 +81,13 @@ They are therefore discussed in chapter <a href="https://papygreek.com/grammar/9
 noun</a>. For differentiating between quantifiers and proper adjectives,
 additional annotation has been performed outside of the scope of the
 PapyGreek treebanked database (Yordanova-Nanev, forthcoming).</p>
-<p>The modern scholarly consensus (cf. <span class="citation" data-cites="dik1997">Dik (1997)</span>) is that in Classical Greek the
-main factor behind the preferred ordering is pragmatics: the “natural”,
-unmarked order is the noun preceding the adjective, while an adjective
-preceding its governing noun is emphasized in some way. However, there
-are other factors that can influence the position of the adjectival
-modifier in the noun phrase, like the semantic type of the adjective
-(<span class="citation" data-cites="bergson1960">Bergson (1960)</span>,
-<span class="citation" data-cites="devinestephens2000">Devine and
-Stephens (2000)</span>).</p>
+<p>The modern scholarly consensus <span class="citation" data-cites="dik1997">(<strong>dik2007?</strong>)</span> is that in
+Classical Greek the main factor behind the preferred ordering is
+pragmatics: the “natural”, unmarked order is the noun preceding the
+adjective, while an adjective preceding its governing noun is emphasized
+in some way. However, there are other factors that can influence the
+position of the adjectival modifier in the noun phrase, like the
+semantic type of the adjective (<span class="citation" data-cites="bergson1960">Bergson (1960)</span>, <span class="citation" data-cites="devinestephens2000">(<strong>devinestephens2000?</strong>)</span>).</p>
 <p>In papyri, articular phrases show similar frequencies of the order
 patterns to those attested in the treebanked literary corpus, where the
 most common placement of the adjective is between the article and the
@@ -127,16 +125,6 @@ Hauptzügen.</em> Stockholm: Almqvist &amp; Wiksell.
 <div id="ref-celano2014c" class="csl-entry" role="listitem">
 Celano, Giuseppe G.A. 2014c. <em>Guidelines for the Ancient Greek
 Dependency Treebank 2.0</em>. Perseus Digital Library. <a href="https://github.com/PerseusDL/treebank_data/blob/master/AGDT2/guidelines/Greek_guidelines.md#21-article">https://github.com/PerseusDL/treebank_data/blob/master/AGDT2/guidelines/Greek_guidelines.md#21-article</a>.
-</div>
-<div id="ref-devinestephens2000" class="csl-entry" role="listitem">
-Devine, Andrew M., and Laurence D. Stephens. 2000. <em>Discontinuous
-syntax: hyperbaton in Greek</em>. New York: Oxford University Press. <a href="https://worldcat.org/title/191932199">https://worldcat.org/title/191932199</a>.
-</div>
-<div id="ref-dik1997" class="csl-entry" role="listitem">
-Dik, Helma. 1997. <span>“Interpreting adjective position in
-Herodotus.”</span> In <em>Grammar as interpretation: Greek Literature in
-its linguistic contexts</em>, edited by Egbert J. Bakker, 55–76. Leiden
-- New York: Brill.
 </div>
 <div id="ref-emde2019" class="csl-entry" role="listitem">
 Emde Boas, Evert van, Albert Rijksbaron, Luuk Huitink, and Mathieu de
