@@ -91,16 +91,16 @@ in the automatically-annotated Duke-nlp corpus of documentary
 papyri.</p>
 <h3 id="syntactic-function-of-the-genitive">Syntactic function of the
 genitive</h3>
-<p>Although other scholars argue that the heaviness principle is not
-applicable n Literature, the syntactic function of the genitive is
-influential for its position in the NP, as presented in earlier studies
-on the noun phrase <span class="citation" data-cites="manolessou2000">(Manolessou 2000)</span> and confirmed by an
-investigation of the literary treebanked corpus. When the genitive is
-argumental (objective or subjective), the likelihood of it appearing in
-internal position (between the article and the np-head) is much higher
-than if it is partitive or possessive. In the documentary texts in the
-PapyGreek corpus, however, argumental genitives display no such
-preference, and tend to be most often postposed:</p>
+<p>The syntactic function of the genitive may exert an influence over
+its position in the NP, as presented in earlier studies on the noun
+phrase <span class="citation" data-cites="manolessou2000">(Manolessou
+2000)</span> and confirmed by an investigation of the literary
+treebanked corpus. When the genitive is argumental (objective or
+subjective), the likelihood of it appearing in internal position
+(between the article and the np-head) is much higher than if it is
+partitive or possessive. In the documentary texts in the PapyGreek
+corpus, however, argumental genitives display no such preference, and
+tend to be most often postposed:</p>
 <ol type="1">
 <li>περὶ τῆς πράσεως <strong>τῶν ἱματίων</strong><br>
 perì tês práseōs tôn himatíōn<br>
