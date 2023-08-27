@@ -1,4 +1,9 @@
 <h1>5.2 Order of subject and verb</h1>
+<h2 id="relevant-postag-codes-syntactic-relation-labels">Relevant postag
+codes / syntactic relation labels</h2>
+<p><strong>Syntactic label:</strong> The subject is annotated as SBJ and
+the main predicate of the sentence receives the label PRED. If the verb
+is in a subordinate clause, its relation is set to be</p>
 <p>In Ancient Greek, the subject is often omitted in sentences where it
 can be understood from the the personal ending of the verb and the
 context, e.g.&nbsp;if the subject has already been mentioned in a previous
