@@ -1,4 +1,9 @@
 <h1>5.1 Order of subject, object, and verb</h1>
+<h2 id="relevant-postag-codes-syntactic-relation-labels">Relevant postag
+codes / syntactic relation labels</h2>
+<p><strong>Syntactic label:</strong></p>
+<p>The main predicate in the sentence is labeled as PRED, the subject -
+as SBJ, and the object - as OBJ.</p>
 <p><strong>Example</strong>: καὶ οἱ τέκτονες πεπληρώκασι τοὺς μισθούς·
 (kaì hoí téktones peplērṓkasi toùs misthoús) - <em>and the builders have
 paid the wages</em> (bgu.16.2607, l. 23-24, s. 14)</p>
