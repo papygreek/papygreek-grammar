@@ -1,4 +1,10 @@
 <h1>5.3 Order of object and verb</h1>
+<h2 id="relevant-postag-codes-syntactic-relation-labels">Relevant postag
+codes / syntactic relation labels</h2>
+<p><strong>Syntactic label:</strong> The object (direct or indirect) is
+annotated as OBJ and the main predicate of the sentence receives the
+label PRED. If the verb is in a subordinate clause, its relation
+reflects its function to its linguistic parent.</p>
 <h2 id="discussion">Discussion</h2>
 <p>The discussion below concerns primarily direct objects, which in
 Ancient Greek, for the majority of verbs, are in the accusative. Objects
