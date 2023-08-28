@@ -5,6 +5,7 @@ codes / syntactic relation labels</h2>
 annotated as OBJ and the main predicate of the sentence receives the
 label PRED. If the verb is in a subordinate clause, its relation
 reflects its function to its linguistic parent.</p>
+<p><strong>Example:</strong></p>
 <h2 id="discussion">Discussion</h2>
 <p>The discussion below concerns primarily direct objects, which in
 Ancient Greek, for the majority of verbs, are in the accusative. Objects
