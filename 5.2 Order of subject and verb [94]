@@ -27,8 +27,9 @@ sentences where it has been omitted (60% vs.&nbsp;40%). In the PapyGreek
 corpus, there is a significant variation between the different genres -
 private letters and petitions have far fewer sentences with explicitly
 mentioned SBJ - only 23% of all sentences, while legal and
-administration documents . In Duke-nlp the ratio is also in favour of
-omitting the subject.</p>
+administration documents have a nearly equal split between sentences
+with overt subject and sentences where the subject has been omitted.
+This tendency can be observed also in the Duke-nlp corpus.</p>
 <p>When the subject is present in the sentence, it is nearly twice as
 common for it to be placed before than after the verb:</p>
 <ol start="2" type="1">
