@@ -1,5 +1,5 @@
 <h1>3.4.4 Perfect group</h1>
-<h2 id="sari-is-editing">Sari is editing</h2>
+<p>-## Sari is editing</p>
 <h2 id="relevant-postag-codes">Relevant postag codes:</h2>
 <p><strong>Position and letters in postag string:</strong></p>
 <ol type="1">
@@ -72,7 +72,7 @@ active)</p></li>
 <td style="text-align: center;">-εσαν</td>
 </tr>
 <tr class="odd">
-<td style="text-align: left;">—</td>
+<td style="text-align: left;">——————</td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 </tr>
