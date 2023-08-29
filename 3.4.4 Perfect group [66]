@@ -35,41 +35,41 @@ active)</p></li>
 <table>
 <thead>
 <tr class="header">
-<th></th>
-<th>Primary</th>
-<th>Secondary</th>
+<th style="text-align: left;"></th>
+<th style="text-align: center;">Primary</th>
+<th style="text-align: center;">Secondary</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>1 sg</td>
-<td>-ᾰ</td>
-<td>-ειν</td>
+<td style="text-align: left;">1 sg</td>
+<td style="text-align: center;">-ᾰ</td>
+<td style="text-align: center;">-ειν</td>
 </tr>
 <tr class="even">
-<td>2 sg</td>
-<td>-ᾰς</td>
-<td>-εις</td>
+<td style="text-align: left;">2 sg</td>
+<td style="text-align: center;">-ᾰς</td>
+<td style="text-align: center;">-εις</td>
 </tr>
 <tr class="odd">
-<td>3 sg</td>
-<td>-ε(ν)</td>
-<td>-ει(ν)</td>
+<td style="text-align: left;">3 sg</td>
+<td style="text-align: center;">-ε(ν)</td>
+<td style="text-align: center;">-ει(ν)</td>
 </tr>
 <tr class="even">
-<td>1 pl</td>
-<td>-ᾰμεν</td>
-<td>-εμεν</td>
+<td style="text-align: left;">1 pl</td>
+<td style="text-align: center;">-ᾰμεν</td>
+<td style="text-align: center;">-εμεν</td>
 </tr>
 <tr class="odd">
-<td>2 pl</td>
-<td>-ᾰτε</td>
-<td>-ετε</td>
+<td style="text-align: left;">2 pl</td>
+<td style="text-align: center;">-ᾰτε</td>
+<td style="text-align: center;">-ετε</td>
 </tr>
 <tr class="even">
-<td>3 pl</td>
-<td>-ᾱσι(ν)</td>
-<td>-εσαν</td>
+<td style="text-align: left;">3 pl</td>
+<td style="text-align: center;">-ᾱσι(ν)</td>
+<td style="text-align: center;">-εσαν</td>
 </tr>
 </tbody>
 </table>
