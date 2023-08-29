@@ -26,7 +26,7 @@ the subject is explicitly mentioned is higher than the number of
 sentences where it has been omitted (60% vs.&nbsp;40%). In the PapyGreek
 corpus, there is a significant variation between the different genres -
 private letters and petitions have far fewer sentences with explicitly
-mentioned SBJ - only 23% of all sentences, while legal and
+mentioned SBJ - only 20% of all sentences, while legal and
 administration documents have a nearly equal split between sentences
 with overt subject and sentences where the subject has been omitted.
 This tendency can be observed also in the Duke-nlp corpus.</p>
