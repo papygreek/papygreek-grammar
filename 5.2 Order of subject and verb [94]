@@ -30,8 +30,10 @@ mentioned SBJ - only 23% of all sentences, while legal and
 administration documents have a nearly equal split between sentences
 with overt subject and sentences where the subject has been omitted.
 This tendency can be observed also in the Duke-nlp corpus.</p>
-<p>When the subject is present in the sentence, it is nearly twice as
-common for it to be placed before than after the verb:</p>
+<p>There is an obvious difference between the genres also in the
+dominant order patterns. In private correspondence and petitions, when
+the subject is present in the sentence, it is nearly twice as common for
+it to be placed before than after the verb:</p>
 <ol start="2" type="1">
 <li><strong>Τύχων</strong> <strong>ἥκει</strong> εἰς τὴν πόλιν τούτου
 χάριν·<br>
@@ -43,11 +45,8 @@ Túchōn hḗkei eis tḕn pólin toútu chárin.<br>
 <p>As the subject is often the topic of the sentence, its position
 before the verb is in line with the information structure suggested by
 the pragmatic paradigm <span class="citation" data-cites="dik1995">(<strong>dik1995?</strong>)</span>.</p>
-<p>Many of the preposed subjects in our corpus are from letter opening
-formulae, where the sender is mentioned first:</p>
-<ol start="3" type="1">
-<li></li>
-</ol>
+<p>In legal documents, however, the ratio between <em>subject-verb</em>
+and <em>verb-subject</em> instances is nearly equal.</p>
 <h2 id="queries-in-the-papygreek-corpus">Queries in the PapyGreek
 Corpus:</h2>
 <h2 id="link-to-relevant-wals-chapter">Link to relevant WALS
