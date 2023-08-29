@@ -1,0 +1,115 @@
+<h1>3.4.4 Perfect group</h1>
+<h2 id="sari-is-editing">Sari is editing</h2>
+<h2 id="relevant-postag-codes">Relevant postag codes:</h2>
+<p><strong>Position and letters in postag string:</strong></p>
+<ol type="1">
+<li><p>part of speech: <strong>1st</strong>; letter: <strong>v</strong>
+(verb)</p></li>
+<li><p>person: <strong>2nd</strong>; numbers: <strong>1</strong>,
+<strong>2</strong>, <strong>3</strong></p></li>
+<li><p>number: <strong>3rd</strong>; letters: <strong>s</strong>
+(singular), <strong>p</strong> (plural), <strong>d</strong>
+(dual)</p></li>
+<li><p>tense: <strong>4th</strong>; letters: <strong>p</strong>
+(present), <strong>i</strong> (imperfect), <strong>r</strong> (perfect),
+<strong>l</strong> (pluperfect), <strong>t</strong> (future perfect),
+<strong>f</strong> (future), <strong>a</strong> (aorist)</p></li>
+<li><p>mood: <strong>5th</strong>; letters: <strong>i</strong>
+(indicative), <strong>s</strong> (subjunctive), <strong>o</strong>
+(optative), <strong>n</strong> (infinitive), <strong>m</strong>
+(imperative), <strong>p</strong> (participle)</p></li>
+<li><p>voice: <strong>6th</strong>; letters: <strong>a</strong>
+(active), <strong>p</strong> (passive), <strong>m</strong> (middle),
+<strong>e</strong> (medio-passive)</p></li>
+</ol>
+<p><strong>Example postag string:</strong></p>
+<ul>
+<li><p>v3sria— (verb, 3rd singular, perfect, indicative,
+active)</p></li>
+<li><p>v1saia— (verb, 1st person, singular, pluperfect, indicative,
+active)</p></li>
+<li><p>v1stia— (verb, 1st person, singural, future perfect, indicative,
+active)</p></li>
+</ul>
+<h2 id="endings">Endings</h2>
+<table>
+<thead>
+<tr class="header">
+<th></th>
+<th>Primary</th>
+<th>Secondary</th>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>1 sg</td>
+<td>-ᾰ</td>
+<td>-ειν</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>2 sg</td>
+<td>-ᾰς</td>
+<td>-εις</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>3 sg</td>
+<td>-ε(ν)</td>
+<td>-ει(ν)</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>1 pl</td>
+<td>-</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<h2 id="summary">Summary</h2>
+<p>The perfect indicative denotes an action that is completed.</p>
+<p>The future perfect is rarely used. The active future perfect is
+usually formed by combining a perfect participle and the future of εἰμί.
+This so- called periphrastic formation is also quite rare. The future
+perfect passive is inflected like the future middle. (Smyth §659a) The
+future perfect is rarely found outside the indicative.</p>
+<p>The future perfect is used to express a future state resulting from a
+completed action.</p>
+<h2 id="examples-of-perfect-tense-from-papygreek-corpus">Examples of
+perfect tense from PapyGreek corpus</h2>
+<ol type="1">
+<li>τοὺς χαλκοὺς οὓς <strong>κέχρηκας</strong> Πετοσίρει καὶ Σεμφθήαι
+καὶ Σαραπίωνι <strong>κεκόμισμαι</strong>.<br>
+(toùs khalkoùs hoùs <strong>kékhrēkas</strong> Petosírei kaì Semphthḗai
+kaì Sarapíōni <strong>kekómismai</strong>.)<br>
+<em>I have received back the coppers which you loaned to Petosiris and
+Semphth and Sarapion.</em><br>
+<a href="https://papygreek.com/text/55817">upz.1.68.</a>, 3 (sent. 4),
+transl. White (1986) p.&nbsp;</li>
+</ol>
+<p></p><div style="height:300px; " data-treeid="1" class="sentence-tree tf-tree tf-result" data-json="eyJvayI6IHRydWUsICJyZXN1bHQiOiBbeyJpZCI6IDc3NDc3LCAibiI6IDUsICJoZWFkIjogIjgiLCAiZm9ybSI6ICJcdTAzYTBcdTAzYjVcdTAzYzRcdTAzYmZcdTAzYzNcdTAzYWZcdTAzYzFcdTAzYjlcdTAzYmZcdTAzYzIiLCAiaW5zZXJ0aW9uX2lkIjogbnVsbCwgImFydGlmaWNpYWwiOiBudWxsLCAicmVsYXRpb24iOiAiT0JKX0NPIiwgInBvc3RhZyI6ICJuLXMtLS1tZy0iLCAic29ydGVyMSI6IDUsICJzb3J0ZXIyIjogIiIsICJkZXB0aCI6IDR9LCB7ImlkIjogNzc0NzgsICJuIjogNiwgImhlYWQiOiAiOCIsICJmb3JtIjogIlx1MDNiYVx1MDNiMVx1MWY3NiIsICJpbnNlcnRpb25faWQiOiBudWxsLCAiYXJ0aWZpY2lhbCI6IG51bGwsICJyZWxhdGlvbiI6ICJBdXhZIiwgInBvc3RhZyI6ICJjLS0tLS0tLS0iLCAic29ydGVyMSI6IDYsICJzb3J0ZXIyIjogIiIsICJkZXB0aCI6IDR9LCB7ImlkIjogNzc0NzksICJuIjogNywgImhlYWQiOiAiOCIsICJmb3JtIjogIlx1MDNhM1x1MDNiNVx1MDNiY1x1MDNjNlx1MDNiOFx1MDNhZVx1MDNiMVx1MDNiOSIsICJpbnNlcnRpb25faWQiOiBudWxsLCAiYXJ0aWZpY2lhbCI6IG51bGwsICJyZWxhdGlvbiI6ICJPQkpfQ08iLCAicG9zdGFnIjogIm4tcy0tLW1kLSIsICJzb3J0ZXIxIjogNywgInNvcnRlcjIiOiAiIiwgImRlcHRoIjogNH0sIHsiaWQiOiA3NzQ4MSwgIm4iOiA5LCAiaGVhZCI6ICI4IiwgImZvcm0iOiAiXFx8XHUwM2EzXHUwM2IxXHUwM2MxXHUwM2IxXHUwM2MwXHUwM2FmXHUwM2M5XHUwM2JkXHUwM2I5fC8iLCAiaW5zZXJ0aW9uX2lkIjogbnVsbCwgImFydGlmaWNpYWwiOiBudWxsLCAicmVsYXRpb24iOiAiT0JKX0NPIiwgInBvc3RhZyI6ICJuLXMtLS1tZC0iLCAic29ydGVyMSI6IDksICJzb3J0ZXIyIjogIiIsICJkZXB0aCI6IDR9LCB7ImlkIjogNzc0NzUsICJuIjogMywgImhlYWQiOiAiNCIsICJmb3JtIjogIlx1MDNiZlx1MWY1M1x1MDNjMiIsICJpbnNlcnRpb25faWQiOiBudWxsLCAiYXJ0aWZpY2lhbCI6IG51bGwsICJyZWxhdGlvbiI6ICJPQkoiLCAicG9zdGFnIjogInAtcC0tLW1hLSIsICJzb3J0ZXIxIjogMywgInNvcnRlcjIiOiAiIiwgImRlcHRoIjogM30sIHsiaWQiOiA3NzQ4MCwgIm4iOiA4LCAiaGVhZCI6ICI0IiwgImZvcm0iOiAiXFx8XHUwM2JhXHUwM2IxXHUxZjc2fC8iLCAiaW5zZXJ0aW9uX2lkIjogbnVsbCwgImFydGlmaWNpYWwiOiBudWxsLCAicmVsYXRpb24iOiAiQ09PUkQiLCAicG9zdGFnIjogImMtLS0tLS0tLSIsICJzb3J0ZXIxIjogOCwgInNvcnRlcjIiOiAiIiwgImRlcHRoIjogM30sIHsiaWQiOiA3NzQ3MywgIm4iOiAxLCAiaGVhZCI6ICIyIiwgImZvcm0iOiAiXHUwM2M0XHUwM2JmXHUxZjdhXHUwM2MyIiwgImluc2VydGlvbl9pZCI6IG51bGwsICJhcnRpZmljaWFsIjogbnVsbCwgInJlbGF0aW9uIjogIkFUUiIsICJwb3N0YWciOiAibC1wLS0tbWEtIiwgInNvcnRlcjEiOiAxLCAic29ydGVyMiI6ICIiLCAiZGVwdGgiOiAyfSwgeyJpZCI6IDc3NDc2LCAibiI6IDQsICJoZWFkIjogIjIiLCAiZm9ybSI6ICJcdTAzYmFcdTAzYWRcdTAzYzdcdTAzYzFcdTAzYjdcdTAzYmFcdTAzYjFcdTAzYzIiLCAiaW5zZXJ0aW9uX2lkIjogbnVsbCwgImFydGlmaWNpYWwiOiBudWxsLCAicmVsYXRpb24iOiAiQVRSIiwgInBvc3RhZyI6ICJ2MnNyaWEtLS0iLCAic29ydGVyMSI6IDQsICJzb3J0ZXIyIjogIiIsICJkZXB0aCI6IDJ9LCB7ImlkIjogNzc0NzQsICJuIjogMiwgImhlYWQiOiAiMTAiLCAiZm9ybSI6ICJcdTAzYzdcdTAzYjFcdTAzYmJcdTAzYmFcdTAzYmZcdTFmN2FcdTAzYzIiLCAiaW5zZXJ0aW9uX2lkIjogbnVsbCwgImFydGlmaWNpYWwiOiBudWxsLCAicmVsYXRpb24iOiAiT0JKIiwgInBvc3RhZyI6ICJuLXAtLS1tYS0iLCAic29ydGVyMSI6IDIsICJzb3J0ZXIyIjogIiIsICJkZXB0aCI6IDF9LCB7ImlkIjogNzc0ODIsICJuIjogMTAsICJoZWFkIjogIjAiLCAiZm9ybSI6ICJcdTAzYmFcdTAzYjVcdTAzYmFcdTAzYmZcdTAzYmNcdTAzYjlcdTAzYzIiLCAiaW5zZXJ0aW9uX2lkIjogbnVsbCwgImFydGlmaWNpYWwiOiBudWxsLCAicmVsYXRpb24iOiAiUFJFRCIsICJwb3N0YWciOiAidl9fcl9fLS0tIiwgInNvcnRlcjEiOiAxMCwgInNvcnRlcjIiOiAiIiwgImRlcHRoIjogMH0sIHsiaWQiOiA3NzQ4MywgIm4iOiAxMSwgImhlYWQiOiAiMCIsICJmb3JtIjogIi4iLCAiaW5zZXJ0aW9uX2lkIjogbnVsbCwgImFydGlmaWNpYWwiOiBudWxsLCAicmVsYXRpb24iOiAiQXV4SyIsICJwb3N0YWciOiAidS0tLS0tLS0tIiwgInNvcnRlcjEiOiAxMSwgInNvcnRlcjIiOiAiIiwgImRlcHRoIjogMH1dLCAiaGlnaGxpZ2h0X25vZGVzIjogIjQsMTAiLCAiaGlnaGxpZ2h0X2VkZ2VzIjogIiIsICJpZCI6IDF9"></div><p></p>
+<h2 id="examples-of-pluperfect-tense-from-papygreek-corpus">Examples of
+pluperfect tense from PapyGreek corpus</h2>
+<ol type="1">
+<li>Original layer:<br>
+<strong>ἑτεμάκην</strong> αἰματὴν ἐρθῖν.<br>
+(<strong>hetemákēn</strong> aimatḕn erthîn.)<br>
+Regularized layer:<br>
+<strong>ἡτοιμάκειν</strong> ἐμαυτὴν ἐλθεῖν.<br>
+(<strong>hētoimákein</strong> emautḕn eltheîn.)<br>
+<em>I had prepared myself for coming.</em><br>
+<a href="https://papygreek.com/text/46611">sb.14.11580.</a>, 2 (sent.
+2), transl. Bagnall - Cribiore (2006) p.&nbsp;284.</li>
+</ol>
+<p></p><div style="height:300px; " data-treeid="2" class="sentence-tree tf-tree tf-result" data-json="eyJvayI6IHRydWUsICJyZXN1bHQiOiBbeyJpZCI6IDYyMzA1LCAibiI6IDIsICJoZWFkIjogIjEiLCAiZm9ybSI6ICJcdTAzYjFcdTFmMzBcdTAzYmNcdTAzYjFcdTAzYzRcdTFmNzRcdTAzYmQiLCAiaW5zZXJ0aW9uX2lkIjogbnVsbCwgImFydGlmaWNpYWwiOiBudWxsLCAicmVsYXRpb24iOiAiT0JKIiwgInBvc3RhZyI6ICJwLXMtLS1mYS0iLCAic29ydGVyMSI6IDIsICJzb3J0ZXIyIjogIiIsICJkZXB0aCI6IDF9LCB7ImlkIjogNjIzMDYsICJuIjogMywgImhlYWQiOiAiMSIsICJmb3JtIjogIlx1MWYxMFx1MDNjMVx1MDNiOFx1MWZkNlx1MDNiZCIsICJpbnNlcnRpb25faWQiOiBudWxsLCAiYXJ0aWZpY2lhbCI6IG51bGwsICJyZWxhdGlvbiI6ICJBRFYiLCAicG9zdGFnIjogInYtLWFuYS0tLSIsICJzb3J0ZXIxIjogMywgInNvcnRlcjIiOiAiIiwgImRlcHRoIjogMX0sIHsiaWQiOiA2MjMwNCwgIm4iOiAxLCAiaGVhZCI6ICIwIiwgImZvcm0iOiAiXHUxZjExXHUwM2M0XHUwM2I1XHUwM2JjXHUwM2FjXHUwM2JhXHUwM2I3XHUwM2JkIiwgImluc2VydGlvbl9pZCI6IG51bGwsICJhcnRpZmljaWFsIjogbnVsbCwgInJlbGF0aW9uIjogIlBSRUQiLCAicG9zdGFnIjogInYxc2xpYS0tLSIsICJzb3J0ZXIxIjogMSwgInNvcnRlcjIiOiAiIiwgImRlcHRoIjogMH0sIHsiaWQiOiA2MjMwNywgIm4iOiA0LCAiaGVhZCI6ICIwIiwgImZvcm0iOiAiLiIsICJpbnNlcnRpb25faWQiOiBudWxsLCAiYXJ0aWZpY2lhbCI6IG51bGwsICJyZWxhdGlvbiI6ICJBdXhLIiwgInBvc3RhZyI6ICJ1LS0tLS0tLS0iLCAic29ydGVyMSI6IDQsICJzb3J0ZXIyIjogIiIsICJkZXB0aCI6IDB9XSwgImhpZ2hsaWdodF9ub2RlcyI6ICIxIiwgImhpZ2hsaWdodF9lZGdlcyI6ICIiLCAiaWQiOiAyfQ=="></div><p></p>
+<h2 id="examples-of-future-perfect-tense-from-papygreek-corpus">Examples
+of future perfect tense from PapyGreek corpus</h2>
+<p>No examples in the corpus. (double check!)</p>
+<h2 id="discussion">Discussion</h2>
