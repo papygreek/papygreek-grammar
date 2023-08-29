@@ -24,60 +24,24 @@ infinitive, active)</p>
 <thead>
 <tr class="header">
 <th></th>
-<th>Active</th>
+<th style="text-align: center;">Active</th>
 <th>Medio-passive</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td>Thematic</td>
-<td>-ειν (&lt;-ε-εν)</td>
+<td style="text-align: center;">-ειν (&lt;-ε-εν)</td>
 <td></td>
 </tr>
 <tr class="even">
 <td>Athematic</td>
-<td>-ναι / -εναι</td>
+<td style="text-align: center;">-ναι / -εναι</td>
 <td>-σθαι</td>
 </tr>
 <tr class="odd">
 <td>Sigmatic aorist</td>
-<td>-(σ)αι</td>
-<td></td>
-</tr>
-</tbody>
-</table>
-<table>
-<thead>
-<tr class="header">
-<th></th>
-<th>Active</th>
-<th>Medio-passive</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>Thematic</td>
-<td>-ειν (&lt;-ε-εν)</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>—————–</td>
-<td>—————</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>Athematic</td>
-<td>-ναι / -εναι</td>
-<td>-σθαι</td>
-</tr>
-<tr class="even">
-<td>—————–</td>
-<td>—————</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>Sigmatic aorist</td>
-<td>-(σ)αι</td>
+<td style="text-align: center;">-(σ)αι</td>
 <td></td>
 </tr>
 </tbody>
