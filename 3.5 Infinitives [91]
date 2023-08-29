@@ -23,24 +23,24 @@ infinitive, active)</p>
 <table>
 <thead>
 <tr class="header">
-<th></th>
+<th style="text-align: left;"></th>
 <th style="text-align: center;">Active</th>
-<th style="text-align: center;">:Medio-passive:</th>
+<th style="text-align: center;">Medio-passive</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>Thematic</td>
+<td style="text-align: left;">Thematic</td>
 <td style="text-align: center;">-ειν (&lt;-ε-εν)</td>
 <td style="text-align: center;"></td>
 </tr>
 <tr class="even">
-<td>Athematic</td>
+<td style="text-align: left;">Athematic</td>
 <td style="text-align: center;">-ναι / -εναι</td>
 <td style="text-align: center;">-σθαι</td>
 </tr>
 <tr class="odd">
-<td>Sigmatic aorist</td>
+<td style="text-align: left;">Sigmatic aorist</td>
 <td style="text-align: center;">-(σ)αι</td>
 <td style="text-align: center;"></td>
 </tr>
