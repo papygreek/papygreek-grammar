@@ -19,7 +19,17 @@
 </ol>
 <p><strong>Example postag string:</strong> v–pna— (verb, present,
 infinitive, active)</p>
-<div class="line-block">&nbsp;&nbsp;lllllll | Active | Medio-passive |</div>
+<table>
+<thead>
+<tr class="header">
+<th>lllllll</th>
+<th>Active</th>
+<th>Medio-passive</th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
 <h2 id="summary">Summary</h2>
 <p>Infinitive is a non-finite verb form. It is not declined for person
 or number but is found in all voices and in present, aorist, future and
