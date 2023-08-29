@@ -24,9 +24,11 @@ sentence and is not changed <span class="citation" data-cites="emde2019">(Emde B
 <p>In the literary treebanked corpus, the number of sentences in which
 the subject is explicitly mentioned is higher than the number of
 sentences where it has been omitted (60% vs.&nbsp;40%). In the PapyGreek
-corpus, sentences with explicitly mentioned SBJ are far fewer - only 23%
-of all sentences. In Duke-nlp the ratio is also in favour of omitting
-the subject.</p>
+corpus, there is a significant variation between the different genres -
+private letters and petitions have far fewer sentences with explicitly
+mentioned SBJ - only 23% of all sentences, while legal and
+administration documents . In Duke-nlp the ratio is also in favour of
+omitting the subject.</p>
 <p>When the subject is present in the sentence, it is nearly twice as
 common for it to be placed before than after the verb:</p>
 <ol start="2" type="1">
