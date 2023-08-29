@@ -38,8 +38,6 @@ active)</p></li>
 <th></th>
 <th>Primary</th>
 <th>Secondary</th>
-<th></th>
-<th></th>
 </tr>
 </thead>
 <tbody>
@@ -47,28 +45,25 @@ active)</p></li>
 <td>1 sg</td>
 <td>-ᾰ</td>
 <td>-ειν</td>
-<td></td>
-<td></td>
 </tr>
 <tr class="even">
 <td>2 sg</td>
 <td>-ᾰς</td>
 <td>-εις</td>
-<td></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td>3 sg</td>
 <td>-ε(ν)</td>
 <td>-ει(ν)</td>
-<td></td>
-<td></td>
 </tr>
 <tr class="even">
 <td>1 pl</td>
 <td>-ᾰμεν</td>
+<td>-εμεν</td>
+</tr>
+<tr class="odd">
+<td>2 pl</td>
 <td>-</td>
-<td></td>
 <td></td>
 </tr>
 </tbody>
