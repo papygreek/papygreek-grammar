@@ -1,0 +1,63 @@
+<h1>3.6 Participles</h1>
+<h2 id="sari-is-editing">Sari is editing</h2>
+<h2 id="relevant-postag-codes">Relevant postag codes:</h2>
+<p><strong>Position and letters in postag string:</strong></p>
+<ol type="1">
+<li><p>part of speech: <strong>1st</strong>; letter: <strong>v</strong>
+(verb)</p></li>
+<li><p>number: <strong>3rd</strong>; letters: <strong>s</strong>
+(singular), <strong>d</strong> (dual), <strong>p</strong>
+(plural)</p></li>
+<li><p>tense: <strong>4th</strong>; letters: <strong>p</strong>
+(present), <strong>i</strong> (imperfect), <strong>r</strong> (perfect),
+<strong>l</strong> (pluperfect), <strong>t</strong> (future perfect),
+<strong>f</strong> (future), <strong>a</strong> (aorist)</p></li>
+<li><p>mood: <strong>5th</strong>; letters: <strong>i</strong>
+(indicative), <strong>s</strong> (subjunctive), <strong>o</strong>
+(optative), <strong>n</strong> (infinitive), <strong>m</strong>
+(imperative), <strong>p</strong> (participle)</p></li>
+<li><p>voice: <strong>6th</strong>; letters: <strong>a</strong>
+(active), <strong>p</strong> (passive), <strong>m</strong> (middle),
+<strong>e</strong> (medio-passive)</p></li>
+<li><p>gender: <strong>7th</strong>; letters: <strong>m</strong>
+(masculine), <strong>f</strong> (feminine), <strong>n</strong>
+(neuter)</p></li>
+<li><p>case: <strong>8th</strong>; letters: <strong>n</strong>
+(nominative), <strong>g</strong> (genitive), <strong>d</strong>
+(dative), <strong>a</strong> (accusative), <strong>v</strong>
+(vocative)</p></li>
+</ol>
+<p><strong>Example postag string:</strong> v-pppemn- (verb, plural,
+present, participle, medio-passive, masculine, nominative )</p>
+<h2 id="summary">Summary</h2>
+<p>The declension tables for the participles can be found in
+<a data-link-newtab="" href="/smyth/body.1_div1.2_div2.6.html" data-url="smyth/body.1_div1.2_div2.6.html">Smyth §325</a>.</p>
+<p>Participle as + Attributive: participle is used like an adjective. +
+Substantive: with the article, the participle is used like a
+substantive. + Predicate: As a predicate, the participle completes the
+action of a finite verb. It can be either an obligatory constituent (the
+so-called supplementary participle) or an optional modifier (the
+so-called circumstantial participle). The latter can be divided into two
+groups: The participle is syntactically connected with one of the
+constituents of the main verb and agrees with it in gender, number and
+case (the so-called participium coniunctum) The participle is not
+syntactically connected to a constituent of the main verb, but has a
+subject-constituent of its own. The construction (i.e.&nbsp;subject and
+participle) is put in genitive (the so-called genitive absolute)
+(Rijksbaron 2006, 116)</p>
+<h2 id="examples-of-participles-from-papygreek-corpus">Examples of
+participles from PapyGreek corpus</h2>
+<ol type="1">
+<li><strong>ἀκούσαντες</strong> ἐν Ποίει τὰ περὶ σοῦ
+<strong>συνβεβηκότα</strong> περὶ το[ῦ] ἀνθρώπου τοῦ πρὸς σὲ τὴν ἀηδείαν
+<strong>ποήσαντος</strong> ἥκαμεν εἰς τὸ Σαραπιεῖον
+<strong>βολάμενοι</strong> συνμῖξαί σοι.<br>
+(akoúsantes en Poíei tà perì soû synbebēkóta perì toû anthrṓpou toû pròs
+sè tḕn aēdeían poḗsantos hḗkamen eis tò Sarapieîon bolámenoi sunmîxaí
+soi.)<br>
+Having heard in Pois about <strong>XXX</strong><br>
+<a href="https://papygreek.com/text/55822">upz.1.72.</a>, 4-11 (sent.),
+transl.</li>
+</ol>
+<p></p><div style="height:300px; " data-treeid="1" class="sentence-tree tf-tree tf-result" data-json="eyJvayI6IHRydWUsICJyZXN1bHQiOiBbeyJpZCI6IDc4MTc4LCAibiI6IDEzLCAiaGVhZCI6ICIxMiIsICJmb3JtIjogIlx1MDNjM1x1MWY3MiIsICJpbnNlcnRpb25faWQiOiBudWxsLCAiYXJ0aWZpY2lhbCI6IG51bGwsICJyZWxhdGlvbiI6ICJBRFYiLCAicG9zdGFnIjogInAycy0tLW1hLSIsICJzb3J0ZXIxIjogMTMsICJzb3J0ZXIyIjogIiIsICJkZXB0aCI6IDd9LCB7ImlkIjogNzgxNzksICJuIjogMTQsICJoZWFkIjogIjE1IiwgImZvcm0iOiAiXHUwM2M0XHUxZjc0XHUwM2JkIiwgImluc2VydGlvbl9pZCI6IG51bGwsICJhcnRpZmljaWFsIjogbnVsbCwgInJlbGF0aW9uIjogIkFUUiIsICJwb3N0YWciOiAibC1zLS0tZmEtIiwgInNvcnRlcjEiOiAxNCwgInNvcnRlcjIiOiAiIiwgImRlcHRoIjogN30sIHsiaWQiOiA3ODE3NiwgIm4iOiAxMSwgImhlYWQiOiAiMTYiLCAiZm9ybSI6ICJcdTAzYzRcdTAzYmZcdTFmZTYiLCAiaW5zZXJ0aW9uX2lkIjogbnVsbCwgImFydGlmaWNpYWwiOiBudWxsLCAicmVsYXRpb24iOiAiQVRSIiwgInBvc3RhZyI6ICJsLXMtLS1tZy0iLCAic29ydGVyMSI6IDExLCAic29ydGVyMiI6ICIiLCAiZGVwdGgiOiA2fSwgeyJpZCI6IDc4MTc3LCAibiI6IDEyLCAiaGVhZCI6ICIxNiIsICJmb3JtIjogIlx1MDNjMFx1MDNjMVx1MWY3OFx1MDNjMiIsICJpbnNlcnRpb25faWQiOiBudWxsLCAiYXJ0aWZpY2lhbCI6IG51bGwsICJyZWxhdGlvbiI6ICJBdXhQIiwgInBvc3RhZyI6ICJyLS0tLS0tLS0iLCAic29ydGVyMSI6IDEyLCAic29ydGVyMiI6ICIiLCAiZGVwdGgiOiA2fSwgeyJpZCI6IDc4MTgwLCAibiI6IDE1LCAiaGVhZCI6ICIxNiIsICJmb3JtIjogIlx1MWYwMFx1MDNiN1x1MDNiNFx1MDNiNVx1MDNhZlx1MDNiMVx1MDNiZCIsICJpbnNlcnRpb25faWQiOiBudWxsLCAiYXJ0aWZpY2lhbCI6IG51bGwsICJyZWxhdGlvbiI6ICJPQkoiLCAicG9zdGFnIjogIm4tcy0tLWZhLSIsICJzb3J0ZXIxIjogMTUsICJzb3J0ZXIyIjogIiIsICJkZXB0aCI6IDZ9LCB7ImlkIjogNzgxNzQsICJuIjogOSwgImhlYWQiOiAiMTAiLCAiZm9ybSI6ICJcdTAzYzRcdTAzYmZbXHUxZmU2XSIsICJpbnNlcnRpb25faWQiOiBudWxsLCAiYXJ0aWZpY2lhbCI6IG51bGwsICJyZWxhdGlvbiI6ICJBVFIiLCAicG9zdGFnIjogImwtXy0tLV9fLSIsICJzb3J0ZXIxIjogOSwgInNvcnRlcjIiOiAiIiwgImRlcHRoIjogNX0sIHsiaWQiOiA3ODE4MSwgIm4iOiAxNiwgImhlYWQiOiAiMTAiLCAiZm9ybSI6ICJcdTAzYzBcdTAzYmZcdTAzYWV8XHUwM2MzXHUwM2IxXHUwM2JkXHUwM2M0XHUwM2JmXHUwM2MyIiwgImluc2VydGlvbl9pZCI6IG51bGwsICJhcnRpZmljaWFsIjogbnVsbCwgInJlbGF0aW9uIjogIkFQT1MiLCAicG9zdGFnIjogInYtc2FwYW1nXyIsICJzb3J0ZXIxIjogMTYsICJzb3J0ZXIyIjogIiIsICJkZXB0aCI6IDV9LCB7ImlkIjogNzgxNzEsICJuIjogNiwgImhlYWQiOiAiNSIsICJmb3JtIjogIlx1MDNjM1x1MDNiZlx1MWZlNiIsICJpbnNlcnRpb25faWQiOiBudWxsLCAiYXJ0aWZpY2lhbCI6IG51bGwsICJyZWxhdGlvbiI6ICJBRFYiLCAicG9zdGFnIjogInAycy0tLW1nLSIsICJzb3J0ZXIxIjogNiwgInNvcnRlcjIiOiAiIiwgImRlcHRoIjogNH0sIHsiaWQiOiA3ODE3NSwgIm4iOiAxMCwgImhlYWQiOiAiOCIsICJmb3JtIjogIlx1MWYwMFx1MDNiZFx1MDNiOFx1MDNjMVx1MDNjZXxcdTAzYzBcdTAzYmZcdTAzYzUiLCAiaW5zZXJ0aW9uX2lkIjogbnVsbCwgImFydGlmaWNpYWwiOiBudWxsLCAicmVsYXRpb24iOiAiQURWIiwgInBvc3RhZyI6ICJuLXMtLS1tZy0iLCAic29ydGVyMSI6IDEwLCAic29ydGVyMiI6ICIiLCAiZGVwdGgiOiA0fSwgeyJpZCI6IDc4MTY4LCAibiI6IDMsICJoZWFkIjogIjIiLCAiZm9ybSI6ICJcdTAzYTBcdTAzYmZcdTAzYWZcdTAzYjVcdTAzYjkiLCAiaW5zZXJ0aW9uX2lkIjogbnVsbCwgImFydGlmaWNpYWwiOiBudWxsLCAicmVsYXRpb24iOiAiQURWIiwgInBvc3RhZyI6ICJuLXMtLS1fZC0iLCAic29ydGVyMSI6IDMsICJzb3J0ZXIyIjogIiIsICJkZXB0aCI6IDN9LCB7ImlkIjogNzgxNjksICJuIjogNCwgImhlYWQiOiAiNyIsICJmb3JtIjogIlx1MDNjNFx1MWY3MCIsICJpbnNlcnRpb25faWQiOiBudWxsLCAiYXJ0aWZpY2lhbCI6IG51bGwsICJyZWxhdGlvbiI6ICJBVFIiLCAicG9zdGFnIjogImwtcC0tLW5hLSIsICJzb3J0ZXIxIjogNCwgInNvcnRlcjIiOiAiIiwgImRlcHRoIjogM30sIHsiaWQiOiA3ODE3MCwgIm4iOiA1LCAiaGVhZCI6ICI3IiwgImZvcm0iOiAiXHUwM2MwXHUwM2I1XHUwM2MxXHUxZjc2IiwgImluc2VydGlvbl9pZCI6IG51bGwsICJhcnRpZmljaWFsIjogbnVsbCwgInJlbGF0aW9uIjogIkF1eFAiLCAicG9zdGFnIjogInItLS0tLS0tLSIsICJzb3J0ZXIxIjogNSwgInNvcnRlcjIiOiAiIiwgImRlcHRoIjogM30sIHsiaWQiOiA3ODE3MywgIm4iOiA4LCAiaGVhZCI6ICI3IiwgImZvcm0iOiAiXHUwM2MwXHUwM2I1XHUwM2MxXHUxZjc2IiwgImluc2VydGlvbl9pZCI6IG51bGwsICJhcnRpZmljaWFsIjogbnVsbCwgInJlbGF0aW9uIjogIkF1eFAiLCAicG9zdGFnIjogInItLS0tLS0tLSIsICJzb3J0ZXIxIjogOCwgInNvcnRlcjIiOiAiIiwgImRlcHRoIjogM30sIHsiaWQiOiA3ODE4NCwgIm4iOiAxOSwgImhlYWQiOiAiMjAiLCAiZm9ybSI6ICJcdTAzYzRcdTFmNzgiLCAiaW5zZXJ0aW9uX2lkIjogbnVsbCwgImFydGlmaWNpYWwiOiBudWxsLCAicmVsYXRpb24iOiAiQVRSIiwgInBvc3RhZyI6ICJsLXMtLS1uYS0iLCAic29ydGVyMSI6IDE5LCAic29ydGVyMiI6ICIiLCAiZGVwdGgiOiAzfSwgeyJpZCI6IDc4MTg4LCAibiI6IDIzLCAiaGVhZCI6ICIyMiIsICJmb3JtIjogIlx1MDNjM1x1MDNiZlx1MDNiOSIsICJpbnNlcnRpb25faWQiOiBudWxsLCAiYXJ0aWZpY2lhbCI6IG51bGwsICJyZWxhdGlvbiI6ICJPQkoiLCAicG9zdGFnIjogInAycy0tLW1kLSIsICJzb3J0ZXIxIjogMjMsICJzb3J0ZXIyIjogIiIsICJkZXB0aCI6IDN9LCB7ImlkIjogNzgxNjcsICJuIjogMiwgImhlYWQiOiAiMSIsICJmb3JtIjogIlx1MWYxMFx1MDNiZCIsICJpbnNlcnRpb25faWQiOiBudWxsLCAiYXJ0aWZpY2lhbCI6IG51bGwsICJyZWxhdGlvbiI6ICJBdXhQIiwgInBvc3RhZyI6ICJyLS0tLS0tLS0iLCAic29ydGVyMSI6IDIsICJzb3J0ZXIyIjogIiIsICJkZXB0aCI6IDJ9LCB7ImlkIjogNzgxNzIsICJuIjogNywgImhlYWQiOiAiMSIsICJmb3JtIjogIlx1MDNjM1x1MDNjNVx1MDNiZFx1MDNiMlx1MDNiNVx1MDNiMlx1MDNiN3xcdTAzYmFcdTAzY2NcdTAzYzRcdTAzYjEiLCAiaW5zZXJ0aW9uX2lkIjogbnVsbCwgImFydGlmaWNpYWwiOiBudWxsLCAicmVsYXRpb24iOiAiT0JKIiwgInBvc3RhZyI6ICJ2LXBycGFuYS0iLCAic29ydGVyMSI6IDcsICJzb3J0ZXIyIjogIiIsICJkZXB0aCI6IDJ9LCB7ImlkIjogNzgxODUsICJuIjogMjAsICJoZWFkIjogIjE4IiwgImZvcm0iOiAiXHUwM2EzXHUwM2IxXHUwM2MxXHUwM2IxXHUwM2MwXHUwM2I5XHUwM2I1XHUxZmQ2XHUwM2JmXHUwM2JkIiwgImluc2VydGlvbl9pZCI6IG51bGwsICJhcnRpZmljaWFsIjogbnVsbCwgInJlbGF0aW9uIjogIk9CSiIsICJwb3N0YWciOiAibi1zLS0tbmEtIiwgInNvcnRlcjEiOiAyMCwgInNvcnRlcjIiOiAiIiwgImRlcHRoIjogMn0sIHsiaWQiOiA3ODE4NywgIm4iOiAyMiwgImhlYWQiOiAiMjEiLCAiZm9ybSI6ICJcdTAzYzNcdTAzYzVcdTAzYmRcdTAzYmNcdTFmZDZcdTAzYmVcdTAzYjFcdTAzYWYiLCAiaW5zZXJ0aW9uX2lkIjogbnVsbCwgImFydGlmaWNpYWwiOiBudWxsLCAicmVsYXRpb24iOiAiT0JKIiwgInBvc3RhZyI6ICJ2LS1hbmEtLS0iLCAic29ydGVyMSI6IDIyLCAic29ydGVyMiI6ICIiLCAiZGVwdGgiOiAyfSwgeyJpZCI6IDc4MTY2LCAibiI6IDEsICJoZWFkIjogIjE3IiwgImZvcm0iOiAiXHUxZjAwXHUwM2JhXHUwM2JmXHUwM2NkXHUwM2MzXHUwM2IxXHUwM2JkXHUwM2M0XHUwM2I1XHUwM2MyIiwgImluc2VydGlvbl9pZCI6IG51bGwsICJhcnRpZmljaWFsIjogbnVsbCwgInJlbGF0aW9uIjogIkFEViIsICJwb3N0YWciOiAidi1wYXBhbW4tIiwgInNvcnRlcjEiOiAxLCAic29ydGVyMiI6ICIiLCAiZGVwdGgiOiAxfSwgeyJpZCI6IDc4MTgzLCAibiI6IDE4LCAiaGVhZCI6ICIxNyIsICJmb3JtIjogIlx1MDNiNVx1MWYzMFx1MDNjMiIsICJpbnNlcnRpb25faWQiOiBudWxsLCAiYXJ0aWZpY2lhbCI6IG51bGwsICJyZWxhdGlvbiI6ICJBdXhQIiwgInBvc3RhZyI6ICJyLS0tLS0tLS0iLCAic29ydGVyMSI6IDE4LCAic29ydGVyMiI6ICIiLCAiZGVwdGgiOiAxfSwgeyJpZCI6IDc4MTg2LCAibiI6IDIxLCAiaGVhZCI6ICIxNyIsICJmb3JtIjogIlx1MDNiMlx1MDNiZlx1MDNiYlx1MDNhY3xcdTAzYmNcdTAzYjVcdTAzYmRcdTAzYmZcdTAzYjkiLCAiaW5zZXJ0aW9uX2lkIjogbnVsbCwgImFydGlmaWNpYWwiOiBudWxsLCAicmVsYXRpb24iOiAiQURWIiwgInBvc3RhZyI6ICJ2LXBwcGVtbl8iLCAic29ydGVyMSI6IDIxLCAic29ydGVyMiI6ICIiLCAiZGVwdGgiOiAxfSwgeyJpZCI6IDc4MTgyLCAibiI6IDE3LCAiaGVhZCI6ICIwIiwgImZvcm0iOiAiXHUxZjI1XHUwM2JhXHUwM2IxXHUwM2JjXHUwM2I1XHUwM2JkIiwgImluc2VydGlvbl9pZCI6IG51bGwsICJhcnRpZmljaWFsIjogbnVsbCwgInJlbGF0aW9uIjogIlBSRUQiLCAicG9zdGFnIjogInYxcHJpYS0tLSIsICJzb3J0ZXIxIjogMTcsICJzb3J0ZXIyIjogIiIsICJkZXB0aCI6IDB9LCB7ImlkIjogNzgxODksICJuIjogMjQsICJoZWFkIjogIjAiLCAiZm9ybSI6ICIuIiwgImluc2VydGlvbl9pZCI6IG51bGwsICJhcnRpZmljaWFsIjogbnVsbCwgInJlbGF0aW9uIjogIkF1eEsiLCAicG9zdGFnIjogInUtLS0tLS0tLSIsICJzb3J0ZXIxIjogMjQsICJzb3J0ZXIyIjogIiIsICJkZXB0aCI6IDB9XSwgImhpZ2hsaWdodF9ub2RlcyI6ICIxLDcsMTYsMjEiLCAiaGlnaGxpZ2h0X2VkZ2VzIjogIiIsICJpZCI6IDF9"></div><p></p>
+<h2 id="discussion">Discussion</h2>
