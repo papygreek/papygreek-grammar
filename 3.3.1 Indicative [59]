@@ -1,0 +1,38 @@
+<h1>3.3.1 Indicative</h1>
+<h2 id="relevant-postag-codes">Relevant postag codes:</h2>
+<p><strong>Position and letters in postag string:</strong></p>
+<ol type="1">
+<li><p>part of speech: <strong>1st</strong>; letter: <strong>v</strong>
+(verb)</p></li>
+<li><p>person: <strong>2nd</strong>; numbers: <strong>1</strong>,
+<strong>2</strong>, <strong>3</strong></p></li>
+<li><p>number: <strong>3rd</strong>; letters: <strong>s</strong>
+(singular), <strong>p</strong> (plural), <strong>d</strong>
+(dual)</p></li>
+<li><p>tense: <strong>4th</strong>; letters: <strong>p</strong>
+(present), <strong>i</strong> (imperfect), <strong>r</strong> (perfect),
+<strong>l</strong> (pluperfect), <strong>t</strong> (future perfect),
+<strong>f</strong> (future), <strong>a</strong> (aorist)</p></li>
+<li><p>mood: <strong>5th</strong>; letters: <strong>i</strong>
+(indicative), <strong>s</strong> (subjunctive), <strong>o</strong>
+(optative), <strong>n</strong> (infinitive), <strong>m</strong>
+(imperative), <strong>p</strong> (participle)</p></li>
+<li><p>voice: <strong>6th</strong>; letters: <strong>a</strong>
+(active), <strong>p</strong> (passive), <strong>m</strong> (middle),
+<strong>e</strong> (medio-passive)</p></li>
+</ol>
+<p><strong>Example postag string:</strong> v3paia— (verb, 3rd person,
+plural, aorist, indicative, active)</p>
+<h2 id="summary">Summary</h2>
+<h2 id="examples-of-indicative-mood-from-papygreek-corpus">Examples of
+indicative mood from PapyGreek corpus</h2>
+<ol type="1">
+<li>τῆι κθ ἀνέπλ[ε]υσας καὶ τ[ῆι] ἑξῆς κατέσπακα.<br>
+(têi kth anépleusas kaí têi hexês katéspaka.)<br>
+<em>You sailed away on the 29th and on the next day I finished drawing
+down (?the wool).</em><br>
+<a href="https://papygreek.com/text/23190">p.brem.63</a>, 6-7 (sent. 3),
+transl. Bagnall-Cribiore (2006) p.&nbsp;143</li>
+</ol>
+<p></p><div style="height:300px; " data-treeid="1" class="sentence-tree tf-tree tf-result" data-json="eyJvayI6IHRydWUsICJyZXN1bHQiOiBbeyJpZCI6IDE5NDYzLCAibiI6IDEsICJoZWFkIjogIjIiLCAiZm9ybSI6ICJcdTAzYzRcdTFmYzZcdTAzYjkiLCAiaW5zZXJ0aW9uX2lkIjogbnVsbCwgImFydGlmaWNpYWwiOiBudWxsLCAicmVsYXRpb24iOiAiQVRSIiwgInBvc3RhZyI6ICJsLXMtLS1mZC0iLCAic29ydGVyMSI6IDEsICJzb3J0ZXIyIjogIiIsICJkZXB0aCI6IDN9LCB7ImlkIjogMTk0NjQsICJuIjogMiwgImhlYWQiOiAiMyIsICJmb3JtIjogIlx1MDBhZlx1MDNiYVx1MDNiOFx1MDBhZiIsICJpbnNlcnRpb25faWQiOiBudWxsLCAiYXJ0aWZpY2lhbCI6IG51bGwsICJyZWxhdGlvbiI6ICJBRFYiLCAicG9zdGFnIjogIm0tXy0tLV9fLSIsICJzb3J0ZXIxIjogMiwgInNvcnRlcjIiOiAiIiwgImRlcHRoIjogMn0sIHsiaWQiOiAxOTQ2OCwgIm4iOiA2LCAiaGVhZCI6ICI3IiwgImZvcm0iOiAiXHUxZjExXHUwM2JlXHUxZmM2XHUwM2MyIiwgImluc2VydGlvbl9pZCI6IG51bGwsICJhcnRpZmljaWFsIjogbnVsbCwgInJlbGF0aW9uIjogIkFEViIsICJwb3N0YWciOiAiZC0tLS0tLS0tIiwgInNvcnRlcjEiOiA2LCAic29ydGVyMiI6ICIiLCAiZGVwdGgiOiAyfSwgeyJpZCI6IDE5NDY1LCAibiI6IDMsICJoZWFkIjogIjQiLCAiZm9ybSI6ICJcdTFmMDBcdTAzYmRcdTAzYWRcdTAzYzBcdTAzYmJbXHUwM2I1XVx1MDNjNVx1MDNjM1x1MDNiMVx1MDNjMiIsICJpbnNlcnRpb25faWQiOiBudWxsLCAiYXJ0aWZpY2lhbCI6IG51bGwsICJyZWxhdGlvbiI6ICJQUkVEX0NPIiwgInBvc3RhZyI6ICJ2MnNhaWEtLS0iLCAic29ydGVyMSI6IDMsICJzb3J0ZXIyIjogIiIsICJkZXB0aCI6IDF9LCB7ImlkIjogMTk0NjksICJuIjogNywgImhlYWQiOiAiNCIsICJmb3JtIjogIlx1MDNiYVx1MDNiMVx1MDNjNFx1MDNhZFx1MDNjM1x1MDNjMFx1MDMyM1x1MDNiMVx1MDNiYVx1MDNiMSIsICJpbnNlcnRpb25faWQiOiBudWxsLCAiYXJ0aWZpY2lhbCI6IG51bGwsICJyZWxhdGlvbiI6ICJQUkVEX0NPIiwgInBvc3RhZyI6ICJ2MXNyaWEtLS0iLCAic29ydGVyMSI6IDcsICJzb3J0ZXIyIjogIiIsICJkZXB0aCI6IDF9LCB7ImlkIjogMTk0NjYsICJuIjogNCwgImhlYWQiOiAiMCIsICJmb3JtIjogIlx1MDNiYVx1MDNiMVx1MWY3NiIsICJpbnNlcnRpb25faWQiOiBudWxsLCAiYXJ0aWZpY2lhbCI6IG51bGwsICJyZWxhdGlvbiI6ICJDT09SRCIsICJwb3N0YWciOiAiYy0tLS0tLS0tIiwgInNvcnRlcjEiOiA0LCAic29ydGVyMiI6ICIiLCAiZGVwdGgiOiAwfSwgeyJpZCI6IDE5NDcwLCAibiI6IDgsICJoZWFkIjogIjAiLCAiZm9ybSI6ICIuIiwgImluc2VydGlvbl9pZCI6IG51bGwsICJhcnRpZmljaWFsIjogbnVsbCwgInJlbGF0aW9uIjogIkF1eEsiLCAicG9zdGFnIjogInUtLS0tLS0tLSIsICJzb3J0ZXIxIjogOCwgInNvcnRlcjIiOiAiIiwgImRlcHRoIjogMH1dLCAiaGlnaGxpZ2h0X25vZGVzIjogIjMsNyIsICJoaWdobGlnaHRfZWRnZXMiOiAiIiwgImlkIjogMX0="><span class="enlarge-button maximize"></span><span class="enlarge-button minimize d-none"></span><div style="height:100%;width:100%;overflow:hidden;" class="tree-container __________cytoscape_container"><div style="position: relative; z-index: 0; overflow: hidden; width: 638px; height: 298px;"><canvas style="user-select: none; outline-style: none; position: absolute; z-index: 3; width: 638px; height: 298px;" data-id="layer0-selectbox" width="1276" height="596"></canvas><canvas style="user-select: none; outline-style: none; position: absolute; z-index: 2; width: 638px; height: 298px;" data-id="layer1-drag" width="1276" height="596"></canvas><canvas style="user-select: none; outline-style: none; position: absolute; z-index: 1; width: 638px; height: 298px;" data-id="layer2-node" width="1276" height="596"></canvas></div></div></div><p></p>
+<h2 id="discussion">Discussion</h2>
