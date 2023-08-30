@@ -1,0 +1,54 @@
+<h1>3.3.2 Subjunctive</h1>
+<h2 id="relevant-postag-codes">Relevant postag codes:</h2>
+<p><strong>Position and letters in postag string:</strong></p>
+<ol type="1">
+<li><p>part of speech: <strong>1st</strong>; letter: <strong>v</strong>
+(verb)</p></li>
+<li><p>person: <strong>2nd</strong>; numbers: <strong>1</strong>,
+<strong>2</strong>, <strong>3</strong></p></li>
+<li><p>number: <strong>3rd</strong>; letters: <strong>s</strong>
+(singular), <strong>p</strong> (plural), <strong>d</strong>
+(dual)</p></li>
+<li><p>tense: <strong>4th</strong>; letters: <strong>p</strong>
+(present), <strong>i</strong> (imperfect), <strong>r</strong> (perfect),
+<strong>l</strong> (pluperfect), <strong>t</strong> (future perfect),
+<strong>f</strong> (future), <strong>a</strong> (aorist)</p></li>
+<li><p>mood: <strong>5th</strong>; letters: <strong>i</strong>
+(indicative), <strong>s</strong> (subjunctive), <strong>o</strong>
+(optative), <strong>n</strong> (infinitive), <strong>m</strong>
+(imperative), <strong>p</strong> (participle)</p></li>
+<li><p>voice: <strong>6th</strong>; letters: <strong>a</strong>
+(active), <strong>p</strong> (passive), <strong>m</strong> (middle),
+<strong>e</strong> (medio-passive)</p></li>
+</ol>
+<p><strong>Example postag string:</strong> v2sasa— (verb, 2nd person,
+singular, aorist, subjunctive, active)</p>
+<h2 id="summary">Summary</h2>
+<h2 id="queries">Queries</h2>
+<ul>
+<li><a data-link-newtab="" href="/search/102" data-url="search/102">subjunctive, active present</a></li>
+<li><a data-link-newtab="" href="/search/103" data-url="search/103">subjunctive, active aorist</a></li>
+<li><a data-link-newtab="" href="/search/104" data-url="search/104">subjunctive, active perfect</a></li>
+<li><a data-link-newtab="" href="/search/105" data-url="search/105">subjunctive, middle present</a></li>
+<li><a data-link-newtab="" href="/search/106" data-url="search/106">subjunctive, middle aorist</a></li>
+<li><a data-link-newtab="" href="/search/107" data-url="search/107">subjunctive, middle perfect</a> (No hits.)</li>
+<li><a data-link-newtab="" href="/search/108" data-url="search/108">subjunctive, medio-passive present</a></li>
+<li><a data-link-newtab="" href="/search/109" data-url="search/109">subjunctive, medio-passive aorist</a></li>
+<li><a data-link-newtab="" href="/search/110" data-url="search/110">subjunctive, medio-passive perfect</a> (No hits.)</li>
+<li><a data-link-newtab="" href="/search/111" data-url="search/111">subjunctive, passive present</a> (No hits.)</li>
+<li><a data-link-newtab="" href="/search/112" data-url="search/112">subjunctive, passive aorist</a></li>
+<li><a data-link-newtab="" href="/search/113" data-url="search/113">subjunctive, passive perfect</a> (No hits.)</li>
+</ul>
+<h2 id="examples-of-subjunctive-mood-from-papygreek-corpus">Examples of
+subjunctive mood from PapyGreek corpus</h2>
+<ol type="1">
+<li>ἀλλὰ μὴ <strong>ἀμελῇς</strong> καὶ διὰ ταχέων
+<strong>πέμψῃς</strong> αὐτά.<br>
+(allà mḕ <strong>amelê(i)s</strong> kaì dià takhéōn
+<strong>pémpsē(i)s</strong> autá.)<br>
+<em>(…) so do not be neglectful, quickly send them.</em><br>
+<a href="https://papygreek.com/text/36407">p.oxy.48.3403</a>, 9-10
+(sent. 5), transl. Bagnall-Cribiore (2006) p.&nbsp;212.</li>
+</ol>
+<p></p><div style="height:300px; " data-treeid="1" class="sentence-tree tf-tree tf-result" data-json="eyJvayI6IHRydWUsICJyZXN1bHQiOiBbeyJpZCI6IDU0OTMxLCAibiI6IDYsICJoZWFkIjogIjUiLCAiZm9ybSI6ICJcdTAzYzRcdTAzYjFcdTAzYzdcdTAzYWRcdTAzMjNcdTAzYzlcdTAzMjNcdTAzYmRcdTAzMjMiLCAiaW5zZXJ0aW9uX2lkIjogbnVsbCwgImFydGlmaWNpYWwiOiBudWxsLCAicmVsYXRpb24iOiAiQURWIiwgInBvc3RhZyI6ICJhLXAtLS1uZy0iLCAic29ydGVyMSI6IDYsICJzb3J0ZXIyIjogIiIsICJkZXB0aCI6IDN9LCB7ImlkIjogNTQ5MjYsICJuIjogMSwgImhlYWQiOiAiMyIsICJmb3JtIjogIlx1MWYwMFx1MDNiYlx1MDNiYlx1MWY3MCIsICJpbnNlcnRpb25faWQiOiBudWxsLCAiYXJ0aWZpY2lhbCI6IG51bGwsICJyZWxhdGlvbiI6ICJBdXhZIiwgInBvc3RhZyI6ICJkLS0tLS0tLS0iLCAic29ydGVyMSI6IDEsICJzb3J0ZXIyIjogIiIsICJkZXB0aCI6IDJ9LCB7ImlkIjogNTQ5MjcsICJuIjogMiwgImhlYWQiOiAiMyIsICJmb3JtIjogIlx1MDNiY1x1MWY3NCIsICJpbnNlcnRpb25faWQiOiBudWxsLCAiYXJ0aWZpY2lhbCI6IG51bGwsICJyZWxhdGlvbiI6ICJBdXhaIiwgInBvc3RhZyI6ICJkLS0tLS0tLV8iLCAic29ydGVyMSI6IDIsICJzb3J0ZXIyIjogIiIsICJkZXB0aCI6IDJ9LCB7ImlkIjogNTQ5MzAsICJuIjogNSwgImhlYWQiOiAiNyIsICJmb3JtIjogIlx1MDNiNFx1MDNiOVx1MWY3MCIsICJpbnNlcnRpb25faWQiOiBudWxsLCAiYXJ0aWZpY2lhbCI6IG51bGwsICJyZWxhdGlvbiI6ICJBdXhQIiwgInBvc3RhZyI6ICJyLS0tLS0tLS0iLCAic29ydGVyMSI6IDUsICJzb3J0ZXIyIjogIiIsICJkZXB0aCI6IDJ9LCB7ImlkIjogNTQ5MzMsICJuIjogOCwgImhlYWQiOiAiNyIsICJmb3JtIjogIlx1MDNiMVx1MWY1MFx1MDNjNFx1MDNhYyIsICJpbnNlcnRpb25faWQiOiBudWxsLCAiYXJ0aWZpY2lhbCI6IG51bGwsICJyZWxhdGlvbiI6ICJPQkoiLCAicG9zdGFnIjogInAtcC0tLW5hLSIsICJzb3J0ZXIxIjogOCwgInNvcnRlcjIiOiAiIiwgImRlcHRoIjogMn0sIHsiaWQiOiA1NDkyOCwgIm4iOiAzLCAiaGVhZCI6ICI0IiwgImZvcm0iOiAiXHUxZjAwXHUwM2JjXHUwM2I1XHUwM2JiXHUxZmM3XHUwM2MyIiwgImluc2VydGlvbl9pZCI6IG51bGwsICJhcnRpZmljaWFsIjogbnVsbCwgInJlbGF0aW9uIjogIlBSRURfQ08iLCAicG9zdGFnIjogInYyc3BzYS0tLSIsICJzb3J0ZXIxIjogMywgInNvcnRlcjIiOiAiIiwgImRlcHRoIjogMX0sIHsiaWQiOiA1NDkzMiwgIm4iOiA3LCAiaGVhZCI6ICI0IiwgImZvcm0iOiAiXHUwM2MwXHUwM2FkXHUwM2JjXHUwM2M4XHUxZmMzXHUwM2MyIiwgImluc2VydGlvbl9pZCI6IG51bGwsICJhcnRpZmljaWFsIjogbnVsbCwgInJlbGF0aW9uIjogIlBSRURfQ08iLCAicG9zdGFnIjogInYyc2FzYS0tLSIsICJzb3J0ZXIxIjogNywgInNvcnRlcjIiOiAiIiwgImRlcHRoIjogMX0sIHsiaWQiOiA1NDkyOSwgIm4iOiA0LCAiaGVhZCI6ICIwIiwgImZvcm0iOiAiXHUwM2JhXHUwM2IxXHUxZjc2IiwgImluc2VydGlvbl9pZCI6IG51bGwsICJhcnRpZmljaWFsIjogbnVsbCwgInJlbGF0aW9uIjogIkNPT1JEIiwgInBvc3RhZyI6ICJjLS0tLS0tLS0iLCAic29ydGVyMSI6IDQsICJzb3J0ZXIyIjogIiIsICJkZXB0aCI6IDB9LCB7ImlkIjogNTQ5MzQsICJuIjogOSwgImhlYWQiOiAiMCIsICJmb3JtIjogIi4iLCAiaW5zZXJ0aW9uX2lkIjogbnVsbCwgImFydGlmaWNpYWwiOiBudWxsLCAicmVsYXRpb24iOiAiQXV4SyIsICJwb3N0YWciOiAidS0tLS0tLS0tIiwgInNvcnRlcjEiOiA5LCAic29ydGVyMiI6ICIiLCAiZGVwdGgiOiAwfV0sICJoaWdobGlnaHRfbm9kZXMiOiAiMyw3IiwgImhpZ2hsaWdodF9lZGdlcyI6ICIiLCAiaWQiOiAxfQ=="></div><p></p>
+<h2 id="discussion">Discussion</h2>
