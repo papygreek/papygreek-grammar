@@ -10,6 +10,14 @@ coordination, ’_CO’ is added to the syntactic label.</p>
 paid the wages</em> (bgu.16.2607, l. 23-24, s. 14)</p>
 <p></p><div style="height:300px; " data-treeid="1" class="sentence-tree tf-tree tf-result" data-json="eyJvayI6IHRydWUsICJyZXN1bHQiOiBbeyJpZCI6IDE1NTksICJuIjogMiwgImhlYWQiOiAiMyIsICJmb3JtIjogIlx1MDNiZlx1MWYzMSIsICJpbnNlcnRpb25faWQiOiBudWxsLCAiYXJ0aWZpY2lhbCI6IG51bGwsICJyZWxhdGlvbiI6ICJBVFIiLCAicG9zdGFnIjogImwtcC0tLW1uLSIsICJzb3J0ZXIxIjogMiwgInNvcnRlcjIiOiAiIiwgImRlcHRoIjogM30sIHsiaWQiOiAxNTYyLCAibiI6IDUsICJoZWFkIjogIjYiLCAiZm9ybSI6ICJcdTAzYzRcdTAzYmZcdTFmN2FcdTAzYzIiLCAiaW5zZXJ0aW9uX2lkIjogbnVsbCwgImFydGlmaWNpYWwiOiBudWxsLCAicmVsYXRpb24iOiAiQVRSIiwgInBvc3RhZyI6ICJsLXAtLS1tYS0iLCAic29ydGVyMSI6IDUsICJzb3J0ZXIyIjogIiIsICJkZXB0aCI6IDN9LCB7ImlkIjogMTU2MCwgIm4iOiAzLCAiaGVhZCI6ICI0IiwgImZvcm0iOiAiXHUwM2M0XHUwM2FkXHUwM2JhXHUwM2M0XHUwM2JmXHUwM2JkXHUwM2I1XHUwM2MyIiwgImluc2VydGlvbl9pZCI6IG51bGwsICJhcnRpZmljaWFsIjogbnVsbCwgInJlbGF0aW9uIjogIlNCSiIsICJwb3N0YWciOiAibi1wLS0tbW4tIiwgInNvcnRlcjEiOiAzLCAic29ydGVyMiI6ICIiLCAiZGVwdGgiOiAyfSwgeyJpZCI6IDE1NjMsICJuIjogNiwgImhlYWQiOiAiNCIsICJmb3JtIjogIlx1MDNiY1x1MDNiOVx1MDNjM1x1MDNiOFx1MDNiZlx1MDNjZFx1MDNjMiIsICJpbnNlcnRpb25faWQiOiBudWxsLCAiYXJ0aWZpY2lhbCI6IG51bGwsICJyZWxhdGlvbiI6ICJPQkoiLCAicG9zdGFnIjogIm4tcC0tLW1hLSIsICJzb3J0ZXIxIjogNiwgInNvcnRlcjIiOiAiIiwgImRlcHRoIjogMn0sIHsiaWQiOiAxNTYxLCAibiI6IDQsICJoZWFkIjogIjEiLCAiZm9ybSI6ICJcdTAzYzBcdTAzYjVcdTAzYzBcdTAzYmJcdTAzYjdcdTAzYzFcdTAzY2V8XHUwM2JhXHUwM2IxXHUwM2MzXHUwM2I5IiwgImluc2VydGlvbl9pZCI6IG51bGwsICJhcnRpZmljaWFsIjogbnVsbCwgInJlbGF0aW9uIjogIlBSRURfQ08iLCAicG9zdGFnIjogInYzcHJpYS0tLSIsICJzb3J0ZXIxIjogNCwgInNvcnRlcjIiOiAiIiwgImRlcHRoIjogMX0sIHsiaWQiOiAxNTU4LCAibiI6IDEsICJoZWFkIjogIjAiLCAiZm9ybSI6ICJcdTAzYmFcdTAzYjFcdTFmNzYiLCAiaW5zZXJ0aW9uX2lkIjogbnVsbCwgImFydGlmaWNpYWwiOiBudWxsLCAicmVsYXRpb24iOiAiQ09PUkQiLCAicG9zdGFnIjogImMtLS0tLS0tLSIsICJzb3J0ZXIxIjogMSwgInNvcnRlcjIiOiAiIiwgImRlcHRoIjogMH0sIHsiaWQiOiAxNTY0LCAibiI6IDcsICJoZWFkIjogIjAiLCAiZm9ybSI6ICJcdTAwYjciLCAiaW5zZXJ0aW9uX2lkIjogbnVsbCwgImFydGlmaWNpYWwiOiBudWxsLCAicmVsYXRpb24iOiAiQXV4SyIsICJwb3N0YWciOiAidS0tLS0tLS0tIiwgInNvcnRlcjEiOiA3LCAic29ydGVyMiI6ICIiLCAiZGVwdGgiOiAwfV0sICJoaWdobGlnaHRfbm9kZXMiOiAiIiwgImhpZ2hsaWdodF9lZGdlcyI6ICIiLCAiaWQiOiAxfQ=="></div><p></p>
 <h2 id="summary">Summary:</h2>
+<p>In papyri, the dominant order of the major constituents in the
+sentence varies according to the text type. Verbal-initial patterns are
+strongly represented in private and legal texts, while petitions are
+abundant with Subject-initial order patterns.</p>
+<h2 id="examples-from-papygreek-corpus">Example(s) from PapyGreek
+corpus:</h2>
+<h2 id="discussion">Discussion:</h2>
+<h3 id="classical-greek">Classical Greek</h3>
 <p>The leading explanation for the order patterns of the major sentence
 constituents is that it is pragmatically determined and fixed. The basic
 pattern suggested by Helma Dik (<span class="citation" data-cites="dik1995">(<strong>dik1995?</strong>)</span>, <span class="citation" data-cites="dik2007">(Dik 2007)</span>) is the
@@ -18,15 +26,9 @@ following:</p>
 <p>Within this framework, permutations and variations are possible, in
 order to link individual utterances in the discourse and contrast them
 against, or present as a continuation of, a previously stated idea <span class="citation" data-cites="celano2014">(Celano 2014a)</span>.</p>
-<p>The dominant order of the major constituents in the sentence varies
-according to the text type.</p>
-<h2 id="examples-from-papygreek-corpus">Example(s) from PapyGreek
-corpus:</h2>
-<h2 id="discussion">Discussion:</h2>
+<h3 id="shift-in-koine-towards-vso">Shift in Koine towards VSO</h3>
+<h3 id="new-testament-greek">New Testament Greek</h3>
 <ul>
-<li><p><span class="citation" data-cites="aitchison1979">Aitchison
-(1979)</span>: Change from overt OV to VO (SOV &gt; SVO), Aitchison is
-focusing on early Greek</p></li>
 <li><p>Horrocks 1990/2007? <span class="citation" data-cites="horrocks2007">Horrocks (2007)</span>: Shift in Koine towards
 VSO order and the role of clitic pronouns</p></li>
 <li><p>Dik’s Pragmatic Paradigm cannot be tested through the means of
@@ -59,10 +61,6 @@ chapter:</h2>
 <p><a href="https://wals.info/chapter/81">Order of Subject, Object and
 Verb (Dryer 2013)</a></p>
 <div id="refs" class="references csl-bib-body hanging-indent" role="list">
-<div id="ref-aitchison1979" class="csl-entry" role="listitem">
-Aitchison, Jean. 1979. <span>“The Order of Word Order Change.”</span>
-<em>Transactions of the Philological Society</em> 77 (1): 43–65.
-</div>
 <div id="ref-celano2014" class="csl-entry" role="listitem">
 Celano, Giuseppe G. A. 2014a. <span>“Word Order.”</span> In
 <em>Encyclopedia of Ancient Greek Language and Linguistics</em>, edited
