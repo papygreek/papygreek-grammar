@@ -25,14 +25,15 @@ in PapyGreek, we transcribe</p>
 in PapyGreek’s Zotero Library in the field Extra.</p>
 <ul>
 <li>adding @ and the Citation Key (without space) gives you e.g.&nbsp;this:
-<span class="citation" data-cites="viti2008">(<strong>viti2008?</strong>)</span>, and adds the
-full info to the Reference-section at the bottom of the page and to the
-Bibliography.</li>
+<span class="citation" data-cites="viti2008">Viti (2008)</span>, and
+adds the full info to the Reference-section at the bottom of the page
+and to the Bibliography.</li>
 <li>As <span class="citation" data-cites="muhs2007">Muhs (2007)</span>
 points out</li>
 <li>If you don’t use the name of the author in the sentence, but want to
 have just the reference, use square brackets around the @ and Citation
-Key: <span class="citation" data-cites="viti2008">(<strong>viti2008?</strong>)</span></li>
+Key: <span class="citation" data-cites="viti2008">(Viti
+2008)</span></li>
 </ul>
 <h2 id="smyth-links">Smyth links</h2>
 <p>Find the the place you wish the link to direct to from <a href="https://papygreek.com/smyth">our Smyth page</a>, and copy the url
@@ -95,5 +96,10 @@ Thebes.”</span> Edited by Jaakko Frösén, Tiina Purola, and Erja
 Salmenkivi. <em>Proceedings of the 24th International Congress of
 Papyrology, Helsinki, 1-7 August, 2004, Volume I-II, Pp.793-806</em>,
 793–97.
+</div>
+<div id="ref-viti2008" class="csl-entry" role="listitem">
+Viti, Carlotta. 2008. <span>“Genitive word order in Ancient Greek: a
+functional analysis of word order freedom in the noun phrase”</span> 84
+(1-4): 203–38. <a href="http://www.jstor.org/stable/40730997.">http://www.jstor.org/stable/40730997.</a>
 </div>
 </div>
