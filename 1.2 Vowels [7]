@@ -1,13 +1,14 @@
 <h1>1.2 Vowels</h1>
-<p>Ancient Greek had a rich vowel inventory <span class="citation" data-cites="wals2">(Maddieson 2013)</span>. During its very long
+<p>Ancient Greek had a rich vowel inventory <span class="citation" data-cites="wals2">(Maddieson 2013b)</span>. During its very long
 history, it had many changes, but it had long and short vowels (vowel
 quantity) and diphthongs in various forms and developments until the
 Roman period, when vowel quantity vanished, and diphthongs developed
 into monophthongs. In the Classical period, the Ancient Greek vowel
 inventory still included six to seven vowel qualities, depending on the
 precise developmental stage. These include the high front rounded vowel
-/y/, which is rare cross-linguistically. There was also still a
-diphthong /oi/. In the previous stages of the languages, there were four
+/y/ <span class="citation" data-cites="wals11">(Maddieson 2013a)</span>,
+which is rare cross-linguistically. There was also still a diphthong
+/oi/. In the previous stages of the languages, there were four
 diphthongs, /ei/, /ai/, /oi/ and /ou/; /ei/, /ai/ and /ou/ were, in
 time, monopthingised and became /i/, /e/ and /u/, respectively. /oi/ had
 the same fate but later, when it during the Roman period merged first
@@ -15,10 +16,14 @@ with /ø/, which then developed into /y/. This variation has some
 evidence in the misspellings with /u/ and /e/ especially in Egyptian
 Greek (x).</p>
 <div id="refs" class="references csl-bib-body hanging-indent" role="list">
+<div id="ref-wals11" class="csl-entry" role="listitem">
+Maddieson, Ian. 2013a. <span>“Front Rounded Vowels (V2020.3).”</span> In
+<em>The World Atlas of Language Structures Online</em>, edited by
+Matthew S. Dryer and Martin Haspelmath. Zenodo. <a href="https://wals.info/chapter/11">https://wals.info/chapter/11</a>.
+</div>
 <div id="ref-wals2" class="csl-entry" role="listitem">
-Maddieson, Ian. 2013. <span>“Vowel Quality Inventories
-(V2020.3).”</span> In <em>The World Atlas of Language Structures
-Online</em>, edited by Matthew S. Dryer and Martin Haspelmath. Zenodo.
-<a href="https://wals.info/chapter/2">https://wals.info/chapter/2</a>.
+———. 2013b. <span>“Vowel Quality Inventories (V2020.3).”</span> In
+<em>The World Atlas of Language Structures Online</em>, edited by
+Matthew S. Dryer and Martin Haspelmath. Zenodo. <a href="https://wals.info/chapter/2">https://wals.info/chapter/2</a>.
 </div>
 </div>
