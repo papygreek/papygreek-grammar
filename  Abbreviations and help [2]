@@ -25,7 +25,7 @@ in PapyGreek, we transcribe</p>
 in PapyGreek’s Zotero Library in the field Extra.</p>
 <ul>
 <li>adding @ and the Citation Key (without space) gives you e.g.&nbsp;this:
-<span class="citation" data-cites="viti2008">(<strong>viti2008?</strong>)</span> , and adds the
+<span class="citation" data-cites="viti2008">(<strong>viti2008?</strong>)</span>, and adds the
 full info to the Reference-section at the bottom of the page and to the
 Bibliography.</li>
 <li>As <span class="citation" data-cites="muhs2007">Muhs (2007)</span>
