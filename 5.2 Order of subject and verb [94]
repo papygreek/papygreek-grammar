@@ -20,7 +20,7 @@ transl. Brashear (2015)</li>
 <p>In Ancient Greek, the subject is often omitted in sentences where it
 can be understood from the the personal ending of the verb and the
 context, e.g.&nbsp;if the subject has already been mentioned in a previous
-sentence and is not changed <span class="citation" data-cites="emde2019">(Emde Boas et al. 2019)</span>.</p>
+sentence and is not changed <span class="citation" data-cites="emde2019">(<strong>emde2019?</strong>)</span>.</p>
 <p>In the literary treebanked corpus, the number of sentences in which
 the subject is explicitly mentioned is higher than the number of
 sentences where it has been omitted (60% vs.&nbsp;40%). In the PapyGreek
@@ -29,7 +29,8 @@ private letters and petitions have far fewer sentences with explicitly
 mentioned SBJ - only 20% of all sentences, while legal and
 administration documents have a nearly equal split between sentences
 with overt subject and sentences where the subject has been omitted.
-This tendency can be observed also in the Duke-nlp corpus.</p>
+This tendency can be observed also in the Duke-nlp corpus (!!Ref
+needed).</p>
 <p>There is an obvious difference between the genres also in the
 dominant order patterns. In private correspondence and petitions, when
 the subject is the only obligatory verbal complement present in the
@@ -45,7 +46,8 @@ Túchōn hḗkei eis tḕn pólin toútu chárin.<br>
 </ol>
 <p>As the subject is often the topic of the sentence, its position
 before the verb is in line with the information structure suggested by
-the pragmatic paradigm <span class="citation" data-cites="dik1995">(<strong>dik1995?</strong>)</span>.</p>
+the pragmatic paradigm <span class="citation" data-cites="dik1995">(Dik
+1995)</span>.</p>
 <p>In legal documents, however, the ratio between <em>subject-verb</em>
 and <em>verb-subject</em> instances is nearly equal, due to the large
 numbers of verb-initial legal formulae:</p>
@@ -85,10 +87,8 @@ chapter:</h2>
 <p><a href="https://wals.info/chapter/82">Order of Subject and Verb
 (Dryer 2013)</a></p>
 <div id="refs" class="references csl-bib-body hanging-indent" role="list">
-<div id="ref-emde2019" class="csl-entry" role="listitem">
-Emde Boas, Evert van, Albert Rijksbaron, Luuk Huitink, and Mathieu de
-Bakker. 2019. <em>The Cambridge Grammar of Classical Greek</em>.
-Cambridge: Cambridge University Press. <a href="https://DOI: 10.1017/9781139027052">DOI:
-10.1017/9781139027052</a>.
+<div id="ref-dik1995" class="csl-entry" role="listitem">
+Dik, Helma. 1995. <em>Word order in Ancient Greek: a pragmatic account
+of word order variation in Herodotus</em>. Amsterdam: Gieben.
 </div>
 </div>
