@@ -1,0 +1,15 @@
+<h1>2.5 Pronouns</h1>
+<p>In PapyGreek Treebanks different types of pronouns all share the
+part-of-speech tag ‘pronoun’, and for finding a certain type of pronoun
+one needs to use the lemma in addition to the postag in the
+searches.</p>
+<p>Pronouns can be used adjectively or substantively and in some other
+Ancient Greek Dependency Treebanks pronouns are occasionally marked as
+adjectives in the part-of-speech tag, see <span class="citation" data-cites="celano2014c">Celano (2014c)</span>, 2.3. In PapyGreek corpus
+the postag for pronoun is preferred in all cases.</p>
+<div id="refs" class="references csl-bib-body hanging-indent" role="list">
+<div id="ref-celano2014c" class="csl-entry" role="listitem">
+Celano, Giuseppe G.A. 2014c. <em>Guidelines for the Ancient Greek
+Dependency Treebank 2.0</em>. Perseus Digital Library. <a href="https://github.com/PerseusDL/treebank_data/blob/master/AGDT2/guidelines/Greek_guidelines.md#21-article">https://github.com/PerseusDL/treebank_data/blob/master/AGDT2/guidelines/Greek_guidelines.md#21-article</a>.
+</div>
+</div>
