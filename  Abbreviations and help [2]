@@ -34,7 +34,8 @@ points out</li>
 have just the reference, use square brackets around the @ and Citation
 Key: <span class="citation" data-cites="viti2008">(Viti
 2008)</span></li>
-<li>When referencing to page numbers within the text, use p., eg. <span class="citation" data-cites="muhs2007">Muhs (2007)</span>, p.&nbsp;98.</li>
+<li>When referencing to page numbers within the text, use p.&nbsp;after
+citation key and comma, eg. <span class="citation" data-cites="muhs2007">Muhs (2007)</span>, p.&nbsp;98–100.</li>
 </ul>
 <h2 id="smyth-links">Smyth links</h2>
 <p>Find the the place you wish the link to direct to from <a href="https://papygreek.com/smyth">our Smyth page</a>, and copy the url
