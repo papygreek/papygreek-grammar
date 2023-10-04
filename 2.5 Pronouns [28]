@@ -3,10 +3,10 @@
 part-of-speech tag ‘pronoun’, and for finding a certain type of pronoun
 one needs to use the lemma in addition to the postag in the
 searches.</p>
-<p>Pronouns can be used adjectively or substantively and in some other
-Ancient Greek Dependency Treebanks pronouns are occasionally marked as
-adjectives in the part-of-speech tag, see <span class="citation" data-cites="celano2014c">Celano (2014c)</span>, 2.3. In PapyGreek corpus
-the postag for pronoun is preferred in all cases.</p>
+<p>Pronouns can be used adjectively or substantively, and in some other
+Ancient Greek Dependency Treebanks certain pronouns are marked as
+adjectives in the part-of-speech tag, see <span class="citation" data-cites="celano2014c">Celano (2014c)</span>, 2.3. In PapyGreek
+corpus, the postag for pronoun is preferred in all cases.</p>
 <div id="refs" class="references csl-bib-body hanging-indent" role="list">
 <div id="ref-celano2014c" class="csl-entry" role="listitem">
 Celano, Giuseppe G.A. 2014c. <em>Guidelines for the Ancient Greek
