@@ -76,5 +76,6 @@ etc.). The high number of instances of such phrases are mostly due to
 the nature of our documents - letters, contracts, petitions, and other
 texts concerning business affairs and employing widely used dating
 formulae.</p>
-<p>In the Duke-nlp corpus, the wide-spread tendency for placing the
-numeral after the noun in non-articular phrases is also observable.</p>
+<p>In the <a href="https://github.com/alekkeersmaekers/duke-nlp/tree/master/xml">Duke-nlp
+corpus</a>, the wide-spread tendency for placing the numeral after the
+noun in non-articular phrases is also observable.</p>
