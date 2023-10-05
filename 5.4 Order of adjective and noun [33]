@@ -97,8 +97,8 @@ noun. In indefinite phrases, the smaller size of our corpus increases
 the relevance of the instances of individual lemmas with high frequency.
 Therefore, in PapyGreek adjectives appear more often after the noun,
 which is in contrast to what is observed in literary materials and the
-larger automatically annotated Duke-nlp corpus, where the ratio is
-inverted.</p>
+larger automatically annotated <a href="https://github.com/alekkeersmaekers/duke-nlp/tree/master/xml">Duke-nlp
+corpus</a>, where the ratio is inverted.</p>
 <p>Quantifiers are predominantly placed in a prenominal position in
 non-articular phrases, which is characteric for them also in the
 literary and automatically-annotated documentary corpora. In articular
