@@ -47,7 +47,11 @@ from the preposing of the subject for emphasis, which in later Greek
 became routine even with non-emphatic subjects. Verb-final sentences
 thus are mostly found when the object is also extracted to the left for
 emphatic purposes <span class="citation" data-cites="horrocks2007">(Horrocks 2007, 623)</span>.</p>
-<p>In the treebanked corpora,</p>
+<p>Using the treebanked corpora, we can observe a noticeable difference
+between the patterns attested in the literary texts and those from
+documentary texts. While in the literary treebanked corpus, verb-final
+patterns are much more prevalent (more than 2/3 of results), in the
+papyri from our corpus the ratio is inverted.</p>
 <h3 id="new-testament-greek">New Testament Greek</h3>
 <ul>
 <li><p>Horrocks 1990/2007? <span class="citation" data-cites="horrocks2007">Horrocks (2007)</span>: Shift in Koine towards
