@@ -30,6 +30,11 @@ annotation of our corpus and the other major treebanked corpora used as
 reference points in this discussion does not record information about
 pragmatic function, it is impossible to test how pragmatics influences
 the ordering of the constituents in them through programmatic means.</p>
+<p>Topic and focus can be defined in a variety of ways: referring to
+prosodic, pragmatic, semantic and/or syntactic factors, and in Medieval
+and Early Modern Greek, only prosodic properties could determine
+topical/focal elements, but these are not accessible to us anymore; the
+same applies to Greek in the papyri, naturally. (<span class="citation" data-cites="holton2019">Holton et al. (2019)</span>)</p>
 <h3 id="shift-in-koine-towards-vso">Shift in Koine towards VSO</h3>
 <p><span class="citation" data-cites="horrocks2007">Horrocks
 (2007)</span> discusses the establishment of VSO and SVO patterns as
@@ -61,31 +66,27 @@ annotated <a href="https://github.com/alekkeersmaekers/duke-nlp/tree/master/xml"
 corpus</a>, the ratio is inverted, with verb-final patterns being much
 less frequent.</p>
 <h3 id="new-testament-greek">New Testament Greek</h3>
-<ul>
-<li><p>Dik’s Pragmatic Paradigm cannot be tested through the means of
-treebanking, but it should be presented briefly as one of the leading
-contenders for explanation</p></li>
-<li><p>Topic and focus -discussion, Dik 1995: (Setting) - Topic - Focus
-- Verb - Remainder<br>
-<span class="citation" data-cites="holton2019">Holton et al.
-(2019)</span>: Topic and focus can be defined in a variety of ways:
-referring to prosodic, pragmatic, semantic and/or syntactic factors, and
-in Medieval and Early Modern Greek, only prosodic properties could
-determine topical/focal elements, but these are not accessible to us
-anymore; the same applies to Greek in the papyri, naturally<br>
+<p>: Topic and focus can be defined in a variety of ways: referring to
+prosodic, pragmatic, semantic and/or syntactic factors, and in Medieval
+and Early Modern Greek, only prosodic properties could determine
+topical/focal elements, but these are not accessible to us anymore; the
+same applies to Greek in the papyri, naturally<br>
 <span class="citation" data-cites="celano2014">Celano (2014a)</span>:
 Greek topic and focus structures are more complicated than what Dik
-suggested</p></li>
-<li><p>New Testament: <span class="citation" data-cites="pitts2022">Pitts (2022)</span>; <span class="citation" data-cites="kwong2005">Kwong (2005)</span></p></li>
-<li><p>Celano - treebank-based study of word order in prose: “A
+suggested</p>
+<ul>
+<li>New Testament: <span class="citation" data-cites="pitts2022">Pitts
+(2022)</span>; <span class="citation" data-cites="kwong2005">Kwong
+(2005)</span></li>
+<li>Celano - treebank-based study of word order in prose: “A
 computational study on preverbal and postverbal accusative object nouns
-and pronouns in Ancient Greek”</p></li>
-<li><p>Ebeling, H. L. Some statistics on the order of words in Greek. In
+and pronouns in Ancient Greek”</li>
+<li>Ebeling, H. L. Some statistics on the order of words in Greek. In
 Studies in Honor of Basil L. Gildersleeve, pages 229–240. Johns Hopkins
-University Press, Baltimore, 1902.</p></li>
-<li><p>Taylor, Ann. The change from SOV to SVO in Ancient Greek.
-Language Variation and Change, 6 (1):1–37, 1994.</p></li>
-<li><p>Results in our papyri</p></li>
+University Press, Baltimore, 1902.</li>
+<li>Taylor, Ann. The change from SOV to SVO in Ancient Greek. Language
+Variation and Change, 6 (1):1–37, 1994.</li>
+<li>Results in our papyri</li>
 </ul>
 <h2 id="link-to-relevant-wals-chapter">Link to relevant WALS
 chapter:</h2>
