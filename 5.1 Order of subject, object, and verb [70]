@@ -25,6 +25,11 @@ pattern suggested by Helma Dik (<span class="citation" data-cites="dik1995">(Dik
 <p>Within this framework, permutations and variations are possible, in
 order to link individual utterances in the discourse and contrast them
 against, or present as a continuation of, a previously stated idea <span class="citation" data-cites="celano2014">(Celano 2014a)</span>.</p>
+<p>However, since the AGDT treebanking framework utilised for the
+annotation of our corpus and the other major treebanked corpora used as
+reference points in this discussion does not record information about
+pragmatic function, it is impossible to test how pragmatics influences
+the ordering of the constituents with programmatic means.</p>
 <h3 id="shift-in-koine-towards-vso">Shift in Koine towards VSO</h3>
 <p><span class="citation" data-cites="horrocks2007">Horrocks
 (2007)</span> discusses the establishment of VSO and SVO patterns as
@@ -57,8 +62,6 @@ corpus</a>, the ratio is inverted, with verb-final patterns being much
 less frequent.</p>
 <h3 id="new-testament-greek">New Testament Greek</h3>
 <ul>
-<li><p>Horrocks 1990/2007? <span class="citation" data-cites="horrocks2007">Horrocks (2007)</span>: Shift in Koine towards
-VSO order and the role of clitic pronouns</p></li>
 <li><p>Dik’s Pragmatic Paradigm cannot be tested through the means of
 treebanking, but it should be presented briefly as one of the leading
 contenders for explanation</p></li>
