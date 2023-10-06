@@ -1,0 +1,65 @@
+<h1>2.1.3 Gender</h1>
+<h2 id="relevant-postag-codes">Relevant postag codes:</h2>
+<p>Position in postag string: <strong>7th</strong> (gender)</p>
+<p>letters: m (masculine), f (feminine), n (neuter)</p>
+<p>Example: n-s—<strong>m</strong>n- (noun, singular,
+<strong>masculine</strong>, nominative)</p>
+<h2 id="summary">Summary:</h2>
+<p>Greek has three genders: masculine, feminine and neuter. The gender
+of the the attributes (definite articles, adjectives, participles, most
+pronouns, some numerals) agree with the gender of their head (e.g.&nbsp;the
+head of the noun phrase or the referent of the personal pronoun). The
+gender is assigned in some animate nouns semantically (the rule of
+natural gender), but for most words morphologically as discussed by
+<a data-link-newtab="" href="/smyth/body.1_div1.2_div2.2.html" data-url="smyth/body.1_div1.2_div2.2.html">Smyth</a> and in more detail by <span class="citation" data-cites="luraghi2013">Luraghi (2013)</span>. Verbal
+finite endings do not present gender agreement with nouns (cf.&nbsp;Corbett
+2013). Some adjectives have only two genders (non-neuter and neuter).
+Participles inflect in all genders; like 1st (feminine) and 2nd
+(masculine and neuter) declension adjectives. It must be noted that
+formally masculine and neuter endings coincide in some cases in the
+second declension (genitive and dative singular and plural), and the
+plural genitive ending is homomorphic for all three genders.</p>
+<h2 id="example-from-papygreek-corpus">Example from PapyGreek
+corpus</h2>
+<ol type="1">
+<li>προσαγόρευε <strong>τὴν κυρείαν ἀδελφὴν μακαρείαν</strong> Ἀσοῦν καὶ
+<strong>τὴν μητέραν</strong> αὐτῆς καὶ…<br>
+(prosagóreue <strong>tḕn kureían adelfḕn makareían</strong> Asoûn kaì
+<strong>tḕn mētéran</strong> autês kaì…)<br>
+<em>Greet my blessed lady sister Asous and her mother and…</em><br>
+<a href="https://new.papygreek.com/text/35155">P.Oxy.14.1774</a>, 17–19
+(sent. 7), transl. <span class="citation" data-cites="bagnallcribiore">Bagnall and Cribiore (2008)</span>
+p.&nbsp;194.</li>
+</ol>
+<p></p><div style="height:300px; " data-treeid="1" class="sentence-tree tf-tree tf-result" data-json="eyJvayI6IHRydWUsICJyZXN1bHQiOiBbeyJpZCI6IDU0MzgyLCAibiI6IDIsICJoZWFkIjogIjQiLCAiZm9ybSI6ICJcdTAzYzRcdTFmNzRcdTAzYmQiLCAiaW5zZXJ0aW9uX2lkIjogbnVsbCwgImFydGlmaWNpYWwiOiBudWxsLCAicmVsYXRpb24iOiAiQVRSIiwgInBvc3RhZyI6ICJsLXMtLS1mYS0iLCAic29ydGVyMSI6IDIsICJzb3J0ZXIyIjogIiIsICJkZXB0aCI6IDR9LCB7ImlkIjogNTQzODMsICJuIjogMywgImhlYWQiOiAiNCIsICJmb3JtIjogIlx1MDNiYVx1MDNjNVx1MDNjMVx1MDNiNVx1MDNhZlx1MDNiMVx1MDNiZCIsICJpbnNlcnRpb25faWQiOiBudWxsLCAiYXJ0aWZpY2lhbCI6IG51bGwsICJyZWxhdGlvbiI6ICJBVFIiLCAicG9zdGFnIjogImEtcy0tLWZhXyIsICJzb3J0ZXIxIjogMywgInNvcnRlcjIiOiAiIiwgImRlcHRoIjogNH0sIHsiaWQiOiA1NDM4NSwgIm4iOiA1LCAiaGVhZCI6ICI0IiwgImZvcm0iOiAiXHUwM2JjXHUwM2IxXHUwM2JhXHUwM2IxXHUwM2MxXHUwM2I1XHUwM2FmXHUwM2IxXHUwM2JkIiwgImluc2VydGlvbl9pZCI6IG51bGwsICJhcnRpZmljaWFsIjogbnVsbCwgInJlbGF0aW9uIjogIkFUUiIsICJwb3N0YWciOiAiYS1zLS0tZmFfIiwgInNvcnRlcjEiOiA1LCAic29ydGVyMiI6ICIiLCAiZGVwdGgiOiA0fSwgeyJpZCI6IDU0Mzg0LCAibiI6IDQsICJoZWFkIjogIjYiLCAiZm9ybSI6ICJcdTFmMDB8XHUwM2I0XHUwM2I1XHUwM2JiXHUwM2M2XHUxZjc0XHUwM2JkIiwgImluc2VydGlvbl9pZCI6IG51bGwsICJhcnRpZmljaWFsIjogbnVsbCwgInJlbGF0aW9uIjogIkFQT1MiLCAicG9zdGFnIjogIm4tcy0tLWZhLSIsICJzb3J0ZXIxIjogNCwgInNvcnRlcjIiOiAiIiwgImRlcHRoIjogM30sIHsiaWQiOiA1NDM4OCwgIm4iOiA4LCAiaGVhZCI6ICI5IiwgImZvcm0iOiAiXHUwM2M0XHUxZjc0XHUwM2JkIiwgImluc2VydGlvbl9pZCI6IG51bGwsICJhcnRpZmljaWFsIjogbnVsbCwgInJlbGF0aW9uIjogIkFUUiIsICJwb3N0YWciOiAibC1zLS0tZmEtIiwgInNvcnRlcjEiOiA4LCAic29ydGVyMiI6ICIiLCAiZGVwdGgiOiAzfSwgeyJpZCI6IDU0MzkwLCAibiI6IDEwLCAiaGVhZCI6ICI5IiwgImZvcm0iOiAiXHUwM2IxXHUxZjUwXHUwM2M0XHUxZmM2XHUwM2MyIiwgImluc2VydGlvbl9pZCI6IG51bGwsICJhcnRpZmljaWFsIjogbnVsbCwgInJlbGF0aW9uIjogIkFUUiIsICJwb3N0YWciOiAicC1zLS0tZmctIiwgInNvcnRlcjEiOiAxMCwgInNvcnRlcjIiOiAiIiwgImRlcHRoIjogM30sIHsiaWQiOiA1NDM4NiwgIm4iOiA2LCAiaGVhZCI6ICI3IiwgImZvcm0iOiAiXHUxZjA4XHUwM2MzXHUwM2JmXHUxZmU2XHUwM2JkIiwgImluc2VydGlvbl9pZCI6IG51bGwsICJhcnRpZmljaWFsIjogbnVsbCwgInJlbGF0aW9uIjogIk9CSl9DTyIsICJwb3N0YWciOiAibi1zLS0tZmEtIiwgInNvcnRlcjEiOiA2LCAic29ydGVyMiI6ICIiLCAiZGVwdGgiOiAyfSwgeyJpZCI6IDU0Mzg5LCAibiI6IDksICJoZWFkIjogIjciLCAiZm9ybSI6ICJcdTAzYmNcdTAzYjdcdTAzYzRcdTAzYWRcdTAzYzFcdTAzYjFcdTAzYmQiLCAiaW5zZXJ0aW9uX2lkIjogbnVsbCwgImFydGlmaWNpYWwiOiBudWxsLCAicmVsYXRpb24iOiAiT0JKX0NPIiwgInBvc3RhZyI6ICJuLXMtLS1mYS0iLCAic29ydGVyMSI6IDksICJzb3J0ZXIyIjogIiIsICJkZXB0aCI6IDJ9LCB7ImlkIjogNTQzODcsICJuIjogNywgImhlYWQiOiAiMSIsICJmb3JtIjogIlx1MDNiYVx1MDNiMVx1MWY3NiIsICJpbnNlcnRpb25faWQiOiBudWxsLCAiYXJ0aWZpY2lhbCI6IG51bGwsICJyZWxhdGlvbiI6ICJDT09SRCIsICJwb3N0YWciOiAiYy0tLS0tLS0tIiwgInNvcnRlcjEiOiA3LCAic29ydGVyMiI6ICIiLCAiZGVwdGgiOiAxfSwgeyJpZCI6IDU0MzgxLCAibiI6IDEsICJoZWFkIjogIjAiLCAiZm9ybSI6ICJcdTAzYzBcdTAzYzFcdTAzYmZcdTAzYzNcdTAzYjFcdTAzYjNcdTAzY2NcdTAzYzFcdTAzYjVcdTAzYzVcdTAzYjUiLCAiaW5zZXJ0aW9uX2lkIjogbnVsbCwgImFydGlmaWNpYWwiOiBudWxsLCAicmVsYXRpb24iOiAiUFJFRCIsICJwb3N0YWciOiAidjJzcG1hLS0tIiwgInNvcnRlcjEiOiAxLCAic29ydGVyMiI6ICIiLCAiZGVwdGgiOiAwfSwgeyJpZCI6IDU0MzkxLCAibiI6IDExLCAiaGVhZCI6ICIiLCAiZm9ybSI6ICJcdTAzYmFcdTAzYjFcdTFmNzYiLCAiaW5zZXJ0aW9uX2lkIjogbnVsbCwgImFydGlmaWNpYWwiOiBudWxsLCAicmVsYXRpb24iOiAiIiwgInBvc3RhZyI6ICJjLS0tLS0tLS0iLCAic29ydGVyMSI6IDExLCAic29ydGVyMiI6ICIiLCAiZGVwdGgiOiAwfSwgeyJpZCI6IDU0MzkyLCAibiI6IDEyLCAiaGVhZCI6ICIiLCAiZm9ybSI6ICJbXy4yXV8uMVtfLjVdXy4xW18uMV1cdTAzYjhcdTAzMjNcdTAzYjFcdTAzYmRcdTAzYzRcdTAzYjEiLCAiaW5zZXJ0aW9uX2lkIjogbnVsbCwgImFydGlmaWNpYWwiOiBudWxsLCAicmVsYXRpb24iOiAiIiwgInBvc3RhZyI6ICIiLCAic29ydGVyMSI6IDEyLCAic29ydGVyMiI6ICIiLCAiZGVwdGgiOiAwfSwgeyJpZCI6IDU0MzkzLCAibiI6IDEzLCAiaGVhZCI6ICIiLCAiZm9ybSI6ICJcdTAzYzRcdTFmNzhcdTAzYmQiLCAiaW5zZXJ0aW9uX2lkIjogbnVsbCwgImFydGlmaWNpYWwiOiBudWxsLCAicmVsYXRpb24iOiAiIiwgInBvc3RhZyI6ICJsLXMtLS1tYS0iLCAic29ydGVyMSI6IDEzLCAic29ydGVyMiI6ICIiLCAiZGVwdGgiOiAwfSwgeyJpZCI6IDU0Mzk0LCAibiI6IDE0LCAiaGVhZCI6ICIiLCAiZm9ybSI6ICJbXy4/bGluXSIsICJpbnNlcnRpb25faWQiOiBudWxsLCAiYXJ0aWZpY2lhbCI6IG51bGwsICJyZWxhdGlvbiI6ICIiLCAicG9zdGFnIjogIiIsICJzb3J0ZXIxIjogMTQsICJzb3J0ZXIyIjogIiIsICJkZXB0aCI6IDB9LCB7ImlkIjogNTQzOTUsICJuIjogMTUsICJoZWFkIjogIjAiLCAiZm9ybSI6ICIuIiwgImluc2VydGlvbl9pZCI6IG51bGwsICJhcnRpZmljaWFsIjogbnVsbCwgInJlbGF0aW9uIjogIkF1eEsiLCAicG9zdGFnIjogInUtLS0tLS0tLSIsICJzb3J0ZXIxIjogMTUsICJzb3J0ZXIyIjogIiIsICJkZXB0aCI6IDB9XSwgImhpZ2hsaWdodF9ub2RlcyI6ICIyLDMsNCw1LDgsOSIsICJoaWdobGlnaHRfZWRnZXMiOiAiIiwgImlkIjogMX0="></div><p></p>
+<h2 id="discussion">Discussion</h2>
+<ul>
+<li>Is there change in time for usage for some nouns? In later
+postclassical Greek not always same as in classical? (see Horrocks,
+Mayser; Gignac; Cf. Giannakis’ talk 24.2.2023 PGN)</li>
+<li>Egyptian has three genders as well; differences? Sometimes
+phrase-initial inflection interrupts agreement of cases, what about
+gender (in Pathyris at least we have examples)?</li>
+<li>multiple genders and pronouns?</li>
+<li>are months masculine also in papyri, cf.&nbsp;Smyth? And countries,
+islands, cities, trees, and plants feminine?</li>
+<li>first and second person pronouns do not indicate gender; in
+PapyGreek these are occasionally added.</li>
+</ul>
+<h2 id="relevant-passages-in-smyths-grammar">Relevant passages in
+Smyth’s Grammar</h2>
+<p><a data-link-newtab="" href="/smyth/body.1_div1.2_div2.2.html" data-url="smyth/body.1_div1.2_div2.2.html">On Gender §196ff</a></p>
+<p><a data-link-newtab="" href="/smyth/body.1_div1.4_div2.14.html" data-url="smyth/body.1_div1.4_div2.14.html">On concord with adjectives
+§1020</a></p>
+<div id="refs" class="references csl-bib-body hanging-indent" role="list">
+<div id="ref-bagnallcribiore" class="csl-entry" role="listitem">
+Bagnall, Roger S., and Raffaella Cribiore. 2008. <em>Women’s Letters
+from Ancient Egypt, 300 BC-AD 800</em>. Ann Arbor: University of
+Michigan Press. <a href="https://hdl.handle.net/2027/heb90014.0001.001">https://hdl.handle.net/2027/heb90014.0001.001</a>.
+</div>
+<div id="ref-luraghi2013" class="csl-entry" role="listitem">
+Luraghi, Silvia. 2013. <span>“Gender.”</span> In <em>Encyclopedia of
+Ancient Greek Language and Linguistics</em>, edited by Georgios
+Giannakis. Brill. <a href="https://referenceworks.brillonline.com/entries/encyclopedia-of-ancient-greek-language-and-linguistics/gender-COM_00000139">https://referenceworks.brillonline.com/entries/encyclopedia-of-ancient-greek-language-and-linguistics/gender-COM_00000139</a>.
+</div>
+</div>
