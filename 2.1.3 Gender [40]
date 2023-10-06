@@ -7,8 +7,8 @@
 <li><p>letters: <strong>m</strong> (masculine), <strong>f</strong>
 (feminine), <strong>n</strong> (neuter)</p></li>
 </ol>
-<p>Example: n-s—<strong>m</strong>n- (noun, singular,
-<strong>masculine</strong>, nominative)</p>
+<p><strong>Example postag string:</strong> n-s—<strong>m</strong>n-
+(noun, singular, <strong>masculine</strong>, nominative)</p>
 <h2 id="summary">Summary:</h2>
 <p>Greek has three genders: masculine, feminine and neuter. The gender
 of the the attributes (definite articles, adjectives, participles, most
