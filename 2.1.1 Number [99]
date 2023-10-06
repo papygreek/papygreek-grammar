@@ -1,5 +1,6 @@
 <h1>2.1.1 Number</h1>
-<p>Status: <em>draft</em> Summary missing ## Relevant postag code</p>
+<p>Status: <em>draft</em> Summary missing</p>
+<h2 id="relevant-postag-code">Relevant postag code</h2>
 <p>Position in postag string: <strong>3rd</strong></p>
 <p>letters: <strong>s</strong> (singular), <strong>d</strong> (dual),
 <strong>p</strong> (plural)</p>
