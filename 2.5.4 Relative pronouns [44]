@@ -1,0 +1,62 @@
+<h1>2.5.4 Relative pronouns</h1>
+<h2 id="relevant-postag-codes">Relevant postag codes:</h2>
+<p><strong>Position and letters in postag string:</strong></p>
+<ol type="1">
+<li><p>part of speech: <strong>1st</strong>; letter: <strong>p</strong>
+(pronoun)</p></li>
+<li><p>number: <strong>3rd</strong>; letters: <strong>s</strong>
+(singular), <strong>d</strong> (dual), <strong>p</strong>
+(plural)</p></li>
+<li><p>gender: <strong>7th</strong>; letters: <strong>m</strong>
+(masculine), <strong>f</strong> (feminine), <strong>n</strong>
+(neuter)</p></li>
+<li><p>case: <strong>8th</strong>; letters: <strong>n</strong>
+(nominative), <strong>g</strong> (genitive), <strong>d</strong>
+(dative), <strong>a</strong> (accusative), <strong>v</strong>
+(vocative)</p></li>
+</ol>
+<p><strong>Example postag string:</strong> p-s—nn- (pronoun, singular,
+neuter, nominative)</p>
+<h2 id="summary">Summary</h2>
+<p>The relative pronoun ὅς, ἥ, ὅ (hós, hḗ, hó, <em>who</em>,
+<em>which</em>, <em>that</em>) is inflected in all numbers and
+genders.</p>
+<p>The declension table for the relative pronoun can be found in
+<a data-link-newtab="" href="/smyth/body.1_div1.2_div2.6.html" data-url="smyth/body.1_div1.2_div2.6.html">Smyth §338</a>.</p>
+<p>Smyth §339. “The indefinite or general relative pronoun ὅστις, ἥτις,
+ὅ τι (hóstis, hḗtis, hó ti <em>whoever</em> (<em>any-who</em>,
+<em>any-which</em>), <em>any one who</em>, <em>whatever</em>,
+<em>anything which</em>, inflects each part (ὅς and τὶς)
+separately.”</p>
+<p>Smyth §2489. “Relative clauses are introduced by relative pronouns or
+by relative adverbs of time, place , or manner (cp.&nbsp;340, 346), and refer
+to an antecedent expressed or implied in the main clause.”</p>
+<p>§2493. “ὅς (hós, <em>who</em>) and the other simple relatives
+(e.g.&nbsp;οἷος, ὅσος – hoîos, <em>such as</em>, hósos <em>as much/many
+as</em>) refer to a particular and individual person or thing.”</p>
+<h2 id="queries-from-papygreek-corpus">Queries from PapyGreek
+corpus</h2>
+<ul>
+<li><a data-link-newtab="" href="/search/50" data-url="search/50">All forms of the relative pronoun ὅς, ἥ, ὅ [hós, hḗ,
+hó]</a></li>
+<li><a data-link-newtab="" href="/search/96" data-url="search/96">All forms of the relative pronoun ὅστις, ἥτις, ὅ τι
+[hóstis, hḗtis, hó ti]</a></li>
+<li><a data-link-newtab="" href="/search/97" data-url="search/97">All forms of the relative pronoun οἷος, οἵα, οἷον [hoîos,
+hoía, hoîon]</a></li>
+<li><a data-link-newtab="" href="/search/98" data-url="search/98">All forms of the relative pronoun ὅσος, -η, -ον [hósos,
+-ē, -on]</a></li>
+</ul>
+<h2 id="examples-of-relative-pronouns-from-papygreek-corpus">Examples of
+relative pronouns from PapyGreek corpus</h2>
+<ol type="1">
+<li>κόμισαι παρὰ τοῦ ἀποδιδόντος σοι τὸ ἐπιστόλιον καλάθιον ἐν
+<strong>ᾧ</strong> <strong>ὃ</strong> ἐὰν εὑρίσκεις αὐτὸ ἀντιγράψεις
+μοι.<br>
+(kómisai parà toû apodidóntos soi tò epistólion kaláthion en
+<strong>hô(i) hò</strong> eàn heurískeis autò antigrápseis moi.)<br>
+<em>Receive from the one who brings this letter to you a basket and
+write back to me what you find in it.</em><br>
+<a href="https://papygreek.com/text/33027">p.mich.8.481</a>, 5-8
+(sentence 3), transl. White (1986) p.177.</li>
+</ol>
+<p></p><div style="height:300px; " data-treeid="1" class="sentence-tree tf-tree tf-result" data-json="eyJvayI6IHRydWUsICJyZXN1bHQiOiBbeyJpZCI6IDUxMjM0LCAibiI6IDYsICJoZWFkIjogIjciLCAiZm9ybSI6ICJcdTAzYzRcdTFmNzgiLCAiaW5zZXJ0aW9uX2lkIjogbnVsbCwgImFydGlmaWNpYWwiOiBudWxsLCAicmVsYXRpb24iOiAiQVRSIiwgInBvc3RhZyI6ICJsLXMtLS1uYS0iLCAic29ydGVyMSI6IDYsICJzb3J0ZXIyIjogIiIsICJkZXB0aCI6IDV9LCB7ImlkIjogNTEyMzgsICJuIjogMTAsICJoZWFkIjogIjkiLCAiZm9ybSI6ICJcdTFmYTciLCAiaW5zZXJ0aW9uX2lkIjogbnVsbCwgImFydGlmaWNpYWwiOiBudWxsLCAicmVsYXRpb24iOiAiQURWIiwgInBvc3RhZyI6ICJwLXMtLS1tZC0iLCAic29ydGVyMSI6IDEwLCAic29ydGVyMiI6ICIiLCAiZGVwdGgiOiA1fSwgeyJpZCI6IDUxMjMxLCAibiI6IDMsICJoZWFkIjogIjQiLCAiZm9ybSI6ICJcdTAzYzRbXHUwM2JmXVx1MWZlNiIsICJpbnNlcnRpb25faWQiOiBudWxsLCAiYXJ0aWZpY2lhbCI6IG51bGwsICJyZWxhdGlvbiI6ICJBVFIiLCAicG9zdGFnIjogImwtcy0tLW1nLSIsICJzb3J0ZXIxIjogMywgInNvcnRlcjIiOiAiIiwgImRlcHRoIjogNH0sIHsiaWQiOiA1MTIzMywgIm4iOiA1LCAiaGVhZCI6ICI0IiwgImZvcm0iOiAiXHUwM2MzXHUwM2JmXHUwM2I5IiwgImluc2VydGlvbl9pZCI6IG51bGwsICJhcnRpZmljaWFsIjogbnVsbCwgInJlbGF0aW9uIjogIk9CSiIsICJwb3N0YWciOiAicDJzLS0tLWQtIiwgInNvcnRlcjEiOiA1LCAic29ydGVyMiI6ICIiLCAiZGVwdGgiOiA0fSwgeyJpZCI6IDUxMjM1LCAibiI6IDcsICJoZWFkIjogIjQiLCAiZm9ybSI6ICJcdTFmMTBcdTAzYzBcdTAzYjlcdTAzYzNcdTAzYzRcdTAzY2NcdTAzYmJcdTAzYjlcdTAzYmZcdTAzYmQiLCAiaW5zZXJ0aW9uX2lkIjogbnVsbCwgImFydGlmaWNpYWwiOiBudWxsLCAicmVsYXRpb24iOiAiT0JKIiwgInBvc3RhZyI6ICJuLXMtLS1ubi0iLCAic29ydGVyMSI6IDcsICJzb3J0ZXIyIjogIiIsICJkZXB0aCI6IDR9LCB7ImlkIjogNTEyMzcsICJuIjogOSwgImhlYWQiOiAiMTMiLCAiZm9ybSI6ICJcdTFmMTBcdTAzYmQiLCAiaW5zZXJ0aW9uX2lkIjogbnVsbCwgImFydGlmaWNpYWwiOiBudWxsLCAicmVsYXRpb24iOiAiQXV4UCIsICJwb3N0YWciOiAici0tLS0tLS0tIiwgInNvcnRlcjEiOiA5LCAic29ydGVyMiI6ICIiLCAiZGVwdGgiOiA0fSwgeyJpZCI6IDUxMjM5LCAibiI6IDExLCAiaGVhZCI6ICIxMyIsICJmb3JtIjogIlx1MWY0MyIsICJpbnNlcnRpb25faWQiOiBudWxsLCAiYXJ0aWZpY2lhbCI6IG51bGwsICJyZWxhdGlvbiI6ICJPQkoiLCAicG9zdGFnIjogInAtcy0tLW5hLSIsICJzb3J0ZXIxIjogMTEsICJzb3J0ZXIyIjogIiIsICJkZXB0aCI6IDR9LCB7ImlkIjogNTEyMzIsICJuIjogNCwgImhlYWQiOiAiMiIsICJmb3JtIjogIlx1MWYwMFx1MDNjMFx1MDNiZlx1MDNiNFx1MDNiOXxcdTAzYjRcdTAzY2NcdTAzYmRcdTAzYzRcdTAzYmZcdTAzYzIiLCAiaW5zZXJ0aW9uX2lkIjogbnVsbCwgImFydGlmaWNpYWwiOiBudWxsLCAicmVsYXRpb24iOiAiQVRSIiwgInBvc3RhZyI6ICJ2LXNwcGFtZy0iLCAic29ydGVyMSI6IDQsICJzb3J0ZXIyIjogIiIsICJkZXB0aCI6IDN9LCB7ImlkIjogNTEyNDEsICJuIjogMTMsICJoZWFkIjogIjEyIiwgImZvcm0iOiAiXHUwM2I1XHUxZjUxXHUwM2MxXHUwM2FmXHUwM2MzXHUwM2JhXHUwM2I1XHUwM2I5XHUwM2MyIiwgImluc2VydGlvbl9pZCI6IG51bGwsICJhcnRpZmljaWFsIjogbnVsbCwgInJlbGF0aW9uIjogIkFEViIsICJwb3N0YWciOiAidjJzcGlhLS0tIiwgInNvcnRlcjEiOiAxMywgInNvcnRlcjIiOiAiIiwgImRlcHRoIjogM30sIHsiaWQiOiA1MTIzMCwgIm4iOiAyLCAiaGVhZCI6ICIxIiwgImZvcm0iOiAiXHUwM2MwXHUwM2IxXHUwM2MxXHUxZjcwIiwgImluc2VydGlvbl9pZCI6IG51bGwsICJhcnRpZmljaWFsIjogbnVsbCwgInJlbGF0aW9uIjogIkF1eFAiLCAicG9zdGFnIjogInItLS0tLS0tLSIsICJzb3J0ZXIxIjogMiwgInNvcnRlcjIiOiAiIiwgImRlcHRoIjogMn0sIHsiaWQiOiA1MTIzNiwgIm4iOiA4LCAiaGVhZCI6ICIxIiwgImZvcm0iOiAiXHUwM2JhXHUwM2IxfFx1MDNiYlx1MDNhY1x1MDNiOFx1MDNiOVx1MDNiZlx1MDNiZCIsICJpbnNlcnRpb25faWQiOiBudWxsLCAiYXJ0aWZpY2lhbCI6IG51bGwsICJyZWxhdGlvbiI6ICJPQkoiLCAicG9zdGFnIjogIm4tcy0tLW5uLSIsICJzb3J0ZXIxIjogOCwgInNvcnRlcjIiOiAiIiwgImRlcHRoIjogMn0sIHsiaWQiOiA1MTI0MCwgIm4iOiAxMiwgImhlYWQiOiAiMTUiLCAiZm9ybSI6ICJcdTFmMTBcdTFmNzBcdTAzYmQiLCAiaW5zZXJ0aW9uX2lkIjogbnVsbCwgImFydGlmaWNpYWwiOiBudWxsLCAicmVsYXRpb24iOiAiQXV4QyIsICJwb3N0YWciOiAiYy0tLS0tLS0tIiwgInNvcnRlcjEiOiAxMiwgInNvcnRlcjIiOiAiIiwgImRlcHRoIjogMn0sIHsiaWQiOiA1MTI0MiwgIm4iOiAxNCwgImhlYWQiOiAiMTUiLCAiZm9ybSI6ICJcdTAzYjFcdTFmNTBcdTAzYzRcdTFmNzgiLCAiaW5zZXJ0aW9uX2lkIjogbnVsbCwgImFydGlmaWNpYWwiOiBudWxsLCAicmVsYXRpb24iOiAiT0JKIiwgInBvc3RhZyI6ICJwLXMtLS1uYS0iLCAic29ydGVyMSI6IDE0LCAic29ydGVyMiI6ICIiLCAiZGVwdGgiOiAyfSwgeyJpZCI6IDUxMjQ0LCAibiI6IDE2LCAiaGVhZCI6ICIxNSIsICJmb3JtIjogIlx1MDNiY1x1MDNiZlx1MDNiOSIsICJpbnNlcnRpb25faWQiOiBudWxsLCAiYXJ0aWZpY2lhbCI6IG51bGwsICJyZWxhdGlvbiI6ICJPQkoiLCAicG9zdGFnIjogInAxcy0tLW1kLSIsICJzb3J0ZXIxIjogMTYsICJzb3J0ZXIyIjogIiIsICJkZXB0aCI6IDJ9LCB7ImlkIjogNTEyMjksICJuIjogMSwgImhlYWQiOiAiMTgiLCAiZm9ybSI6ICJcdTAzYmFcdTAzY2NcdTAzYmNcdTAzYjlcdTAzYzNcdTAzYjFcdTAzYjkiLCAiaW5zZXJ0aW9uX2lkIjogbnVsbCwgImFydGlmaWNpYWwiOiBudWxsLCAicmVsYXRpb24iOiAiUFJFRF9DTyIsICJwb3N0YWciOiAidjJzYW1tLS0tIiwgInNvcnRlcjEiOiAxLCAic29ydGVyMiI6ICIiLCAiZGVwdGgiOiAxfSwgeyJpZCI6IDUxMjQzLCAibiI6IDE1LCAiaGVhZCI6ICIxOCIsICJmb3JtIjogIlx1MWYwMFx1MDNiZFx1MDNjNFx1MDNiOVx1MDNiM1x1MDNjMVx1MDNhY1x1MDNjOFx1MDNiOVx1MDNjMiIsICJpbnNlcnRpb25faWQiOiBudWxsLCAiYXJ0aWZpY2lhbCI6IG51bGwsICJyZWxhdGlvbiI6ICJQUkVEX0NPIiwgInBvc3RhZyI6ICJ2MnNhc2EtLS0iLCAic29ydGVyMSI6IDE1LCAic29ydGVyMiI6ICIiLCAiZGVwdGgiOiAxfSwgeyJpZCI6IDUxMjQ1LCAibiI6IDE3LCAiaGVhZCI6ICIwIiwgImZvcm0iOiAiLiIsICJpbnNlcnRpb25faWQiOiBudWxsLCAiYXJ0aWZpY2lhbCI6IG51bGwsICJyZWxhdGlvbiI6ICJBdXhLIiwgInBvc3RhZyI6ICJ1LS0tLS0tLS0iLCAic29ydGVyMSI6IDE3LCAic29ydGVyMiI6ICIiLCAiZGVwdGgiOiAwfSwgeyJpZCI6IDUxMjQ2LCAibiI6IDE4LCAiaGVhZCI6ICIwIiwgImZvcm0iOiAiWzBdIiwgImluc2VydGlvbl9pZCI6ICIwMDAwZSIsICJhcnRpZmljaWFsIjogImVsbGlwdGljIiwgInJlbGF0aW9uIjogIkNPT1JEIiwgInBvc3RhZyI6ICIiLCAic29ydGVyMSI6IDE4LCAic29ydGVyMiI6ICJlIiwgImRlcHRoIjogMH1dLCAiaGlnaGxpZ2h0X25vZGVzIjogIjEwLDExIiwgImhpZ2hsaWdodF9lZGdlcyI6ICIiLCAiaWQiOiAxfQ=="></div><p></p>
