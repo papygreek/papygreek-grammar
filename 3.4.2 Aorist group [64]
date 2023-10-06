@@ -1,0 +1,68 @@
+<h1>3.4.2 Aorist group</h1>
+<p>Status: <em>draft</em></p>
+<h2 id="relevant-postag-codes">Relevant postag codes:</h2>
+<p><strong>Position and letters in postag string:</strong></p>
+<ol type="1">
+<li><p>part of speech: <strong>1st</strong>; letter: <strong>v</strong>
+(verb)</p></li>
+<li><p>person: <strong>2nd</strong>; numbers: <strong>1</strong>,
+<strong>2</strong>, <strong>3</strong></p></li>
+<li><p>number: <strong>3rd</strong>; letters: <strong>s</strong>
+(singular), <strong>p</strong> (plural), <strong>d</strong>
+(dual)</p></li>
+<li><p>tense: <strong>4th</strong>; letters: <strong>p</strong>
+(present), <strong>i</strong> (imperfect), <strong>r</strong> (perfect),
+<strong>l</strong> (pluperfect), <strong>t</strong> (future perfect),
+<strong>f</strong> (future), <strong>a</strong> (aorist)</p></li>
+<li><p>mood: <strong>5th</strong>; letters: <strong>i</strong>
+(indicative), <strong>s</strong> (subjunctive), <strong>o</strong>
+(optative), <strong>n</strong> (infinitive), <strong>m</strong>
+(imperative), <strong>p</strong> (participle)</p></li>
+<li><p>voice: <strong>6th</strong>; letters: <strong>a</strong>
+(active), <strong>p</strong> (passive), <strong>m</strong> (middle),
+<strong>e</strong> (medio-passive)</p></li>
+</ol>
+<p><strong>Example postag string:</strong> v2saia— (verb, 2nd singular,
+aorist, indicative, active)</p>
+<h2 id="summary">Summary</h2>
+<p>Whereas the Greek imperfect denotes continued action in the past (I
+was running) and the perfect a completed action in the past (I have run
+(but I’m not running anymore), the aorist doesn’t take a stand on the
+continuance or completion of an action, but simply expressess an
+occurrence of it (I ran). (Note, that the tenses express time only in
+the indicative mood.)</p>
+<p>Smyth:</p>
+<p>§1924. Ingressive Aorist.—The aorist of verbs whose present denotes a
+state or a continued action, expresses the entrance into that state or
+the beginning of that action. §1926. Resultative Aorist.—In contrast to
+the imperfect (and present) the aorist denotes the result, end, or
+effect of an action. §1927. Complexive Aorist.—The complexive aorist is
+used to survey at a glance the course of a past action from beginning to
+end.</p>
+<p>Formation: - weak aorist - strong aorist - root aorist</p>
+<h2 id="examples-of-aorist-tense-from-papygreek-corpus">Examples of
+aorist tense from PapyGreek corpus</h2>
+<ol type="1">
+<li>[οὐ]κ ἔγρα[ψ]ας [φάσι]ν ὅτι <strong>αἴλαβα</strong> αὐτὰ εἲ οὐκ
+<strong>αἴλαβα</strong>.<br>
+(ouk égrapsas phásin hóti <strong>aílaba</strong> autà eì ouk
+<strong>aílaba</strong>.)<br>
+<em>…you have not sent me a message “I have received” or “I have not
+received”.</em><br>
+<a href="https://papygreek.com/text/10359">o.claud.2.236</a>, 1-3 (sent.
+1), transl. Bülow-Jacobsen (1997) p.&nbsp;59.</li>
+</ol>
+<p></p><div style="height:300px; " data-treeid="1" class="sentence-tree tf-tree tf-result" data-json="eyJvayI6IHRydWUsICJyZXN1bHQiOiBbeyJpZCI6IDEyNjg4LCAibiI6IDgsICJoZWFkIjogIjciLCAiZm9ybSI6ICJcdTI3NWJcdTAzYjFcdTFmNTBcdTAzYzRcdTFmNzBcdTI3NWMiLCAiaW5zZXJ0aW9uX2lkIjogbnVsbCwgImFydGlmaWNpYWwiOiBudWxsLCAicmVsYXRpb24iOiAiT0JKIiwgInBvc3RhZyI6ICJwLXAtLS1uYS0iLCAic29ydGVyMSI6IDgsICJzb3J0ZXIyIjogIiIsICJkZXB0aCI6IDR9LCB7ImlkIjogMTI2OTAsICJuIjogMTAsICJoZWFkIjogIjExIiwgImZvcm0iOiAiXHUyNzViXHUwM2JmXHUxZjUwXHUwM2JhXHUyNzVjIiwgImluc2VydGlvbl9pZCI6IG51bGwsICJhcnRpZmljaWFsIjogbnVsbCwgInJlbGF0aW9uIjogIkFUUiIsICJwb3N0YWciOiAiZC0tLS0tLS0tIiwgInNvcnRlcjEiOiAxMCwgInNvcnRlcjIiOiAiIiwgImRlcHRoIjogNH0sIHsiaWQiOiAxMjY4NywgIm4iOiA3LCAiaGVhZCI6ICI5IiwgImZvcm0iOiAiXHUyNzViXHUwM2IxXHUxZjM0XHUwM2JiXHUwM2IxfFx1Mjc1Y1x1MDNiMlx1MDNiMSIsICJpbnNlcnRpb25faWQiOiBudWxsLCAiYXJ0aWZpY2lhbCI6IG51bGwsICJyZWxhdGlvbiI6ICJPQkpfQ08iLCAicG9zdGFnIjogInYxc2FpYS0tLSIsICJzb3J0ZXIxIjogNywgInNvcnRlcjIiOiAiIiwgImRlcHRoIjogM30sIHsiaWQiOiAxMjY5MSwgIm4iOiAxMSwgImhlYWQiOiAiOSIsICJmb3JtIjogIlx1Mjc1Ylx1MDNiMVx1MWYzNFx1MDNiYlx1MDNiMXxcdTI3NWNcdTAzYjJcdTAzYjEiLCAiaW5zZXJ0aW9uX2lkIjogbnVsbCwgImFydGlmaWNpYWwiOiBudWxsLCAicmVsYXRpb24iOiAiT0JKX0NPIiwgInBvc3RhZyI6ICJ2MXNhaWEtLS0iLCAic29ydGVyMSI6IDExLCAic29ydGVyMiI6ICIiLCAiZGVwdGgiOiAzfSwgeyJpZCI6IDEyNjg5LCAibiI6IDksICJoZWFkIjogIjYiLCAiZm9ybSI6ICJcdTAzYjVcdTFmMzIiLCAiaW5zZXJ0aW9uX2lkIjogbnVsbCwgImFydGlmaWNpYWwiOiBudWxsLCAicmVsYXRpb24iOiAiQ09PUkQiLCAicG9zdGFnIjogImMtLS0tLS0tLSIsICJzb3J0ZXIxIjogOSwgInNvcnRlcjIiOiAiIiwgImRlcHRoIjogMn0sIHsiaWQiOiAxMjY4MywgIm4iOiAzLCAiaGVhZCI6ICI0IiwgImZvcm0iOiAiW1x1MDNiZlx1MWY1MF1cdTAzYmEiLCAiaW5zZXJ0aW9uX2lkIjogbnVsbCwgImFydGlmaWNpYWwiOiBudWxsLCAicmVsYXRpb24iOiAiQXV4WiIsICJwb3N0YWciOiAiZC0tLS0tLS0tIiwgInNvcnRlcjEiOiAzLCAic29ydGVyMiI6ICIiLCAiZGVwdGgiOiAxfSwgeyJpZCI6IDEyNjg2LCAibiI6IDYsICJoZWFkIjogIjQiLCAiZm9ybSI6ICJcdTFmNDVcdTAzYzRcdTAzYjkiLCAiaW5zZXJ0aW9uX2lkIjogbnVsbCwgImFydGlmaWNpYWwiOiBudWxsLCAicmVsYXRpb24iOiAiQXV4QyIsICJwb3N0YWciOiAiYy0tLS0tLS0tIiwgInNvcnRlcjEiOiA2LCAic29ydGVyMiI6ICIiLCAiZGVwdGgiOiAxfSwgeyJpZCI6IDEyNjgxLCAibiI6IDEsICJoZWFkIjogbnVsbCwgImZvcm0iOiAiW18uP2xpbl0iLCAiaW5zZXJ0aW9uX2lkIjogbnVsbCwgImFydGlmaWNpYWwiOiBudWxsLCAicmVsYXRpb24iOiAiIiwgInBvc3RhZyI6ICIiLCAic29ydGVyMSI6IDEsICJzb3J0ZXIyIjogIiIsICJkZXB0aCI6IDB9LCB7ImlkIjogMTI2ODIsICJuIjogMiwgImhlYWQiOiBudWxsLCAiZm9ybSI6ICJbXy4/XSIsICJpbnNlcnRpb25faWQiOiBudWxsLCAiYXJ0aWZpY2lhbCI6IG51bGwsICJyZWxhdGlvbiI6ICIiLCAicG9zdGFnIjogIiIsICJzb3J0ZXIxIjogMiwgInNvcnRlcjIiOiAiIiwgImRlcHRoIjogMH0sIHsiaWQiOiAxMjY4NCwgIm4iOiA0LCAiaGVhZCI6ICIwIiwgImZvcm0iOiAiXHUxZjE0XHUwM2IzXHUwMzIzXHUwM2MxXHUwMzIzXHUwM2IxXHUyOWQ5W1x1MjlkOFx1MDNjOF1cdTAzYjFcdTAzYzIiLCAiaW5zZXJ0aW9uX2lkIjogbnVsbCwgImFydGlmaWNpYWwiOiBudWxsLCAicmVsYXRpb24iOiAiUFJFRCIsICJwb3N0YWciOiAidl9fX19fLS0tIiwgInNvcnRlcjEiOiA0LCAic29ydGVyMiI6ICIiLCAiZGVwdGgiOiAwfSwgeyJpZCI6IDEyNjkyLCAibiI6IDEyLCAiaGVhZCI6ICIwIiwgImZvcm0iOiAiLiIsICJpbnNlcnRpb25faWQiOiBudWxsLCAiYXJ0aWZpY2lhbCI6IG51bGwsICJyZWxhdGlvbiI6ICJBdXhLIiwgInBvc3RhZyI6ICJ1LS0tLS0tLS0iLCAic29ydGVyMSI6IDEyLCAic29ydGVyMiI6ICIiLCAiZGVwdGgiOiAwfV0sICJoaWdobGlnaHRfbm9kZXMiOiAiNCw3LDExIiwgImhpZ2hsaWdodF9lZGdlcyI6ICIiLCAiaWQiOiAxfQ=="></div><p></p>
+<h2 id="discussion">Discussion</h2>
+<p>first person sg -α / -ον (elaba jne.); note e.g.&nbsp;verb λέγω (légo) has
+all these attested in Logeion/Morfo:</p>
+<p>ἔειπον, εἶπα, εἶπά, εἶπον, ἔλεξα</p>
+<p>so, when one papyrus editor has regularised ἶπα (îpa) to εἶπα (eîpa)
+(bgu.1.15, 197 CE) and another εἶπα (eîpa) to εἶπον (eîpon) (sb.5.7574,
+2nd BCE) and in many cases εἶπα is left unregularised, that’s just ok
+(?), and we need to find ways to find these examples and see timelines
+for preferences in the texts. Some of the earliest in upz (regularised
+in 78 to -on (bc Jamie but according to edition apparatus(?)), but not
+in 62…). The form εἶπον is more common than εἶπα (175 vs.&nbsp;35 hits in PN;
+but NB due caution with numbers re apparatus entries, abbreviated words,
+plural homonyms!)</p>
