@@ -1,0 +1,45 @@
+<h1>3.4.3 Future group</h1>
+<p>Status: <em>draft</em></p>
+<h2 id="relevant-postag-codes">Relevant postag codes:</h2>
+<p><strong>Position and letters in postag string:</strong></p>
+<ol type="1">
+<li><p>part of speech: <strong>1st</strong>; letter: <strong>v</strong>
+(verb)</p></li>
+<li><p>person: <strong>2nd</strong>; numbers: <strong>1</strong>,
+<strong>2</strong>, <strong>3</strong></p></li>
+<li><p>number: <strong>3rd</strong>; letters: <strong>s</strong>
+(singular), <strong>p</strong> (plural), <strong>d</strong>
+(dual)</p></li>
+<li><p>tense: <strong>4th</strong>; letters: <strong>p</strong>
+(present), <strong>i</strong> (imperfect), <strong>r</strong> (perfect),
+<strong>l</strong> (pluperfect), <strong>t</strong> (future perfect),
+<strong>f</strong> (future), <strong>a</strong> (aorist)</p></li>
+<li><p>mood: <strong>5th</strong>; letters: <strong>i</strong>
+(indicative), <strong>s</strong> (subjunctive), <strong>o</strong>
+(optative), <strong>n</strong> (infinitive), <strong>m</strong>
+(imperative), <strong>p</strong> (participle)</p></li>
+<li><p>voice: <strong>6th</strong>; letters: <strong>a</strong>
+(active), <strong>p</strong> (passive), <strong>m</strong> (middle),
+<strong>e</strong> (medio-passive)</p></li>
+</ol>
+<p><strong>Example postag string:</strong> v1pfim— (verb, 1st plural,
+future, indicative, middle)</p>
+<h2 id="summary">Summary</h2>
+<p>The future is used to express a state of affairs occurring in the
+future. Normally it expresses a neutral prediction, but it can be also
+used to express an announcement, a promise, a threat or an order.
+(Rijksbaron 2006, 33.)</p>
+<h2 id="examples-of-future-tense-from-papygreek-corpus">Examples of
+future tense from PapyGreek corpus</h2>
+<ol type="1">
+<li>ὅμως εἰ πάλιν προέγραψας αὐτῷ ἐμοὶ αὐτὰ δοῦναι,
+<strong>ἀπελεύσομαι</strong> καὶ <strong>λήμψομαι</strong> αὐτά.<br>
+(homōs ei pálin proégrapsas autô(i) emoì autà doûnai,
+<strong>apeleúsomai</strong> kaì <strong>lḗmpsomai</strong> autá.)<br>
+<em>All the same, if instead you wrote to him in advance to give them to
+me, I shall go off and collect them.</em><br>
+<a href="https://papygreek.com/text/35798">p.oxy.33.2680.</a>, 16-18
+(sent. 7), transl. Bagnall-Cribiore (2006) p.&nbsp;300.</li>
+</ol>
+<p></p><div style="height:300px; " data-treeid="1" class="sentence-tree tf-tree tf-result" data-json="eyJvayI6IHRydWUsICJyZXN1bHQiOiBbeyJpZCI6IDU0NjkyLCAibiI6IDYsICJoZWFkIjogIjgiLCAiZm9ybSI6ICJcdTFmMTBcdTAzYmNbXHUwM2JmXVx1MWY3NiIsICJpbnNlcnRpb25faWQiOiBudWxsLCAiYXJ0aWZpY2lhbCI6IG51bGwsICJyZWxhdGlvbiI6ICJPQkoiLCAicG9zdGFnIjogInAxcy0tLWZkLSIsICJzb3J0ZXIxIjogNiwgInNvcnRlcjIiOiAiIiwgImRlcHRoIjogNH0sIHsiaWQiOiA1NDY5MywgIm4iOiA3LCAiaGVhZCI6ICI4IiwgImZvcm0iOiAiXHUwM2IxXHUxZjUwXHUwM2M0XHUxZjcwIiwgImluc2VydGlvbl9pZCI6IG51bGwsICJhcnRpZmljaWFsIjogbnVsbCwgInJlbGF0aW9uIjogIk9CSiIsICJwb3N0YWciOiAicC1wLS0tbmEtIiwgInNvcnRlcjEiOiA3LCAic29ydGVyMiI6ICIiLCAiZGVwdGgiOiA0fSwgeyJpZCI6IDU0Njg5LCAibiI6IDMsICJoZWFkIjogIjQiLCAiZm9ybSI6ICJcdTAzYzBcdTAzYWNcdTAzYmJcdTAzYjkiLCAiaW5zZXJ0aW9uX2lkIjogbnVsbCwgImFydGlmaWNpYWwiOiBudWxsLCAicmVsYXRpb24iOiAiQURWIiwgInBvc3RhZyI6ICJkLS0tLS0tLS0iLCAic29ydGVyMSI6IDMsICJzb3J0ZXIyIjogIiIsICJkZXB0aCI6IDN9LCB7ImlkIjogNTQ2OTEsICJuIjogNSwgImhlYWQiOiAiNCIsICJmb3JtIjogIlx1MDNiMVx1MWY1MHxcdTAzYzRcdTFmZjciLCAiaW5zZXJ0aW9uX2lkIjogbnVsbCwgImFydGlmaWNpYWwiOiBudWxsLCAicmVsYXRpb24iOiAiT0JKIiwgInBvc3RhZyI6ICJwLXMtLS1tZC0iLCAic29ydGVyMSI6IDUsICJzb3J0ZXIyIjogIiIsICJkZXB0aCI6IDN9LCB7ImlkIjogNTQ2OTQsICJuIjogOCwgImhlYWQiOiAiNCIsICJmb3JtIjogIlx1MDNiNFx1MDNiZlx1MWZlNlx1MDNiZFx1MDNiMVx1MDNiOSIsICJpbnNlcnRpb25faWQiOiBudWxsLCAiYXJ0aWZpY2lhbCI6IG51bGwsICJyZWxhdGlvbiI6ICJPQkoiLCAicG9zdGFnIjogInYtLWFuYS0tLSIsICJzb3J0ZXIxIjogOCwgInNvcnRlcjIiOiAiIiwgImRlcHRoIjogM30sIHsiaWQiOiA1NDY5MCwgIm4iOiA0LCAiaGVhZCI6ICIyIiwgImZvcm0iOiAiXHUwM2MwXHUwM2MxXHUwM2JmXHUwM2FkXHUwM2IzXHUwM2MxXHUwM2IxXHUwM2M4XHUwM2IxXHUwM2MyIiwgImluc2VydGlvbl9pZCI6IG51bGwsICJhcnRpZmljaWFsIjogbnVsbCwgInJlbGF0aW9uIjogIkFEViIsICJwb3N0YWciOiAidjJzYWlhLS0tIiwgInNvcnRlcjEiOiA0LCAic29ydGVyMiI6ICIiLCAiZGVwdGgiOiAyfSwgeyJpZCI6IDU0Njk5LCAibiI6IDEzLCAiaGVhZCI6ICIxMiIsICJmb3JtIjogIlx1MDNiMVx1MWY1MFx1MDNjNFx1MDNhYyIsICJpbnNlcnRpb25faWQiOiBudWxsLCAiYXJ0aWZpY2lhbCI6IG51bGwsICJyZWxhdGlvbiI6ICJPQkoiLCAicG9zdGFnIjogInAtcC0tLW5hLSIsICJzb3J0ZXIxIjogMTMsICJzb3J0ZXIyIjogIiIsICJkZXB0aCI6IDJ9LCB7ImlkIjogNTQ2ODcsICJuIjogMSwgImhlYWQiOiAiMTEiLCAiZm9ybSI6ICJcdTFmNDVcdTAzYmNcdTAzYzlcdTAzYzIiLCAiaW5zZXJ0aW9uX2lkIjogbnVsbCwgImFydGlmaWNpYWwiOiBudWxsLCAicmVsYXRpb24iOiAiQXV4WSIsICJwb3N0YWciOiAiZC0tLS0tLS1fIiwgInNvcnRlcjEiOiAxLCAic29ydGVyMiI6ICIiLCAiZGVwdGgiOiAxfSwgeyJpZCI6IDU0Njg4LCAibiI6IDIsICJoZWFkIjogIjExIiwgImZvcm0iOiAiXHUwM2I1XHUxZjMwIiwgImluc2VydGlvbl9pZCI6IG51bGwsICJhcnRpZmljaWFsIjogbnVsbCwgInJlbGF0aW9uIjogIkF1eEMiLCAicG9zdGFnIjogImMtLS0tLS0tLSIsICJzb3J0ZXIxIjogMiwgInNvcnRlcjIiOiAiIiwgImRlcHRoIjogMX0sIHsiaWQiOiA1NDY5NiwgIm4iOiAxMCwgImhlYWQiOiAiMTEiLCAiZm9ybSI6ICJcdTFmMDBcdTAzYzBcdTAzYjVcdTAzYmJbXHUwM2I1XVx1MDNjZFx1MDNjM1x1MDNiZlx1MDNiY1x1MDNiMVx1MDNiOSIsICJpbnNlcnRpb25faWQiOiBudWxsLCAiYXJ0aWZpY2lhbCI6IG51bGwsICJyZWxhdGlvbiI6ICJQUkVEX0NPIiwgInBvc3RhZyI6ICJ2MXNmaW0tLS0iLCAic29ydGVyMSI6IDEwLCAic29ydGVyMiI6ICIiLCAiZGVwdGgiOiAxfSwgeyJpZCI6IDU0Njk4LCAibiI6IDEyLCAiaGVhZCI6ICIxMSIsICJmb3JtIjogIlx1MDNiYlx1MDNhZVx1MDNiY1x1MDNjOFx1MDNiZlx1MDNiY1x1MDNiMVx1MDNiOSIsICJpbnNlcnRpb25faWQiOiBudWxsLCAiYXJ0aWZpY2lhbCI6IG51bGwsICJyZWxhdGlvbiI6ICJQUkVEX0NPIiwgInBvc3RhZyI6ICJ2MXNmaW0tLS0iLCAic29ydGVyMSI6IDEyLCAic29ydGVyMiI6ICIiLCAiZGVwdGgiOiAxfSwgeyJpZCI6IDU0Njk1LCAibiI6IDksICJoZWFkIjogIjAiLCAiZm9ybSI6ICIsIiwgImluc2VydGlvbl9pZCI6IG51bGwsICJhcnRpZmljaWFsIjogbnVsbCwgInJlbGF0aW9uIjogIkF1eEsiLCAicG9zdGFnIjogInUtLS0tLS0tLSIsICJzb3J0ZXIxIjogOSwgInNvcnRlcjIiOiAiIiwgImRlcHRoIjogMH0sIHsiaWQiOiA1NDY5NywgIm4iOiAxMSwgImhlYWQiOiAiMCIsICJmb3JtIjogIlx1MDNiYVx1MDNiMVx1MWY3NiIsICJpbnNlcnRpb25faWQiOiBudWxsLCAiYXJ0aWZpY2lhbCI6IG51bGwsICJyZWxhdGlvbiI6ICJDT09SRCIsICJwb3N0YWciOiAiYy0tLS0tLS0tIiwgInNvcnRlcjEiOiAxMSwgInNvcnRlcjIiOiAiIiwgImRlcHRoIjogMH0sIHsiaWQiOiA1NDcwMCwgIm4iOiAxNCwgImhlYWQiOiAiMCIsICJmb3JtIjogIi4iLCAiaW5zZXJ0aW9uX2lkIjogbnVsbCwgImFydGlmaWNpYWwiOiBudWxsLCAicmVsYXRpb24iOiAiQXV4SyIsICJwb3N0YWciOiAidS0tLS0tLS0tIiwgInNvcnRlcjEiOiAxNCwgInNvcnRlcjIiOiAiIiwgImRlcHRoIjogMH1dLCAiaGlnaGxpZ2h0X25vZGVzIjogIjEwLDEyIiwgImhpZ2hsaWdodF9lZGdlcyI6ICIiLCAiaWQiOiAxfQ=="></div><p></p>
+<h2 id="discussion">Discussion</h2>
