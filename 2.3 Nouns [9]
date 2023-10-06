@@ -1,7 +1,6 @@
 <h1>2.3 Nouns</h1>
-<p>Status: <em>draft</em></p>
 <h2 id="relevant-postag-codes">Relevant postag codes:</h2>
-<p><strong>Position and letters in postag string:</strong></p>
+<p>Positions and letters in postag string:</p>
 <ol type="1">
 <li><p>part of speech: <strong>1st</strong>; letter: <strong>n</strong>
 (noun)</p></li>
@@ -21,7 +20,7 @@ masculine, nominative)</p>
 <h2 id="summary">Summary</h2>
 <p>Nouns in AG are usually treated as inflecting in three
 <strong>declensions</strong>. The declensions have their own sets of
-endings.</p>
+case-endings.</p>
 <ol type="1">
 <li>1st declension (a-declension)
 <a data-link-newtab="" href="/smyth/body.1_div1.2_div2.4.html+body.1_div1.2_div2.4_div3.1" data-url="smyth/body.1_div1.2_div2.4.html+body.1_div1.2_div2.4_div3.1">see Smyth
@@ -49,7 +48,6 @@ The written standard for the most part still appears as trying to follow
 the CG declension, and we will present our material following the three
 declensions familiar from the school grammars, but discussing the
 possible markers of change visible in papyri.</p>
-<p><strong>tulisiko haut erikseen jokaisesta sijamuodosta?</strong></p>
 <h2 id="discussion">Discussion</h2>
 <ul>
 <li>How is the nominal morphology in Egyptian different from Greek and
