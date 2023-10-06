@@ -2,11 +2,15 @@
 <p>Status: <em>draft</em> add some refs (e.g.EAGLL); queries?
 example?</p>
 <h2 id="relevant-postag-code">Relevant postag code</h2>
-<p>Position in postag string: <strong>8th</strong></p>
-<p>letters: n (nominative), g (genitive), d (dative), a (accusative), v
-(vocative)</p>
-<p>Example: n-s—m<strong>n</strong>- (noun, singular, masculine,
-<strong>nominative</strong>)</p>
+<p><strong>Position and letters in postag string:</strong></p>
+<ol type="1">
+<li>position: <strong>8th</strong> (case)</li>
+<li>letters: <strong>n</strong> (nominative), <strong>g</strong>
+(genitive), <strong>d</strong> (dative), <strong>a</strong>
+(accusative), <strong>v</strong> (vocative)</li>
+</ol>
+<p><strong>Example postag string:</strong> n-s—m<strong>n</strong>-
+(noun, singular, masculine, <strong>nominative</strong>)</p>
 <h2 id="number-of-cases">Number of cases</h2>
 <p>In Ancient Greek, there are five cases: nominative, genitive, dative,
 accusative, and vocative. This is relatively rare among the world
