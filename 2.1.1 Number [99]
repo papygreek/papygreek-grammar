@@ -1,9 +1,9 @@
 <h1>2.1.1 Number</h1>
 <p>Status: <em>draft</em> Summary missing</p>
 <h2 id="relevant-postag-code">Relevant postag code</h2>
-<p>Position in postag string: <strong>3rd</strong></p>
-<p>letters: <strong>s</strong> (singular), <strong>d</strong> (dual),
-<strong>p</strong> (plural)</p>
+<p><strong>Position and letters in postag string:</strong> 1. position:
+<strong>3rd</strong> (number) 2. letters: <strong>s</strong> (singular),
+<strong>d</strong> (dual), <strong>p</strong> (plural)</p>
 <p>Example: n-<strong>s</strong>—mn- (noun, <strong>singular</strong>,
 masculine, nominative)</p>
 <h2 id="summary">Summary</h2>
