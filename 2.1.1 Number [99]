@@ -8,19 +8,19 @@ masculine, nominative)</p>
 <h2 id="summary">Summary</h2>
 <p>See <span class="citation" data-cites="viti2013">Viti
 (2013)</span></p>
-<p>The dual was no longer used in the documentary papyri. In PapyGreek
-corpus the numeral ‘two’ is the only word that has the number
-<em>dual</em> in its postag.</p>
 <h2 id="queries">Queries</h2>
 <ul>
-<li><a data-link-newtab="" href="/search/150" data-url="search/150">Dual</a> (NB. erroneous dual annotations are in
-non-finalized texts)</li>
+<li><a data-link-newtab="" href="/search/150" data-url="search/150">Dual</a> (NB. erroneous dual annotations exist in
+<strong>non-finalized</strong> texts, i.e.&nbsp;they are not included in the
+PapyGreek corpus)</li>
 </ul>
 <h2 id="discussion">Discussion</h2>
 <ul>
-<li>A good example of how dual was <em>not</em> used in the papyri even
-when the semantics would be there (both the number two as well as the
-word ‘pair’), is :<br>
+<li>The dual was no longer used in the documentary papyri. In PapyGreek
+corpus the numeral ‘two’ is the only word that has the number
+<em>dual</em> in its postag. A good example of how dual was not used in
+the papyri even when the semantics would be there (both the number two
+as well as the word ‘pair’), is :<br>
 εἶπο&lt;ν&gt; αὐτῶι δός μοι <strong>τὰ δύο ζεύκη</strong> τῶν
 ἄρτων.<br>
 (eîpon autôi dós moi <strong>tà dúo zeúkē</strong> tôn ártōn)<br>
