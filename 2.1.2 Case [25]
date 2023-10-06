@@ -1,6 +1,6 @@
 <h1>2.1.2 Case</h1>
 <h2 id="relevant-postag-code">Relevant postag code</h2>
-<p><strong>Position in postag string: 8th</strong></p>
+<p>Position in postag string: <strong>8th</strong></p>
 <p>letters: n (nominative), g (genitive), d (dative), a (accusative), v
 (vocative)</p>
 <p>Example: n-s—m<strong>n</strong>- (noun, singular, masculine,
@@ -27,7 +27,7 @@ literature, especially in Homer. These endings are (cf. <span class="citation" d
 <p>As per the definition of <span class="citation" data-cites="baerman2013">Baerman and Brown (2013)</span>, we can
 identify case syncretism when a single inflected form corresponds to two
 or more case functions. In Greek, this happens in certain instances both
-with core and non-core cases.</p>
+with core and non-core cases in standard classical Greek.</p>
 <p>In core cases (nominative and accusative), the neuter gender
 represents case syncretism in all nominal declensions and in singular
 and plural.</p>
@@ -43,16 +43,13 @@ noun form <strong>pl.nom=pl.acc</strong></li>
 <p>Occasionally other forms have developed so that they signify several
 cases, like in the Attic second declension words <strong>(Attic second
 declension is not used in papyri, though)</strong>. Example of this is ὁ
-νεώς (ho neṓs) <em>temple</em>, where</p>
-<ul>
-<li>νεώς <strong>sg.nom=pl.acc</strong></li>
-<li>νεῴ <strong>sg.dat=pl.nom=pl.voc</strong></li>
-</ul>
-<p>Moreover, note the forms νεώ (sg.gen) and νεῴς (pl.dat); the presence
-or absence of the iota adscript/subscript plays a vital role in
-identifying cases, and the iota adsript is not necessarily written in
-papyri, but is usually added as a subscript to the edition’s transcript.
-Iota subscript is never written in the papyri.</p>
+νεώς (ho neṓs) <em>temple</em>, where νεώς (neṓs) is both sg.nom and
+pl.acc; and νεῴ (neṓ(i)) is both sg.dat, pl.nom and pl.voc. Moreover,
+note the forms νεώ (sg.gen) and νεῴς (pl.dat); the presence or absence
+of the iota adscript/subscript plays a vital role in identifying cases,
+and the iota adsript is not necessarily written in papyri, but is
+usually added as a subscript to the edition’s transcript. Iota subscript
+is never written in the papyri.</p>
 <p>Third declension (i/e and υ type) has the same form for plural
 nominative and accusative</p>
 <ul>
@@ -70,12 +67,14 @@ corpus:</h2>
 <li>Many more clashing forms can be found in papyri due to pronunciation
 and misspellings (e.g.&nbsp;πόλεις/πόλις) and not writing out the iota
 subscript (sometimes adscript is used, also hypercorrectly).</li>
-<li>vocative in documentary papyri: still in use occasionally, but
-replaced by the nominative also (examples?)</li>
-<li>local endings not really used in documentary papyri? They are found,
-e.g.&nbsp;in p.babatha.5 word 2-18 (αὐτόθεν: from the same place; 102 hits,
-οἴκοθεν 35 hits (most from the 6th century CE), ὁπόθεν only 2 hits,
-οἴκαδε 2 hits)</li>
+<li>vocative in documentary papyri: still in use occasionally, but often
+replaced by the nominative, as was quite common in Classical Greek as
+well.</li>
+<li>local endings are occasionally used in documentary papyri, although
+they are not numerous. For example, αὐτόθεν (autóthen) <em>from the same
+place</em> is found ca. hundred times, οἴκοθεν (oíkothen) <em>from the
+house/home</em> 35 hits (most from the 6th century CE), ὁπόθεν
+(hopóthen) only 2 hits, οἴκαδε 2 hits)</li>
 <li>use of cases goes into new directions in time, e.g.&nbsp;the genitive and
 dative can replace one another (&gt; syntax, use of cases?)</li>
 <li>Merger of 1st and 3rd declension, e.g., was very significant for the
