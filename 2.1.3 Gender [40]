@@ -1,8 +1,12 @@
 <h1>2.1.3 Gender</h1>
 <p>Status: <em>draft</em> discussion not finished</p>
 <h2 id="relevant-postag-codes">Relevant postag codes:</h2>
-<p>Position in postag string: <strong>7th</strong> (gender)</p>
-<p>letters: m (masculine), f (feminine), n (neuter)</p>
+<p><strong>Position and letters in postag string:</strong></p>
+<ol type="1">
+<li><p>position: <strong>7th</strong> (gender)</p></li>
+<li><p>letters: <strong>m</strong> (masculine), <strong>f</strong>
+(feminine), <strong>n</strong> (neuter)</p></li>
+</ol>
 <p>Example: n-s—<strong>m</strong>n- (noun, singular,
 <strong>masculine</strong>, nominative)</p>
 <h2 id="summary">Summary:</h2>
