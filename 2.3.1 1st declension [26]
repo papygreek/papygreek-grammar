@@ -1,5 +1,5 @@
 <h1>2.3.1 1st declension</h1>
-<p>Status: <em>draft</em></p>
+<p>Status: <em>draft</em> discussion?</p>
 <h2 id="relevant-postag-codes">Relevant postag codes:</h2>
 <p><strong>Position and letters in postag string:</strong></p>
 <ol type="1">
@@ -25,7 +25,14 @@ in a short -ᾰ. It also contains a group of masculine nouns with a
 nominative singular ending in -ης/-ᾱς. For the 1st declension tables in
 classical Attic Greek
 <a data-link-newtab="" href="/smyth/body.1_div1.2_div2.4.html+body.1_div1.2_div2.4_div3.1" data-url="smyth/body.1_div1.2_div2.4.html+body.1_div1.2_div2.4_div3.1">see Smyth
-§211</a>.</p>
+§211</a>. Below, we have divided the first declension to four types, which
+have some differences in how they merge the case-endings to the stem of
+the noun, with some sample words for querying them in the corpus in
+order to find all the cases these words appear in. This will give an
+idea how the words are actually declined in the papyrological corpus
+(when it is not possible to directly draw all first declension words
+from the corpus, since the annotation framework does not mark declension
+types).</p>
 <h2 id="examples-of-inflection-from-papygreek-corpus">Examples of
 inflection from PapyGreek corpus</h2>
 <h3 id="st-declension">1st declension</h3>
