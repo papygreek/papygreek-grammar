@@ -1,0 +1,55 @@
+<h1>2.5.2 Possessive pronouns</h1>
+<h2 id="relevant-postag-codes">Relevant postag codes:</h2>
+<p><strong>Position in postag string:</strong></p>
+<ol type="1">
+<li><p>part of speech: <strong>1st</strong>; letter <strong>p</strong>
+(pronoun)</p></li>
+<li><p>number: <strong>3rd</strong>; letters: <strong>s</strong>
+(singular), <strong>d</strong> (dual), <strong>p</strong>
+(plural)</p></li>
+<li><p>gender: <strong>7th</strong>; letters: <strong>m</strong>
+(masculine), <strong>f</strong> (feminine), <strong>n</strong>
+(neuter)</p></li>
+<li><p>case: <strong>8th</strong>; letters: <strong>n</strong>
+(nominative), <strong>g</strong> (genitive), <strong>d</strong>
+(dative), <strong>a</strong> (accusative), <strong>v</strong>
+(vocative)</p></li>
+</ol>
+<p><strong>Example postag string:</strong> p-p—mg- (pronoun, plural,
+masculine, genitive)</p>
+<p>See <a href="https://papygreek.com/grammar/105">4.5.2</a> for the
+syntactic use of the possessive pronoun.</p>
+<h2 id="summary">Summary:</h2>
+<p>Ownership can be expressed either with the genitive of personal
+pronouns, <a href="https://papygreek.com/grammar/42">see 2.5.1</a> or
+with the corresponding possessive pronouns. The first person possessive
+pronoun (sing. ἐμός, ἐμή, ἐμόν – emós, emḗ, emón); plur. ἡμέτερος, -α,
+-ον – hēméteros, -a, -on) and second person possessive pronoun (sing.
+σός, σή, σόν – sós, sḗ, són; plur. ὑμέτερος, -α, -ον – huméteros, -a,
+-on) are declined like the adjectives ἀγαθός (agathós, <em>good</em>),
+ἄξιος (áxios, <em>worthy</em>); the declension table can be found in
+<a data-link-newtab="" href="/smyth/body.1_div1.2_div2.4.html" data-url="smyth/body.1_div1.2_div2.4.html">Smyth §287</a>.</p>
+<h2 id="queries">Queries</h2>
+<ul>
+<li><a data-link-newtab="" href="/search/93" data-url="search/93">All forms of the first person possessive pronoun,
+singular</a></li>
+<li><a data-link-newtab="" href="/search/99" data-url="search/99">All forms of the first person possessive pronoun,
+plural</a></li>
+<li><a data-link-newtab="" href="/search/94" data-url="search/94">All forms of the second person possessive pronoun,
+singular</a></li>
+<li><a data-link-newtab="" href="/search/101" data-url="search/101">All forms of the second person possessive pronoun,
+plural</a></li>
+</ul>
+<h2 id="examples-of-possessive-pronouns-from-papygreek-corpus">Examples
+of possessive pronouns from PapyGreek corpus</h2>
+<ol type="1">
+<li>φοίνικα λήψομαι εἰς ἐμαυτὸν ἀντὶ τῶν <strong>ἐμῶν</strong> κόπων καὶ
+ἀναλωμάτων<br>
+(phoínika lḗpsomai eis emautòn antì tôn <strong>emôn</strong> kópōn kaì
+analōmátōn)<br>
+<em>(…) those dates I will take unto myself in return for my labors and
+expenses.</em><br>
+<a href="https://papygreek.com/text/22329">p.babatha.21.</a>, 19-20
+(sentence 5), transl. Lewis (1989) p.&nbsp;96.</li>
+</ol>
+<p></p><div style="height:300px; " data-treeid="1" class="sentence-tree tf-tree tf-result" data-json="eyJvayI6IHRydWUsICJyZXN1bHQiOiBbeyJpZCI6IDE3NjMyLCAibiI6IDcsICJoZWFkIjogIjkiLCAiZm9ybSI6ICJcdTAzYzRcdTAzYmZcdTFmN2FcdTAzYzIiLCAiaW5zZXJ0aW9uX2lkIjogbnVsbCwgImFydGlmaWNpYWwiOiBudWxsLCAicmVsYXRpb24iOiAiQVRSIiwgInBvc3RhZyI6ICJsLXAtLS1tYS0iLCAic29ydGVyMSI6IDcsICJzb3J0ZXIyIjogIiIsICJkZXB0aCI6IDZ9LCB7ImlkIjogMTc2MzMsICJuIjogOCwgImhlYWQiOiAiOSIsICJmb3JtIjogIlx1MDNjMFx1MDNjMVx1MDNiZlx1MDNiM1x1MDNiNVx1MDNiM1x1MDNjMVx1MDNiMVx1MDNiY1x1MDNiY1x1MDNhZFx1MDNiZFx1MDNiZlx1MDNjNVx1MDNjMiIsICJpbnNlcnRpb25faWQiOiBudWxsLCAiYXJ0aWZpY2lhbCI6IG51bGwsICJyZWxhdGlvbiI6ICJBVFIiLCAicG9zdGFnIjogInYtcHJwZW1hLSIsICJzb3J0ZXIxIjogOCwgInNvcnRlcjIiOiAiIiwgImRlcHRoIjogNn0sIHsiaWQiOiAxNzYzNCwgIm4iOiA5LCAiaGVhZCI6ICI2IiwgImZvcm0iOiAiXHUwM2JhXHUwM2FlXHUwM2MwXHUwM2JmXHUwM2M1XHUwM2MyIiwgImluc2VydGlvbl9pZCI6IG51bGwsICJhcnRpZmljaWFsIjogbnVsbCwgInJlbGF0aW9uIjogIkFEViIsICJwb3N0YWciOiAibi1wLS0tbWEtIiwgInNvcnRlcjEiOiA5LCAic29ydGVyMiI6ICIiLCAiZGVwdGgiOiA1fSwgeyJpZCI6IDE3NjQyLCAibiI6IDE3LCAiaGVhZCI6ICIxOCIsICJmb3JtIjogIlx1MWYxMFx1MDNiY1x1MWZmNlx1MDNiZCIsICJpbnNlcnRpb25faWQiOiBudWxsLCAiYXJ0aWZpY2lhbCI6IG51bGwsICJyZWxhdGlvbiI6ICJBVFIiLCAicG9zdGFnIjogImEtcC0tLW1nLSIsICJzb3J0ZXIxIjogMTcsICJzb3J0ZXIyIjogIiIsICJkZXB0aCI6IDV9LCB7ImlkIjogMTc2MjgsICJuIjogMywgImhlYWQiOiAiNSIsICJmb3JtIjogIlx1MDNjNFx1MDNiOSIsICJpbnNlcnRpb25faWQiOiBudWxsLCAiYXJ0aWZpY2lhbCI6IG51bGwsICJyZWxhdGlvbiI6ICJTQkoiLCAicG9zdGFnIjogInAtcy0tLW5uLSIsICJzb3J0ZXIxIjogMywgInNvcnRlcjIiOiAiIiwgImRlcHRoIjogNH0sIHsiaWQiOiAxNzYyOSwgIm4iOiA0LCAiaGVhZCI6ICI1IiwgImZvcm0iOiAiXHUxZjAyXHUwM2JkIiwgImluc2VydGlvbl9pZCI6IG51bGwsICJhcnRpZmljaWFsIjogbnVsbCwgInJlbGF0aW9uIjogIkF1eFkiLCAicG9zdGFnIjogImQtLS0tLS0tLSIsICJzb3J0ZXIxIjogNCwgInNvcnRlcjIiOiAiIiwgImRlcHRoIjogNH0sIHsiaWQiOiAxNzYzMSwgIm4iOiA2LCAiaGVhZCI6ICI1IiwgImZvcm0iOiAiXHUwM2I1XHUxZjMwXHUwM2MyIiwgImluc2VydGlvbl9pZCI6IG51bGwsICJhcnRpZmljaWFsIjogbnVsbCwgInJlbGF0aW9uIjogIkF1eFAiLCAicG9zdGFnIjogInItLS0tLS0tLSIsICJzb3J0ZXIxIjogNiwgInNvcnRlcjIiOiAiIiwgImRlcHRoIjogNH0sIHsiaWQiOiAxNzY0MSwgIm4iOiAxNiwgImhlYWQiOiAiMTkiLCAiZm9ybSI6ICJcdTAzYzRcdTFmZjZcdTAzYmQiLCAiaW5zZXJ0aW9uX2lkIjogbnVsbCwgImFydGlmaWNpYWwiOiBudWxsLCAicmVsYXRpb24iOiAiQVRSIiwgInBvc3RhZyI6ICJsLXAtLS1mZy0iLCAic29ydGVyMSI6IDE2LCAic29ydGVyMiI6ICIiLCAiZGVwdGgiOiA0fSwgeyJpZCI6IDE3NjQzLCAibiI6IDE4LCAiaGVhZCI6ICIxOSIsICJmb3JtIjogIlx1MDNiYVx1MDNjY1x1MDNjMFx1MDNjOVx1MDNiZCIsICJpbnNlcnRpb25faWQiOiBudWxsLCAiYXJ0aWZpY2lhbCI6IG51bGwsICJyZWxhdGlvbiI6ICJBRFZfQ08iLCAicG9zdGFnIjogIm4tcC0tLW1nLSIsICJzb3J0ZXIxIjogMTgsICJzb3J0ZXIyIjogIiIsICJkZXB0aCI6IDR9LCB7ImlkIjogMTc2NDUsICJuIjogMjAsICJoZWFkIjogIjE5IiwgImZvcm0iOiAiXHUxZjAwXHUwM2JkfFx1MDNiMVx1MDNiYlx1MDNjOVx1MDNiY1x1MDNhY1x1MDNjNFx1MDNjOVx1MDNiZCIsICJpbnNlcnRpb25faWQiOiBudWxsLCAiYXJ0aWZpY2lhbCI6IG51bGwsICJyZWxhdGlvbiI6ICJBRFZfQ08iLCAicG9zdGFnIjogIm4tcC0tLW5nLSIsICJzb3J0ZXIxIjogMjAsICJzb3J0ZXIyIjogIiIsICJkZXB0aCI6IDR9LCB7ImlkIjogMTc2MzAsICJuIjogNSwgImhlYWQiOiAiMiIsICJmb3JtIjogIlx1MDNjMFx1MDNiNXxcdTAzYzFcdTAzYjlcdTAzYzNcdTAzYzNcdTAzYjVcdTAzYzVcdTAzYjhcdTFmYzciLCAiaW5zZXJ0aW9uX2lkIjogbnVsbCwgImFydGlmaWNpYWwiOiBudWxsLCAicmVsYXRpb24iOiAiQURWIiwgInBvc3RhZyI6ICJ2M3Nhc3AtLS0iLCAic29ydGVyMSI6IDUsICJzb3J0ZXIyIjogIiIsICJkZXB0aCI6IDN9LCB7ImlkIjogMTc2MzksICJuIjogMTQsICJoZWFkIjogIjEzIiwgImZvcm0iOiAiXHUxZjEwXHUwM2JjXHUwM2IxXHUwM2M1XHUwM2M0XHUxZjc4XHUwM2JkIiwgImluc2VydGlvbl9pZCI6IG51bGwsICJhcnRpZmljaWFsIjogbnVsbCwgInJlbGF0aW9uIjogIk9CSiIsICJwb3N0YWciOiAicC1zLS0tbWEtIiwgInNvcnRlcjEiOiAxNCwgInNvcnRlcjIiOiAiIiwgImRlcHRoIjogM30sIHsiaWQiOiAxNzY0NCwgIm4iOiAxOSwgImhlYWQiOiAiMTUiLCAiZm9ybSI6ICJcdTAzYmFcdTAzYjFcdTFmNzYiLCAiaW5zZXJ0aW9uX2lkIjogbnVsbCwgImFydGlmaWNpYWwiOiBudWxsLCAicmVsYXRpb24iOiAiQ09PUkQiLCAicG9zdGFnIjogImMtLS0tLS0tLSIsICJzb3J0ZXIxIjogMTksICJzb3J0ZXIyIjogIiIsICJkZXB0aCI6IDN9LCB7ImlkIjogMTc2MjcsICJuIjogMiwgImhlYWQiOiAiMTIiLCAiZm9ybSI6ICJcdTAzYjVcdTFmMzQiLCAiaW5zZXJ0aW9uX2lkIjogbnVsbCwgImFydGlmaWNpYWwiOiBudWxsLCAicmVsYXRpb24iOiAiQXV4QyIsICJwb3N0YWciOiAiYy0tLS0tLS0tIiwgInNvcnRlcjEiOiAyLCAic29ydGVyMiI6ICIiLCAiZGVwdGgiOiAyfSwgeyJpZCI6IDE3NjM1LCAibiI6IDEwLCAiaGVhZCI6ICIxMiIsICJmb3JtIjogIiwiLCAiaW5zZXJ0aW9uX2lkIjogbnVsbCwgImFydGlmaWNpYWwiOiBudWxsLCAicmVsYXRpb24iOiAiQXV4WCIsICJwb3N0YWciOiAiIiwgInNvcnRlcjEiOiAxMCwgInNvcnRlcjIiOiAiIiwgImRlcHRoIjogMn0sIHsiaWQiOiAxNzYzNiwgIm4iOiAxMSwgImhlYWQiOiAiMTIiLCAiZm9ybSI6ICJcdTAzYzZcdTAzYmZcdTAzYWZcdTAzYmRcdTAzYjlcdTAzYmFcdTAzYjEiLCAiaW5zZXJ0aW9uX2lkIjogbnVsbCwgImFydGlmaWNpYWwiOiBudWxsLCAicmVsYXRpb24iOiAiT0JKIiwgInBvc3RhZyI6ICJuLXMtLS1tYS0iLCAic29ydGVyMSI6IDExLCAic29ydGVyMiI6ICIiLCAiZGVwdGgiOiAyfSwgeyJpZCI6IDE3NjM4LCAibiI6IDEzLCAiaGVhZCI6ICIxMiIsICJmb3JtIjogIlx1MDNiNVx1MWYzMFx1MDNjMiIsICJpbnNlcnRpb25faWQiOiBudWxsLCAiYXJ0aWZpY2lhbCI6IG51bGwsICJyZWxhdGlvbiI6ICJBdXhQIiwgInBvc3RhZyI6ICJyLS0tLS0tLS0iLCAic29ydGVyMSI6IDEzLCAic29ydGVyMiI6ICIiLCAiZGVwdGgiOiAyfSwgeyJpZCI6IDE3NjQwLCAibiI6IDE1LCAiaGVhZCI6ICIxMiIsICJmb3JtIjogIlx1MWYwMFx1MDNiZFx1MDNjNFx1MWY3NiIsICJpbnNlcnRpb25faWQiOiBudWxsLCAiYXJ0aWZpY2lhbCI6IG51bGwsICJyZWxhdGlvbiI6ICJBdXhQIiwgInBvc3RhZyI6ICJyLS0tLS0tLS0iLCAic29ydGVyMSI6IDE1LCAic29ydGVyMiI6ICIiLCAiZGVwdGgiOiAyfSwgeyJpZCI6IDE3NjM3LCAibiI6IDEyLCAiaGVhZCI6ICIxIiwgImZvcm0iOiAiXHUwM2JiXHUwM2FlXHUwM2JjXHUwM2M4XHUwM2M5XHUwM2JjXHUwM2I1IiwgImluc2VydGlvbl9pZCI6IG51bGwsICJhcnRpZmljaWFsIjogbnVsbCwgInJlbGF0aW9uIjogIlBSRURfQ08iLCAicG9zdGFnIjogInYxc2ZpbS0tLSIsICJzb3J0ZXIxIjogMTIsICJzb3J0ZXIyIjogIiIsICJkZXB0aCI6IDF9LCB7ImlkIjogMTc2MjYsICJuIjogMSwgImhlYWQiOiAiMCIsICJmb3JtIjogIlx1MDNiYVx1MDNiMVx1MWY3NiIsICJpbnNlcnRpb25faWQiOiBudWxsLCAiYXJ0aWZpY2lhbCI6IG51bGwsICJyZWxhdGlvbiI6ICJDT09SRCIsICJwb3N0YWciOiAiYy0tLS0tLS0tIiwgInNvcnRlcjEiOiAxLCAic29ydGVyMiI6ICIiLCAiZGVwdGgiOiAwfSwgeyJpZCI6IDE3NjQ2LCAibiI6IDIxLCAiaGVhZCI6ICIwIiwgImZvcm0iOiAiLiIsICJpbnNlcnRpb25faWQiOiBudWxsLCAiYXJ0aWZpY2lhbCI6IG51bGwsICJyZWxhdGlvbiI6ICJBdXhLIiwgInBvc3RhZyI6ICJ1LS0tLS0tLS0iLCAic29ydGVyMSI6IDIxLCAic29ydGVyMiI6ICIiLCAiZGVwdGgiOiAwfV0sICJoaWdobGlnaHRfbm9kZXMiOiAiMTciLCAiaGlnaGxpZ2h0X2VkZ2VzIjogIiIsICJpZCI6IDF9"></div><p></p>
