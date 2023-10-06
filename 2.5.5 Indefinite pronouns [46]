@@ -1,7 +1,8 @@
 <h1>2.5.5 Indefinite pronouns</h1>
 <p>Status: <em>draft</em> Käännökset; move some parts and examples to
-Syntax? ## Relevant postag codes: <strong>Position and letters in postag
-string:</strong></p>
+Syntax?</p>
+<h2 id="relevant-postag-codes">Relevant postag codes:</h2>
+<p><strong>Position and letters in postag string:</strong></p>
 <ol type="1">
 <li><p>part of speech: <strong>1st</strong>; letter: <strong>p</strong>
 (pronoun)</p></li>
