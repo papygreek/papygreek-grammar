@@ -28,20 +28,12 @@ to their smaller overall number and in favour of reducing possible
 conflation of the results, they have been omitted from the
 investigation.</p>
 <p>In literary Greek, the diachronic change from OV to VO order has been
-observed by a numerous studies employing various methods (). <span class="citation" data-cites="celano2014">Celano (2014a)</span> conducts
-a treebanked-based study of the annotated texts of the Homeric poems,
-Herodotus’ Histories and the New Testament, in which this shift is
-quantified</p>
-<p>While in the full literary prose there is a substantial variation in
-the ordering of object and verb, with instances of <em>verb-object</em>
-and <em>object-verb</em> being roughly equally common, in papyri there
-is a strong preference for verb-initial ordering, especially in
-legal/administrative documents.</p>
-<ul>
-<li>Celano - treebank-based study of word order in prose: “A
-computational study on preverbal and postverbal accusative object nouns
-and pronouns in Ancient Greek”</li>
-</ul>
+observed by a numerous studies employing various methods. <span class="citation" data-cites="celano2014">Celano (2014a)</span> conducts
+a treebanked-based study of accusative objects (nouns and pronouns) in
+the annotated texts of the Homeric poems, Herodotus’ Histories and the
+New Testament, in which this shift is quantified.</p>
+<p>In papyri there is a strong preference for verb-initial ordering,
+especially in legal/administrative documents.</p>
 <h2 id="link-to-relevant-wals-chapter">Link to relevant WALS
 chapter:</h2>
 <p><a href="https://wals.info/chapter/83">Order of Object and Verb
