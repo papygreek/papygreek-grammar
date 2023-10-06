@@ -1,0 +1,124 @@
+<h1>2.5.1 Personal pronouns</h1>
+<h2 id="relevant-postag-codes">Relevant postag codes:</h2>
+<p><strong>Position and letters in postag string:</strong></p>
+<ol type="1">
+<li><p>part of speech: <strong>1st</strong>; letter: <strong>p</strong>
+(pronoun)</p></li>
+<li><p>number: <strong>3rd</strong>; letters: <strong>s</strong>
+(singular), <strong>d</strong> (dual), <strong>p</strong>
+(plural)</p></li>
+<li><p>gender: <strong>7th</strong>; letters: <strong>m</strong>
+(masculine), <strong>f</strong> (feminine), <strong>n</strong>
+(neuter)</p></li>
+<li><p>case: <strong>8th</strong>; letters: <strong>n</strong>
+(nominative), <strong>g</strong> (genitive), <strong>d</strong>
+(dative), <strong>a</strong> (accusative), <strong>v</strong>
+(vocative)</p></li>
+</ol>
+<p><strong>Example postag string:</strong> p-s—mn- (pronoun, singular,
+masculine, nominative)</p>
+<h2 id="summary">Summary</h2>
+<p>The declension table for the personal pronouns can be found in
+<a data-link-newtab="" href="/smyth/body.1_div1.2_div2.6.html" data-url="smyth/body.1_div1.2_div2.6.html">Smyth §325</a>.</p>
+<p>In PapyGreek Treebanks different types of pronouns all share the
+part-of-speech tag ‘pronoun’, and for finding a certain type of pronoun
+one needs to use the lemma in addition to the postag in the searches.
+For personal pronouns, the lemmas to be used in queries are:</p>
+<ul>
+<li>ἐγώ (egṓ) for the singular <em>I</em> and for the plural
+<em>we</em></li>
+<li>σύ (sú) for the singular and the plural <em>you</em></li>
+</ul>
+<p>In the third person, the personal pronoun is not used even in Attic
+prose, except for the dative οἷ (sg) and σφίσι (ν) (pl). Other pronouns
+are used for the third person: the demonstrative pronouns, <a href="https://papygreek.com/grammar/47">see 2.5.3</a>, or the oblique
+forms of the intensive pronoun αὐτός, <a href="https://papygreek.com/grammar/50">see 2.5.8</a>). The world
+languages can be divided roughly in half in their third person pronoun
+and demonstrative relationship, see <span class="citation" data-cites="bhat2013">Bhat (2013)</span>.</p>
+<p>The first and second person personal pronouns do not manifest gender
+in Greek. However, for certain purposes of the project and to ease the
+queries as regards gender, we have marked the gender also to first and
+second person personal pronouns in the <em>postag</em> string, when the
+gender of the referent is clear form the context.</p>
+<h2 id="queries">Queries</h2>
+<ul>
+<li><a data-link-newtab="" href="/search/67" data-url="search/67">First person personal pronouns, singular</a> This brings
+both emphatic and unemphatic forms (see below, Discussion).</li>
+<li><a data-link-newtab="" href="/search/68" data-url="search/68">First person personal pronouns, plural</a></li>
+<li><a data-link-newtab="" href="/search/69" data-url="search/69">Second person personal pronouns, singular</a></li>
+<li><a data-link-newtab="" href="/search/70" data-url="search/70">Second person personal pronouns, plural</a></li>
+</ul>
+<h2 id="examples-of-personal-pronouns-from-papygreek-corpus">Examples of
+personal pronouns from PapyGreek corpus</h2>
+<ol type="1">
+<li>εἴ πού ἐστιν ἣν ἐὰν δοκῇ <strong>μοι</strong> κατενέγκαι ἡ δυναμένη
+μᾶλλον ὑπὲρ <strong>ἐμοῦ</strong> <strong>σοι</strong> εὐνοεῖν καὶ
+φροντίζειν <strong>σου</strong> πλείω <strong>ἐμοῦ</strong>, διατελεῖται
+<strong>ἐμέ</strong> <strong>σοι</strong> εὐχαριστεῖν ἤ
+<strong>σε</strong> <strong>ἐμὲ</strong> μέμψασθαι.<br>
+(eí poú estin hḕn eàn dokê(i) <strong>moi</strong> katenénkai hē
+dunaménē mâllon hupèr <strong>emoû</strong> <strong>soi</strong> eunoeîn
+kaì phrontízein <strong>sou</strong> pleíō <strong>emoû</strong>,
+diateleîtai <strong>emé</strong> <strong>soi</strong> eukharisteîn ḗ
+<strong>se</strong> <strong>emè</strong> mémpsasthai.)<br>
+<em>If it is the case somehow that the woman I take down should be one
+who, for my sake, would be more kindly disposed toward you and to have
+more cosideration for you than for me, it works out that I do you a
+favor rather than that I am a cause of blame by you.</em><br>
+<a href="https://papygreek.com/text/33022">p.mich.8.476</a>, 13-15
+(sentence 7), transl. White (1986) p.&nbsp;174.</li>
+</ol>
+<p></p><div style="height:300px; " data-treeid="1" class="sentence-tree tf-tree tf-result" data-json="eyJvayI6IHRydWUsICJyZXN1bHQiOiBbeyJpZCI6IDUwMzUwLCAibiI6IDEzLCAiaGVhZCI6ICIxMiIsICJmb3JtIjogIlx1MWYxMFx1MDNiY1x1MDNiZlx1MDMyM1x1MWZlNlx1MDMyMyIsICJpbnNlcnRpb25faWQiOiBudWxsLCAiYXJ0aWZpY2lhbCI6IG51bGwsICJyZWxhdGlvbiI6ICJBRFYiLCAicG9zdGFnIjogInAxcy0tLW1nLSIsICJzb3J0ZXIxIjogMTMsICJzb3J0ZXIyIjogIiIsICJkZXB0aCI6IDd9LCB7ImlkIjogNTAzNTcsICJuIjogMjAsICJoZWFkIjogIjE5IiwgImZvcm0iOiAiXHUxZjEwXHUwM2JjXHUwM2JmXHUxZmU2IiwgImluc2VydGlvbl9pZCI6IG51bGwsICJhcnRpZmljaWFsIjogbnVsbCwgInJlbGF0aW9uIjogIkFEViIsICJwb3N0YWciOiAicDFzLS0tbWctIiwgInNvcnRlcjEiOiAyMCwgInNvcnRlcjIiOiAiIiwgImRlcHRoIjogN30sIHsiaWQiOiA1MDM0OSwgIm4iOiAxMiwgImhlYWQiOiAiMTUiLCAiZm9ybSI6ICJbXHUxZjUxXVx1MDNjMFx1MWY3Mlx1MDNjMSIsICJpbnNlcnRpb25faWQiOiBudWxsLCAiYXJ0aWZpY2lhbCI6IG51bGwsICJyZWxhdGlvbiI6ICJBdXhQIiwgInBvc3RhZyI6ICJyLS0tLS0tLS0iLCAic29ydGVyMSI6IDEyLCAic29ydGVyMiI6ICIiLCAiZGVwdGgiOiA2fSwgeyJpZCI6IDUwMzUxLCAibiI6IDE0LCAiaGVhZCI6ICIxNSIsICJmb3JtIjogIlx1MDNjM1x1MDNiZlx1MDNiOSIsICJpbnNlcnRpb25faWQiOiBudWxsLCAiYXJ0aWZpY2lhbCI6IG51bGwsICJyZWxhdGlvbiI6ICJPQkoiLCAicG9zdGFnIjogInAycy0tLW1kLSIsICJzb3J0ZXIxIjogMTQsICJzb3J0ZXIyIjogIiIsICJkZXB0aCI6IDZ9LCB7ImlkIjogNTAzNTUsICJuIjogMTgsICJoZWFkIjogIjE3IiwgImZvcm0iOiAiXHUwM2MzXHUwM2JmXHUwM2M1IiwgImluc2VydGlvbl9pZCI6IG51bGwsICJhcnRpZmljaWFsIjogbnVsbCwgInJlbGF0aW9uIjogIk9CSiIsICJwb3N0YWciOiAicDJzLS0tbWctIiwgInNvcnRlcjEiOiAxOCwgInNvcnRlcjIiOiAiIiwgImRlcHRoIjogNn0sIHsiaWQiOiA1MDM1NiwgIm4iOiAxOSwgImhlYWQiOiAiMTciLCAiZm9ybSI6ICJcdTAzYzBcdTAzYmJcdTAzYjVcdTAzYWZcdTAzYzkiLCAiaW5zZXJ0aW9uX2lkIjogbnVsbCwgImFydGlmaWNpYWwiOiBudWxsLCAicmVsYXRpb24iOiAiQURWIiwgInBvc3RhZyI6ICJhLXAtLS1uYWMiLCAic29ydGVyMSI6IDE5LCAic29ydGVyMiI6ICIiLCAiZGVwdGgiOiA2fSwgeyJpZCI6IDUwMzQxLCAibiI6IDQsICJoZWFkIjogIjYiLCAiZm9ybSI6ICJcdTFmMjNcdTAzYmQiLCAiaW5zZXJ0aW9uX2lkIjogbnVsbCwgImFydGlmaWNpYWwiOiBudWxsLCAicmVsYXRpb24iOiAiT0JKIiwgInBvc3RhZyI6ICJwLXMtLS1mYS0iLCAic29ydGVyMSI6IDQsICJzb3J0ZXIyIjogIiIsICJkZXB0aCI6IDV9LCB7ImlkIjogNTAzNDIsICJuIjogNSwgImhlYWQiOiAiNiIsICJmb3JtIjogIlx1MWYxMFx1MWY3MFx1MDNiZCIsICJpbnNlcnRpb25faWQiOiBudWxsLCAiYXJ0aWZpY2lhbCI6IG51bGwsICJyZWxhdGlvbiI6ICJBdXhZIiwgInBvc3RhZyI6ICJkLS0tLS0tLV8iLCAic29ydGVyMSI6IDUsICJzb3J0ZXIyIjogIiIsICJkZXB0aCI6IDV9LCB7ImlkIjogNTAzNDQsICJuIjogNywgImhlYWQiOiAiNiIsICJmb3JtIjogIlx1MDNiY1tcdTAzYmZdXHUwM2I5IiwgImluc2VydGlvbl9pZCI6IG51bGwsICJhcnRpZmljaWFsIjogbnVsbCwgInJlbGF0aW9uIjogIlNCSiIsICJwb3N0YWciOiAicDFzLS0tbWQtIiwgInNvcnRlcjEiOiA3LCAic29ydGVyMiI6ICIiLCAiZGVwdGgiOiA1fSwgeyJpZCI6IDUwMzQ1LCAibiI6IDgsICJoZWFkIjogIjYiLCAiZm9ybSI6ICJcdTAzYmFcdTAzYjFcdTAzYzRcdTAzYjVcdTAzYmRcdTAzYWRcdTAzYjNcdTAzYmFcdTAzYjFcdTAzYjkiLCAiaW5zZXJ0aW9uX2lkIjogbnVsbCwgImFydGlmaWNpYWwiOiBudWxsLCAicmVsYXRpb24iOiAiT0JKIiwgInBvc3RhZyI6ICJ2LS1hbmEtLS0iLCAic29ydGVyMSI6IDgsICJzb3J0ZXIyIjogIiIsICJkZXB0aCI6IDV9LCB7ImlkIjogNTAzNDgsICJuIjogMTEsICJoZWFkIjogIjE2IiwgImZvcm0iOiAiXHUwM2JjXHUxZmI2XHUwM2JiXHUwM2JiXHUwM2JmW1x1MDNiZF0iLCAiaW5zZXJ0aW9uX2lkIjogbnVsbCwgImFydGlmaWNpYWwiOiBudWxsLCAicmVsYXRpb24iOiAiQURWIiwgInBvc3RhZyI6ICJkLS0tLS0tLWMiLCAic29ydGVyMSI6IDExLCAic29ydGVyMiI6ICIiLCAiZGVwdGgiOiA1fSwgeyJpZCI6IDUwMzUyLCAibiI6IDE1LCAiaGVhZCI6ICIxNiIsICJmb3JtIjogIlx1MDNiNVx1MWY1MFx1MDNiZFx1MDNiZlx1MDNiNVx1MWZkNlx1MDNiZCIsICJpbnNlcnRpb25faWQiOiBudWxsLCAiYXJ0aWZpY2lhbCI6IG51bGwsICJyZWxhdGlvbiI6ICJPQkpfQ08iLCAicG9zdGFnIjogInYtLXBuYS0tLSIsICJzb3J0ZXIxIjogMTUsICJzb3J0ZXIyIjogIiIsICJkZXB0aCI6IDV9LCB7ImlkIjogNTAzNTQsICJuIjogMTcsICJoZWFkIjogIjE2IiwgImZvcm0iOiAiXHUwM2M2XHUwM2MxXHUwM2JmXHUwM2JkXHUwM2M0XHUwM2FmXHUwM2I2XHUwM2I1XHUwM2I5XHUwM2JkIiwgImluc2VydGlvbl9pZCI6IG51bGwsICJhcnRpZmljaWFsIjogbnVsbCwgInJlbGF0aW9uIjogIk9CSl9DTyIsICJwb3N0YWciOiAidi0tcG5hLS0tIiwgInNvcnRlcjEiOiAxNywgInNvcnRlcjIiOiAiIiwgImRlcHRoIjogNX0sIHsiaWQiOiA1MDM0MywgIm4iOiA2LCAiaGVhZCI6ICIxMCIsICJmb3JtIjogIlx1MDNiNFx1MDNiZlx1MDNiYVx1MWZjNyIsICJpbnNlcnRpb25faWQiOiBudWxsLCAiYXJ0aWZpY2lhbCI6IG51bGwsICJyZWxhdGlvbiI6ICJBRFYiLCAicG9zdGFnIjogInYzc3BzYS0tLSIsICJzb3J0ZXIxIjogNiwgInNvcnRlcjIiOiAiIiwgImRlcHRoIjogNH0sIHsiaWQiOiA1MDM0NiwgIm4iOiA5LCAiaGVhZCI6ICIxMCIsICJmb3JtIjogIlx1MWYyMSIsICJpbnNlcnRpb25faWQiOiBudWxsLCAiYXJ0aWZpY2lhbCI6IG51bGwsICJyZWxhdGlvbiI6ICJBVFIiLCAicG9zdGFnIjogImwtcy0tLWZuLSIsICJzb3J0ZXIxIjogOSwgInNvcnRlcjIiOiAiIiwgImRlcHRoIjogNH0sIHsiaWQiOiA1MDM1MywgIm4iOiAxNiwgImhlYWQiOiAiMTAiLCAiZm9ybSI6ICJcdTAzYmFcdTAzYjFcdTFmNzYiLCAiaW5zZXJ0aW9uX2lkIjogbnVsbCwgImFydGlmaWNpYWwiOiBudWxsLCAicmVsYXRpb24iOiAiQ09PUkQiLCAicG9zdGFnIjogImMtLS0tLS0tLSIsICJzb3J0ZXIxIjogMTYsICJzb3J0ZXIyIjogIiIsICJkZXB0aCI6IDR9LCB7ImlkIjogNTAzMzksICJuIjogMiwgImhlYWQiOiAiMyIsICJmb3JtIjogIlx1MDNjMFx1MDMyM1x1MDNiZlx1MDMyM1x1MDNjZFx1MDMyMyIsICJpbnNlcnRpb25faWQiOiBudWxsLCAiYXJ0aWZpY2lhbCI6IG51bGwsICJyZWxhdGlvbiI6ICJBRFYiLCAicG9zdGFnIjogImQtLS0tLS0tLSIsICJzb3J0ZXIxIjogMiwgInNvcnRlcjIiOiAiIiwgImRlcHRoIjogM30sIHsiaWQiOiA1MDM0NywgIm4iOiAxMCwgImhlYWQiOiAiMyIsICJmb3JtIjogIlx1MDNiNFx1MDNjNVx1MDNiZFx1MDNiMVx1MDNiY1x1MDNhZFx1MDNiZFx1MDNiNyIsICJpbnNlcnRpb25faWQiOiBudWxsLCAiYXJ0aWZpY2lhbCI6IG51bGwsICJyZWxhdGlvbiI6ICJQTk9NIiwgInBvc3RhZyI6ICJ2LXNwcGVmbi0iLCAic29ydGVyMSI6IDEwLCAic29ydGVyMiI6ICIiLCAiZGVwdGgiOiAzfSwgeyJpZCI6IDUwMzYwLCAibiI6IDIzLCAiaGVhZCI6ICIyNSIsICJmb3JtIjogIlx1MWYxMFx1MDNiY1x1MDNhZCIsICJpbnNlcnRpb25faWQiOiBudWxsLCAiYXJ0aWZpY2lhbCI6IG51bGwsICJyZWxhdGlvbiI6ICJTQkoiLCAicG9zdGFnIjogInAxcy0tLW1hLSIsICJzb3J0ZXIxIjogMjMsICJzb3J0ZXIyIjogIiIsICJkZXB0aCI6IDN9LCB7ImlkIjogNTAzNjEsICJuIjogMjQsICJoZWFkIjogIjI1IiwgImZvcm0iOiAiW1x1MDNjM1x1MDNiZl1cdTAzYjkiLCAiaW5zZXJ0aW9uX2lkIjogbnVsbCwgImFydGlmaWNpYWwiOiBudWxsLCAicmVsYXRpb24iOiAiIiwgInBvc3RhZyI6ICJwMnMtLS0tZC0iLCAic29ydGVyMSI6IDI0LCAic29ydGVyMiI6ICIiLCAiZGVwdGgiOiAzfSwgeyJpZCI6IDUwMzY0LCAibiI6IDI3LCAiaGVhZCI6ICIyOSIsICJmb3JtIjogIlx1MDNjM1x1MDNjNSIsICJpbnNlcnRpb25faWQiOiBudWxsLCAiYXJ0aWZpY2lhbCI6IG51bGwsICJyZWxhdGlvbiI6ICJTQkoiLCAicG9zdGFnIjogInAycy0tLW1uLSIsICJzb3J0ZXIxIjogMjcsICJzb3J0ZXIyIjogIiIsICJkZXB0aCI6IDN9LCB7ImlkIjogNTAzNjUsICJuIjogMjgsICJoZWFkIjogIjI5IiwgImZvcm0iOiAiXHUxZjEwXHUwM2JjXHUxZjcyIiwgImluc2VydGlvbl9pZCI6IG51bGwsICJhcnRpZmljaWFsIjogbnVsbCwgInJlbGF0aW9uIjogIk9CSiIsICJwb3N0YWciOiAicDFzLS0tbWEtIiwgInNvcnRlcjEiOiAyOCwgInNvcnRlcjIiOiAiIiwgImRlcHRoIjogM30sIHsiaWQiOiA1MDM0MCwgIm4iOiAzLCAiaGVhZCI6ICIxIiwgImZvcm0iOiAiXHUxZjEwXHUwM2MzXHUwM2M0XHUwM2I5XHUwM2JkIiwgImluc2VydGlvbl9pZCI6IG51bGwsICJhcnRpZmljaWFsIjogbnVsbCwgInJlbGF0aW9uIjogIkFEViIsICJwb3N0YWciOiAidjNzcGlhLS0tIiwgInNvcnRlcjEiOiAzLCAic29ydGVyMiI6ICIiLCAiZGVwdGgiOiAyfSwgeyJpZCI6IDUwMzYyLCAibiI6IDI1LCAiaGVhZCI6ICIyNiIsICJmb3JtIjogIlx1MDNiNVx1MWY1MFx1MDNjN1x1MDNiMVx1MDNjMVtcdTAzYjldXHUwM2MzXHUwM2M0XHUwM2I1XHUxZmQ2XHUwM2JkIiwgImluc2VydGlvbl9pZCI6IG51bGwsICJhcnRpZmljaWFsIjogbnVsbCwgInJlbGF0aW9uIjogIk9CSl9DTyIsICJwb3N0YWciOiAidi0tcG5hLS0tIiwgInNvcnRlcjEiOiAyNSwgInNvcnRlcjIiOiAiIiwgImRlcHRoIjogMn0sIHsiaWQiOiA1MDM2NiwgIm4iOiAyOSwgImhlYWQiOiAiMjYiLCAiZm9ybSI6ICJcdTAzYmNcdTAzYWRcdTAzYmNcdTAzYzhcdTAzYjFcdTAzYzNcdTAzYjhcdTAzYjFcdTAzYjkiLCAiaW5zZXJ0aW9uX2lkIjogbnVsbCwgImFydGlmaWNpYWwiOiBudWxsLCAicmVsYXRpb24iOiAiT0JKX0NPIiwgInBvc3RhZyI6ICJ2LS1hbm0tLS0iLCAic29ydGVyMSI6IDI5LCAic29ydGVyMiI6ICIiLCAiZGVwdGgiOiAyfSwgeyJpZCI6IDUwMzM4LCAibiI6IDEsICJoZWFkIjogIjIyIiwgImZvcm0iOiAiXHUwM2I1XHUwMzIzXHUxZjM0IiwgImluc2VydGlvbl9pZCI6IG51bGwsICJhcnRpZmljaWFsIjogbnVsbCwgInJlbGF0aW9uIjogIkF1eEMiLCAicG9zdGFnIjogImMtLS0tLS0tLSIsICJzb3J0ZXIxIjogMSwgInNvcnRlcjIiOiAiIiwgImRlcHRoIjogMX0sIHsiaWQiOiA1MDM1OCwgIm4iOiAyMSwgImhlYWQiOiAiMjIiLCAiZm9ybSI6ICIsIiwgImluc2VydGlvbl9pZCI6IG51bGwsICJhcnRpZmljaWFsIjogbnVsbCwgInJlbGF0aW9uIjogIkF1eFgiLCAicG9zdGFnIjogInUtLS0tLS0tLSIsICJzb3J0ZXIxIjogMjEsICJzb3J0ZXIyIjogIiIsICJkZXB0aCI6IDF9LCB7ImlkIjogNTAzNjMsICJuIjogMjYsICJoZWFkIjogIjIyIiwgImZvcm0iOiAiXHUxZjI0IiwgImluc2VydGlvbl9pZCI6IG51bGwsICJhcnRpZmljaWFsIjogbnVsbCwgInJlbGF0aW9uIjogIkNPT1JEIiwgInBvc3RhZyI6ICJjLS0tLS0tLS0iLCAic29ydGVyMSI6IDI2LCAic29ydGVyMiI6ICIiLCAiZGVwdGgiOiAxfSwgeyJpZCI6IDUwMzU5LCAibiI6IDIyLCAiaGVhZCI6ICIwIiwgImZvcm0iOiAiXHUwM2I0XHUwM2I5XHUwM2IxXHUyOWQ5W1x1MjlkOF1cdTAzYzRcdTAzYjVcdTAzYmJcdTAzYjVcdTFmZDZbXHUwM2M0XVx1MDNiMVx1MDNiOSIsICJpbnNlcnRpb25faWQiOiBudWxsLCAiYXJ0aWZpY2lhbCI6IG51bGwsICJyZWxhdGlvbiI6ICJQUkVEIiwgInBvc3RhZyI6ICJ2M3NwaWUtLS0iLCAic29ydGVyMSI6IDIyLCAic29ydGVyMiI6ICIiLCAiZGVwdGgiOiAwfSwgeyJpZCI6IDUwMzY3LCAibiI6IDMwLCAiaGVhZCI6ICIwIiwgImZvcm0iOiAiLiIsICJpbnNlcnRpb25faWQiOiBudWxsLCAiYXJ0aWZpY2lhbCI6IG51bGwsICJyZWxhdGlvbiI6ICJBdXhLIiwgInBvc3RhZyI6ICJ1LS0tLS0tLS0iLCAic29ydGVyMSI6IDMwLCAic29ydGVyMiI6ICIiLCAiZGVwdGgiOiAwfV0sICJoaWdobGlnaHRfbm9kZXMiOiAiNywxMywxNCwxOCwyMCwyMywyNCwyNywyOCIsICJoaWdobGlnaHRfZWRnZXMiOiAiIiwgImlkIjogMX0="></div><p></p>
+<h2 id="discussion">Discussion</h2>
+<ul>
+<li><p>The personal pronoun has both contrastive (emphatic) and
+non-contrastive (unemphatic) forms, which differ in writing only in the
+first person singular oblique cases (emphatic gen. ἐμοῦ (emoû), dat.
+ἐμοί (emoí), acc. ἐμέ (emé) vs.&nbsp;unemphatic μου (mou), μοι (moi), με
+(me)). In the second person singular, and in the 1st and 2nd person
+plural, the difference is marked only in the accentuation (in sg. the
+emphatic forms have an accent σοῦ (soû), σοί (soí), σέ (sé), and the
+unemphatic do not: σου (sou), σοι (soi), σε (se); in plural the accent
+can be different, e.g.&nbsp;emphatic 1st person ἡμῶν (hēmôn), ἡμῖν (hēmîn),
+ἡμᾶς (hēmâs) vs.&nbsp;unemphatic ἥμων (hḗmōn) ἥμιν (hḗmīn), ἥμας(hḗmās)).
+This means that <strong>in papyrus texts where accentuation was not
+used</strong>, the decision of whether we have an emphatic or unemphatic
+form in the text, is a choice made <em>by the modern editor</em> in
+other than first person singular instances.</p></li>
+<li><p>Papyri witness that the pronunciation caused confusion between
+the forms of the first person plural ἡμεῖς (hēmeîs <em>we</em>) and the
+second person plural ὑμεῖς (humeîs <em>you</em>) (crossref to Phonology
+section). The editors usually regularize the form to the other, if they
+are fairly certain that the other was meant than what was written.
+However, it is not always clear, and in the annotated treebanks, we have
+deliberately kept both options visible and annotated according to the
+written form.<br>
+As an example of this confusion, see e.g.&nbsp;<a href="https://papygreek.com/text/405926">o.krok.2.189</a> 9-11 (sentence
+4), transl. Bülow-Jacobsen (2019) p.&nbsp;78.<br>
+</p></li>
+</ul>
+<ol type="1">
+<li><p>Original layer<br>
+ἑταιμάσεις σ[ὺ] <strong>ὑμεῖν</strong> ὑδάτιν ἵνα ἔ[χωμ]εν
+ποτίσαι.<br>
+(hetaimáseis sù <strong>humeîn</strong> hudátin hína ékhōmen
+potísai.)<br>
+<em>So, please have water ready for <strong>you</strong>, so that we can
+water them.</em><br>
+</p><div style="height:300px; " data-treeid="2" class="sentence-tree tf-tree tf-result" data-json="eyJvayI6IHRydWUsICJyZXN1bHQiOiBbeyJpZCI6IDgzNzk4LCAibiI6IDcsICJoZWFkIjogIjYiLCAiZm9ybSI6ICJcdTAzYzBcdTAzYmZcdTAzYzRcdTAzYWZcdTAzYzNcdTAzYjFcdTAzYjkiLCAiaW5zZXJ0aW9uX2lkIjogbnVsbCwgImFydGlmaWNpYWwiOiBudWxsLCAicmVsYXRpb24iOiAiT0JKIiwgInBvc3RhZyI6ICJ2LS1hbmEtLS0iLCAic29ydGVyMSI6IDcsICJzb3J0ZXIyIjogIiIsICJkZXB0aCI6IDN9LCB7ImlkIjogODM3OTcsICJuIjogNiwgImhlYWQiOiAiNSIsICJmb3JtIjogIlx1MWYxNFx1MDMyM1tcdTAzYzdcdTAzYzlcdTAzYmNdXHUwM2I1XHUwMzIzXHUwM2JkXHUwMzIzIiwgImluc2VydGlvbl9pZCI6IG51bGwsICJhcnRpZmljaWFsIjogbnVsbCwgInJlbGF0aW9uIjogIkFEViIsICJwb3N0YWciOiAidjFwcF9hLS0tIiwgInNvcnRlcjEiOiA2LCAic29ydGVyMiI6ICIiLCAiZGVwdGgiOiAyfSwgeyJpZCI6IDgzNzkzLCAibiI6IDIsICJoZWFkIjogIjEiLCAiZm9ybSI6ICJcdTAzYzNcdTAzMjNbXHUxZjdhXSIsICJpbnNlcnRpb25faWQiOiBudWxsLCAiYXJ0aWZpY2lhbCI6IG51bGwsICJyZWxhdGlvbiI6ICJTQkoiLCAicG9zdGFnIjogInAtcy0tLW1uLSIsICJzb3J0ZXIxIjogMiwgInNvcnRlcjIiOiAiIiwgImRlcHRoIjogMX0sIHsiaWQiOiA4Mzc5NCwgIm4iOiAzLCAiaGVhZCI6ICIxIiwgImZvcm0iOiAiXHUxZjUxXHUwM2JjXHUwM2I1XHUxZmQ2XHUwM2JkIiwgImluc2VydGlvbl9pZCI6IG51bGwsICJhcnRpZmljaWFsIjogbnVsbCwgInJlbGF0aW9uIjogIk9CSiIsICJwb3N0YWciOiAicC1wLS0tbWQtIiwgInNvcnRlcjEiOiAzLCAic29ydGVyMiI6ICIiLCAiZGVwdGgiOiAxfSwgeyJpZCI6IDgzNzk1LCAibiI6IDQsICJoZWFkIjogIjEiLCAiZm9ybSI6ICJcdTFmNTFcdTAzYjRcdTAzYWNcdTAzYzRcdTAzYjlcdTAzYmQiLCAiaW5zZXJ0aW9uX2lkIjogbnVsbCwgImFydGlmaWNpYWwiOiBudWxsLCAicmVsYXRpb24iOiAiT0JKIiwgInBvc3RhZyI6ICJuLXMtLS1uYS0iLCAic29ydGVyMSI6IDQsICJzb3J0ZXIyIjogIiIsICJkZXB0aCI6IDF9LCB7ImlkIjogODM3OTYsICJuIjogNSwgImhlYWQiOiAiMSIsICJmb3JtIjogIlx1MWYzNShcdTAwYTgpXHUwM2JkXHUwM2IxIiwgImluc2VydGlvbl9pZCI6IG51bGwsICJhcnRpZmljaWFsIjogbnVsbCwgInJlbGF0aW9uIjogIkF1eEMiLCAicG9zdGFnIjogImMtLS0tLS0tLSIsICJzb3J0ZXIxIjogNSwgInNvcnRlcjIiOiAiIiwgImRlcHRoIjogMX0sIHsiaWQiOiA4Mzc5MiwgIm4iOiAxLCAiaGVhZCI6ICIwIiwgImZvcm0iOiAiXHUxZjExXHUwM2M0XHUwM2IxXHUwMzIzXHUwM2I5XHUwM2JjXHUwM2FjfFx1MDNjM1x1MDMyM1x1MDNiNVx1MDNiOVx1MDNjMiIsICJpbnNlcnRpb25faWQiOiBudWxsLCAiYXJ0aWZpY2lhbCI6IG51bGwsICJyZWxhdGlvbiI6ICJQUkVEIiwgInBvc3RhZyI6ICJ2MnNhc2EtLS0iLCAic29ydGVyMSI6IDEsICJzb3J0ZXIyIjogIiIsICJkZXB0aCI6IDB9LCB7ImlkIjogODM3OTksICJuIjogOCwgImhlYWQiOiAiMCIsICJmb3JtIjogIi4iLCAiaW5zZXJ0aW9uX2lkIjogbnVsbCwgImFydGlmaWNpYWwiOiBudWxsLCAicmVsYXRpb24iOiAiQXV4SyIsICJwb3N0YWciOiAidS0tLS0tLS0tIiwgInNvcnRlcjEiOiA4LCAic29ydGVyMiI6ICIiLCAiZGVwdGgiOiAwfV0sICJoaWdobGlnaHRfbm9kZXMiOiAiMyIsICJoaWdobGlnaHRfZWRnZXMiOiAiIiwgImlkIjogMn0="></div><p></p></li>
+<li><p>Regularized layer<br>
+ἑτοιμάσεις σ[ὺ] <strong>ἡμῖν</strong> ὑδάτιν ἵνα ἔ[χωμ]εν ποτίσαι.<br>
+(hetoimáseis sù <strong>hēmîn</strong> hudátin hína ékhōmen
+potísai.)<br>
+<em>So, please have water ready for <strong>us</strong>, so that we can
+water them.</em><br>
+</p><div style="height:300px; " data-treeid="3" class="sentence-tree tf-tree tf-result" data-json="eyJvayI6IHRydWUsICJyZXN1bHQiOiBbeyJpZCI6IDgzNzk4LCAibiI6IDcsICJoZWFkIjogIjYiLCAiZm9ybSI6ICJcdTAzYzBcdTAzYmZcdTAzYzRcdTAzYWZcdTAzYzNcdTAzYjFcdTAzYjkiLCAiaW5zZXJ0aW9uX2lkIjogbnVsbCwgImFydGlmaWNpYWwiOiBudWxsLCAicmVsYXRpb24iOiAiT0JKIiwgInBvc3RhZyI6ICJ2LS1hbmEtLS0iLCAic29ydGVyMSI6IDcsICJzb3J0ZXIyIjogIiIsICJkZXB0aCI6IDN9LCB7ImlkIjogODM3OTcsICJuIjogNiwgImhlYWQiOiAiNSIsICJmb3JtIjogIlx1MWYxNFx1MDMyM1tcdTAzYzdcdTAzYzlcdTAzYmNdXHUwM2I1XHUwMzIzXHUwM2JkXHUwMzIzIiwgImluc2VydGlvbl9pZCI6IG51bGwsICJhcnRpZmljaWFsIjogbnVsbCwgInJlbGF0aW9uIjogIkFEViIsICJwb3N0YWciOiAidjFwcHNhLS0tIiwgInNvcnRlcjEiOiA2LCAic29ydGVyMiI6ICIiLCAiZGVwdGgiOiAyfSwgeyJpZCI6IDgzNzkzLCAibiI6IDIsICJoZWFkIjogIjEiLCAiZm9ybSI6ICJcdTAzYzNcdTAzMjNbXHUxZjdhXSIsICJpbnNlcnRpb25faWQiOiBudWxsLCAiYXJ0aWZpY2lhbCI6IG51bGwsICJyZWxhdGlvbiI6ICJTQkoiLCAicG9zdGFnIjogInAtcy0tLW1uLSIsICJzb3J0ZXIxIjogMiwgInNvcnRlcjIiOiAiIiwgImRlcHRoIjogMX0sIHsiaWQiOiA4Mzc5NCwgIm4iOiAzLCAiaGVhZCI6ICIxIiwgImZvcm0iOiAiXHUxZjIxXHUwM2JjXHUxZmQ2XHUwM2JkIiwgImluc2VydGlvbl9pZCI6IG51bGwsICJhcnRpZmljaWFsIjogbnVsbCwgInJlbGF0aW9uIjogIk9CSiIsICJwb3N0YWciOiAicDFwLS0tbWQtIiwgInNvcnRlcjEiOiAzLCAic29ydGVyMiI6ICIiLCAiZGVwdGgiOiAxfSwgeyJpZCI6IDgzNzk1LCAibiI6IDQsICJoZWFkIjogIjEiLCAiZm9ybSI6ICJcdTFmNTFcdTAzYjRcdTAzYWNcdTAzYzRcdTAzYjlcdTAzYmQiLCAiaW5zZXJ0aW9uX2lkIjogbnVsbCwgImFydGlmaWNpYWwiOiBudWxsLCAicmVsYXRpb24iOiAiT0JKIiwgInBvc3RhZyI6ICJuLXMtLS1uYS0iLCAic29ydGVyMSI6IDQsICJzb3J0ZXIyIjogIiIsICJkZXB0aCI6IDF9LCB7ImlkIjogODM3OTYsICJuIjogNSwgImhlYWQiOiAiMSIsICJmb3JtIjogIlx1MWYzNShcdTAwYTgpXHUwM2JkXHUwM2IxIiwgImluc2VydGlvbl9pZCI6IG51bGwsICJhcnRpZmljaWFsIjogbnVsbCwgInJlbGF0aW9uIjogIkF1eEMiLCAicG9zdGFnIjogImMtLS0tLS0tLSIsICJzb3J0ZXIxIjogNSwgInNvcnRlcjIiOiAiIiwgImRlcHRoIjogMX0sIHsiaWQiOiA4Mzc5MiwgIm4iOiAxLCAiaGVhZCI6ICIwIiwgImZvcm0iOiAiXHUxZjExXHUwM2M0XHUwM2JmXHUwM2I5XHUwM2JjXHUwM2FjfFx1MDNjM1x1MDNiNVx1MDNiOVx1MDNjMiIsICJpbnNlcnRpb25faWQiOiBudWxsLCAiYXJ0aWZpY2lhbCI6IG51bGwsICJyZWxhdGlvbiI6ICJQUkVEIiwgInBvc3RhZyI6ICJ2MnNhc2EtLS0iLCAic29ydGVyMSI6IDEsICJzb3J0ZXIyIjogIiIsICJkZXB0aCI6IDB9LCB7ImlkIjogODM3OTksICJuIjogOCwgImhlYWQiOiAiMCIsICJmb3JtIjogIi4iLCAiaW5zZXJ0aW9uX2lkIjogbnVsbCwgImFydGlmaWNpYWwiOiBudWxsLCAicmVsYXRpb24iOiAiQXV4SyIsICJwb3N0YWciOiAidS0tLS0tLS0tIiwgInNvcnRlcjEiOiA4LCAic29ydGVyMiI6ICIiLCAiZGVwdGgiOiAwfV0sICJoaWdobGlnaHRfbm9kZXMiOiAiMyIsICJoaWdobGlnaHRfZWRnZXMiOiAiIiwgImlkIjogM30="></div><p></p></li>
+</ol>
+<div id="refs" class="references csl-bib-body hanging-indent" role="list">
+<div id="ref-bhat2013" class="csl-entry" role="listitem">
+Bhat, D. N. S. 2013. <span>“Third Person Pronouns and
+Demonstratives.”</span> In <em>The World Atlas of Language Structures
+Online</em>, edited by Matthew S. Dryer and Martin Haspelmath. Zenodo.
+<a href="https://wals.info/chapter/43">https://wals.info/chapter/43</a>.
+</div>
+</div>
