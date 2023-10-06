@@ -1,0 +1,92 @@
+<h1>2.4 Adjectives</h1>
+<h2 id="relevant-postag-codes">Relevant postag codes:</h2>
+<p><strong>Position and letters in postag string:</strong></p>
+<ol type="1">
+<li><p>part of speech: <strong>1st</strong>; letter: <strong>a</strong>
+(adjective)</p></li>
+<li><p>number: <strong>3rd</strong>; letters: <strong>s</strong>
+(singular), <strong>d</strong> (dual), <strong>p</strong>
+(plural)</p></li>
+<li><p>gender: <strong>7th</strong>; letters: <strong>m</strong>
+(masculine), <strong>f</strong> (feminine), <strong>n</strong>
+(neuter)</p></li>
+<li><p>case: <strong>8th</strong>; letters: <strong>n</strong>
+(nominative), <strong>g</strong> (genitive), <strong>d</strong>
+(dative), <strong>a</strong> (accusative), <strong>v</strong>
+(vocative)</p></li>
+</ol>
+<p><strong>Example postag string:</strong> a-s—mn- (adjective, singular,
+masculine, nominative)</p>
+<h2 id="summary">Summary</h2>
+<p>Adjectives in Greek decline in all three declensions, like nouns.
+There are four basic groups in which a certain adjective can belong to,
+based on criteria of how many endings an adjective has and into which
+declension its masculine and neuter forms belong to, as presented by
+<span class="citation" data-cites="waanders2013">Waanders (2013)</span>.
+The feminine forms, if they exist, always belong to the 1st
+declension.</p>
+<ol type="1">
+<li>Adjectives with three endings; masculine and neuter follow the 2nd
+declension. Here we also have adjectives where the ending is contracted
+(from -εος and -οος). For example:
+<ul>
+<li>masc.nom.sg. ἀγαθός (agathós), gen.sg. ἀγαθοῦ (agathoû)
+<em>good</em></li>
+<li>fem.nom.sg. ἀγαθή (agathḗ), gen.sg. ἀγαθῆς (agathês)</li>
+<li>neut.nom.sg. ἀγαθόν (agathón), gen.sg. ἀγαθοῦ (agathoû)</li>
+<li>masc.nom.sg. ἀργύρ-εος (argúr-eos), contr. ἀργυρ-οῦς (arguroûs),
+gen.sg. ἀργυροῦ (arguroû) <em>of silver</em></li>
+<li>fem.nom.sg. ἀργύρ-εα (argúr-ea), contr. ἀργυρ-ᾶ (argurâ), gen.sg.
+ἀργυρᾶ (argurâ)</li>
+<li>neut.nom.sg. ἀργύρ-εον (argúr-eon), contr. ἀργυρ-οῦν (arguroûn),
+gen.sg. ἀργυροῦ (arguroû)</li>
+</ul></li>
+<li>Adjectives with three endings; masculine and neuter follow the 3rd
+declension. For example:
+<ul>
+<li>masc.nom.sg. ἡδύς (hēdús), gen.sg. ἡδέος (hēdéos) <em>pleasant,
+sweet</em></li>
+<li>fem.nom.sg. ἡδεῖα (hēdeîa), gen.sg. ἡδείας (hēdeíās)</li>
+<li>neut.nom.sg. ἡδύ (hēdú), gen.sg. ἡδέος (hēdéos)</li>
+<li>masc.nom.sg. μέλας (mélas), gen.sg. μέλανος (mélanos) <em>black,
+dark</em></li>
+<li>fem.nom.sg. μέλαινα (mélaina), gen.sg. μελαίνης (melaínēs)</li>
+<li>neut.nom.sg. μέλαν (mélan), gen.sg. μέλανος (mélanos)</li>
+</ul></li>
+<li>Adjectives with two endings; following the 2nd declension. Two-form
+adjectives use one form for both masculine and feminine
+(i.e.&nbsp;non-neuter), and one for neuter. For example:
+<ul>
+<li>non-neut.nom.sg. ἄδικος (ádikos), gen.sg. ἀδίκου (adíkou)
+<em>unjust</em></li>
+<li>neut.nom.sg. ἄδικον (ádikon), gen.sg. ἀδίκου (adíkou)</li>
+</ul></li>
+<li>Adjectives with two endings; following the 3rd declension. For
+example:
+<ul>
+<li>non-neut.nom.sg. ἀληθής (alēthḗs), gen.sg. ἀληθοῦς (alēthoûs)
+<em>true, real</em></li>
+<li>neut.nom.sg. ἀληθές (alēthés), gen.sg. ἀληθοῦς (alēthoûs)</li>
+</ul></li>
+</ol>
+<p><a data-link-newtab="" href="/smyth/body.1_div1.2_div2.4.html+body.1_div1.2_div2.4_div3.7" data-url="smyth/body.1_div1.2_div2.4.html+body.1_div1.2_div2.4_div3.7">Adjective
+declensions presented in Smyth’s Grammar, §286ff.</a></p>
+<h2 id="queries-of-adjectives-in-papygreek-corpus">Queries of adjectives
+in PapyGreek corpus</h2>
+<ul>
+<li><a data-link-newtab="" href="/search/152" data-url="search/152">All adjectives</a></li>
+<li><a data-link-newtab="" href="/search/153" data-url="search/153">All forms of ἀγαθός, ἀγαθή, ἀγαθόν</a></li>
+<li>(All forms of ἀργύρεος, ἀργύρεα, ἀργύρεον):</li>
+<li><a data-link-newtab="" href="/search/154" data-url="search/154">All forms of ἡδύς, ἡδεῖα, ἡδύ</a></li>
+<li><a data-link-newtab="" href="/search/155" data-url="search/155">All forms of μέλας, μέλαινα, μέλαν</a></li>
+<li><a data-link-newtab="" href="/search/156" data-url="search/156">All forms of ἄδικος, ἄδικον</a></li>
+<li><a data-link-newtab="" href="/search/157" data-url="search/157">All forms of ἀληθής, ἀληθές</a></li>
+</ul>
+<h2 class="unnumbered" id="discussion">Discussion</h2>
+<div id="refs" class="references csl-bib-body hanging-indent" role="list">
+<div id="ref-waanders2013" class="csl-entry" role="listitem">
+Waanders, Frits. 2013. <span>“Adjectives (Morphological Aspects
+Of).”</span> In <em>Encyclopedia of Ancient Greek Language and
+Linguistics</em>, edited by Georgios K. Giannakis. Brill. <a href="https://referenceworks.brillonline.com/entries/encyclopedia-of-ancient-greek-language-and-linguistics/adjectives-morphological-aspects-of-COM_00000005">https://referenceworks.brillonline.com/entries/encyclopedia-of-ancient-greek-language-and-linguistics/adjectives-morphological-aspects-of-COM_00000005</a>.
+</div>
+</div>
