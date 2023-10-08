@@ -1,6 +1,7 @@
 <h1>2.5.4 Relative pronouns</h1>
-<p>Status: draft (e.g.&nbsp;summary) ## Relevant postag codes:
-<strong>Position and letters in postag string:</strong></p>
+<p>Status: draft (e.g.&nbsp;summary)</p>
+<h2 id="relevant-postag-codes">Relevant postag codes:</h2>
+<p><strong>Position and letters in postag string:</strong></p>
 <ol type="1">
 <li><p>part of speech: <strong>1st</strong>; letter: <strong>p</strong>
 (pronoun)</p></li>
