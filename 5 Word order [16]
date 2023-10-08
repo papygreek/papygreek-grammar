@@ -1,3 +1,18 @@
 <h1>6 Word order</h1>
 <p></p><div class="chapter-toc"><h3>Table of contents</h3><div class="chapter-toc-item"><span data-chapterid="70" class="red chapter-link">6.1 Order of subject, object, and verb</span></div><div class="chapter-toc-item"><span data-chapterid="94" class="red chapter-link">6.2 Order of subject and verb</span></div><div class="chapter-toc-item"><span data-chapterid="95" class="red chapter-link">6.3 Order of object and verb</span></div><div class="chapter-toc-item"><span data-chapterid="33" class="red chapter-link">6.4 Order of adjective and noun</span></div><div class="chapter-toc-item"><span data-chapterid="23" class="red chapter-link">6.5 Order of genitive and noun</span></div><div class="chapter-toc-item"><span data-chapterid="96" class="red chapter-link">6.6 Order of demonstrative and noun</span></div><div class="chapter-toc-item"><span data-chapterid="97" class="red chapter-link">6.7 Order of numeral and noun</span></div><div class="chapter-toc-item"><span data-chapterid="103" class="red chapter-link">6.8 Order of prepositional phrase and noun</span></div></div><p></p>
 <h2 id="introduction">Introduction</h2>
+<ul>
+<li>Short intro about word order in general?</li>
+<li>Word order phenomena in PapyGreek are viewed in parallel and
+contrast with the results from 3 other treebanked corpora: literary
+prose (AGDT minus verse authors, plus Gorman’s trees), PROIEL’s New
+Testament, and the automatically annotated corpus of documentary papyri
+Duke-nlp (minus lists and labels which are not of much interest to
+treebanking).</li>
+<li>The following chapters are data-driven and aim to present the
+phenomena and their distributions in our corpus.</li>
+<li>The queries from which the results are obtained are performed
+primarily in the KTB platform (Yordanova-Nanev, forthcoming). Where
+possible, links to comparable queries in the PapyGreek platform are
+given, but the results may vary.</li>
+</ul>
