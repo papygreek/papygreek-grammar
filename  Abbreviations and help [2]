@@ -4,8 +4,8 @@
 <p>We provide under each chapter all the relevant letter symbols used in
 the morphological annotation code (postag-string), as well as the
 syntactic labels visible in the syntactic trees, see also <span class="citation" data-cites="celano2014c">Celano (2014c)</span>. These
-will ease the understanding and using the PapyGreek Search. Below also a
-synoptic table of the postag-codes.</p>
+will ease the understanding and using the PapyGreek Search. The synoptic
+table below also presents the letter symbols in the postag-codes.</p>
 <table style="width:100%;">
 <colgroup>
 <col style="width: 11%">
