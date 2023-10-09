@@ -41,7 +41,7 @@ table below also presents the letter symbols in the postag-codes.</p>
 <td style="text-align: center;">a(ct)</td>
 <td style="text-align: center;">m(asc)</td>
 <td style="text-align: center;">n(om)</td>
-<td style="text-align: center;">p(os)</td>
+<td style="text-align: center;">p(osit)</td>
 </tr>
 <tr class="even">
 <td style="text-align: center;">v(erb)</td>
@@ -132,7 +132,18 @@ table below also presents the letter symbols in the postag-codes.</p>
 <td style="text-align: center;"></td>
 </tr>
 <tr class="even">
-<td style="text-align: center;">e(xl)</td>
+<td style="text-align: center;">e(xcl)</td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;">(pu)n(ctuation)</td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
@@ -153,7 +164,8 @@ table below also presents the letter symbols in the postag-codes.</p>
 <li>dat = dative</li>
 <li>voc = vocative</li>
 </ul>
-<p>###Degree</p>
+<p>###Degree + comp = comparative + posit = positive + sup =
+superlative</p>
 <h3 id="gender">Gender</h3>
 <ul>
 <li>masc = masculine</li>
@@ -161,6 +173,14 @@ table below also presents the letter symbols in the postag-codes.</p>
 <li>neut = neuter</li>
 </ul>
 <h3 id="mood">Mood</h3>
+<ul>
+<li>imp = imperative</li>
+<li>inf = infinitive</li>
+<li>ind = indicative</li>
+<li>opt = optative</li>
+<li>ptcpl = participle</li>
+<li>subj = subjunctive</li>
+</ul>
 <h3 id="number">Number</h3>
 <ul>
 <li>sg = singular</li>
@@ -168,10 +188,32 @@ table below also presents the letter symbols in the postag-codes.</p>
 </ul>
 <h3 id="part-of-speech">Part-of-speech</h3>
 <ul>
+<li>adj = adjective</li>
+<li>conj = conjunction</li>
+<li>excl = exclamation</li>
+<li>n = noun</li>
+<li>num = numeral</li>
 <li>pos = part-of-speech</li>
+<li>prep = preposition (also adposition)</li>
+<li>pron = pronoun</li>
+<li>v = verb</li>
 </ul>
 <h3 id="tense">Tense</h3>
+<ul>
+<li>aor = aorist</li>
+<li>fut = future</li>
+<li>fut.pf = future perfect</li>
+<li>impf = imperfect</li>
+<li>pf = perfect</li>
+<li>ppf = pluperfect</li>
+</ul>
 <h3 id="voice">Voice</h3>
+<ul>
+<li>act = active</li>
+<li>med = middle</li>
+<li>mp = mediopassive</li>
+<li>pass = passive</li>
+</ul>
 <h2 id="transcription">Transcription</h2>
 <p>We follow the same system of trancsription as EAGLL (except with iota
 subscripts, see below):</p>
