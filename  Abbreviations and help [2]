@@ -2,11 +2,6 @@
 <h1 id="abbreviations">Abbreviations</h1>
 <h2 id="annotation-codes-and-labels">Annotation codes and labels</h2>
 <h2 id="linguistic-abbreviations">Linguistic abbreviations</h2>
-<h3 id="number">Number</h3>
-<ul>
-<li>sg = singular</li>
-<li>pl = plural</li>
-</ul>
 <h3 id="case">Case</h3>
 <ul>
 <li>nom = nominative</li>
@@ -20,6 +15,11 @@
 <li>masc = masculine</li>
 <li>fem = feminine</li>
 <li>neut = neuter</li>
+</ul>
+<h3 id="number">Number</h3>
+<ul>
+<li>sg = singular</li>
+<li>pl = plural</li>
 </ul>
 <h2 id="transcription">Transcription</h2>
 <p>We follow the same system of trancsription as EAGLL (except with iota
