@@ -1,9 +1,11 @@
 <h1> Abbreviations and help</h1>
 <h1 id="abbreviations">Abbreviations</h1>
 <h2 id="annotation-codes-and-labels">Annotation codes and labels</h2>
-<p>Under each chapter all the relevant letter symbols, used in the
-postag-string, and the syntactic labels are given in order to ease the
-understanding and using the PapyGreek Search.</p>
+<p>We provide under each chapter all the relevant letter symbols used in
+the morphological annotation code (postag-string), as well as the
+syntactic labels visible in the syntactic trees, see also <span class="citation" data-cites="celano2014c">Celano (2014c)</span>. These
+will ease the understanding and using the PapyGreek Search. Below also a
+synoptic table of the postag-codes.</p>
 <h2 id="linguistic-abbreviations">Linguistic abbreviations</h2>
 <h3 id="case">Case</h3>
 <ul>
@@ -114,6 +116,10 @@ between. Example: <a href="https://papygreek.com/text/32746">P.Mich.3.157</a></p
 Bagnall, Roger S., and Raffaella Cribiore. 2008. <em>Women’s Letters
 from Ancient Egypt, 300 BC-AD 800</em>. Ann Arbor: University of
 Michigan Press. <a href="https://hdl.handle.net/2027/heb90014.0001.001">https://hdl.handle.net/2027/heb90014.0001.001</a>.
+</div>
+<div id="ref-celano2014c" class="csl-entry" role="listitem">
+Celano, Giuseppe G.A. 2014c. <em>Guidelines for the Ancient Greek
+Dependency Treebank 2.0</em>. Perseus Digital Library. <a href="https://github.com/PerseusDL/treebank_data/blob/master/AGDT2/guidelines/Greek_guidelines.md#21-article">https://github.com/PerseusDL/treebank_data/blob/master/AGDT2/guidelines/Greek_guidelines.md#21-article</a>.
 </div>
 <div id="ref-muhs2007" class="csl-entry" role="listitem">
 Muhs, Brian. 2007. <span>“Linguistic Hellenization in Early Ptolemaic
