@@ -1,6 +1,4 @@
 <h1>2.3.2 2nd declension</h1>
-<p>Status: <em>draft</em>: discussion on merging endings in this
-declension?</p>
 <h2 id="relevant-postag-codes">Relevant postag codes:</h2>
 <p><strong>Position and letters in postag string:</strong></p>
 <ol type="1">
@@ -74,7 +72,7 @@ lemma</a></li>
 <ul>
 <li>Merging of the genitive and dative cases, especially prevalent in
 the second declension singular endings that have phonetic base for
-confusion, has been studied on many occasions, e.g. <span class="citation" data-cites="stolk2015">(<strong>stolk2015?</strong>)</span>, <span class="citation" data-cites="dahlgren_etal2022">Dahlgren, Keersmaekers,
+confusion, has been studied on many occasions, e.g. <span class="citation" data-cites="stolk2015">Stolk (2015)</span>, <span class="citation" data-cites="dahlgren_etal2022">Dahlgren, Keersmaekers,
 and Stolk (2022)</span>, <span class="citation" data-cites="henrikssonetal_digi">Henriksson, Dahlgren, and Vierros
 (Accepted)</span>. Here we provide searches for these forms:
 <ul>
@@ -104,5 +102,11 @@ Henriksson, Erik, Sonja Dahlgren, and Marja Vierros. Accepted.
 <span>“Phonological Variation in Greek Papyri: Two Case Studies Using
 PapyGreek Search.”</span> In <em>Digital Papyrology</em>, edited by
 Nicola Reggiani. Vol. 3. De Gruyter.
+</div>
+<div id="ref-stolk2015" class="csl-entry" role="listitem">
+Stolk, Joanne. 2015. <span>“Case Variation in Greek Papyri : Retracing
+Dative Case Syncretism in the Language of the Greek Documentary Papyri
+and Ostraca from Egypt (300 BCE–800 CE).”</span> Oslo: University of
+Oslo.
 </div>
 </div>
