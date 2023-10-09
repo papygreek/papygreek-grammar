@@ -25,14 +25,15 @@ in a short -ᾰ. It also contains a group of masculine nouns with a
 nominative singular ending in -ης/-ᾱς. For the 1st declension tables in
 classical Attic Greek
 <a data-link-newtab="" href="/smyth/body.1_div1.2_div2.4.html+body.1_div1.2_div2.4_div3.1" data-url="smyth/body.1_div1.2_div2.4.html+body.1_div1.2_div2.4_div3.1">see Smyth
-§211</a>. Below, we have divided the first declension to four types, which
-have some differences in how they merge the case-endings to the stem of
-the noun, with some sample words for querying them in the corpus in
-order to find all the cases these words appear in. This will give an
-idea how the words are actually declined in the papyrological corpus
-(when it is not possible to directly draw all first declension words
-from the corpus, since the annotation framework does not mark declension
-types).</p>
+§211</a> and for the development of this macroclass, see <span class="citation" data-cites="dresslerkatsouda2013">Dressler and Katsouda
+(2013)</span>. Below, we have divided the first declension to four
+types, which have some differences in how they merge the case-endings to
+the stem of the noun, with some sample words for querying them in the
+corpus in order to find all the cases these words appear in. This will
+give an idea how the words are actually declined in the papyrological
+corpus (when it is not possible to directly draw all first declension
+words from the corpus, since the annotation framework does not mark
+declension types).</p>
 <h2 id="examples-of-inflection-from-papygreek-corpus">Examples of
 inflection from PapyGreek corpus</h2>
 <h3 id="st-declension">1st declension</h3>
@@ -46,13 +47,13 @@ lemma</a></li>
 <li>ἡ χώρᾱ (hē khōrā) <em>land</em> <a data-link-newtab="" href="/search/4" data-url="search/4">search all forms of this
 lemma</a></li>
 </ul>
-<ol type="1" start="2">
+<ol start="2" type="1">
 <li>Feminine nouns, nominative singular ending in a short ᾰ, e.g.:</li>
 </ol>
 <ul>
 <li>ἡ διάνοιᾰ (hē diánoia) <em>thought</em></li>
 </ul>
-<ol type="1" start="3">
+<ol start="3" type="1">
 <li>Masculine nouns, with a nominative singular ending in -ης/-ᾱς,
 e.g.:</li>
 </ol>
@@ -60,7 +61,7 @@ e.g.:</li>
 <li>ὁ δικαστής (ho dikastḗs) <em>judge</em> <a data-link-newtab="" href="/search/20" data-url="search/20">search all forms
 of this lemma</a></li>
 </ul>
-<ol type="1" start="4">
+<ol start="4" type="1">
 <li>Exceptions mentioned in grammars, due to contracted forms, e.g</li>
 </ol>
 <ul>
@@ -75,3 +76,11 @@ lemma</a></li>
 proper names in -ης may also belong to the third declension!
 <strong>(own section on declension of personal names?)</strong></li>
 </ul>
+<div id="refs" class="references csl-bib-body hanging-indent" role="list">
+<div id="ref-dresslerkatsouda2013" class="csl-entry" role="listitem">
+Dressler, Wolfgang, and Georgia Katsouda. 2013. <span>“Nominal System
+(Gender, Number, Case).”</span> In <em>Encyclopedia of Ancient Greek
+Language and Linguistics</em>, edited by Georgios K. Giannakis. Brill.
+<a href="https://referenceworks.brillonline.com/entries/encyclopedia-of-ancient-greek-language-and-linguistics/nominal-system-gender-number-case-COM_00000250?s.num=2">https://referenceworks.brillonline.com/entries/encyclopedia-of-ancient-greek-language-and-linguistics/nominal-system-gender-number-case-COM_00000250?s.num=2</a>.
+</div>
+</div>
