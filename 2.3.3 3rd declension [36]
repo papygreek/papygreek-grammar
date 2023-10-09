@@ -19,23 +19,22 @@
 <p><strong>Example postag string:</strong> n-s—nn- (noun, singular,
 neuter, nominative)</p>
 <h2 id="summary">Summary</h2>
-<p>Nouns in AG are usually treated as inflecting in three
-<strong>declensions</strong>. The declensions have their own sets of
-endings.</p>
-<p>The third declension includes words whose stem ends in a consonant,
-or the vowels ι or υ (or semivowels y or ϝ). All three genders are
-present. In theory, the endings are the same for all words in this
-declension, but the differences between stems final sound and the clash
-with the endings cause e.g.&nbsp;assimilation and contraction, and the
-endings have some variation. The differences are mostly apparent in the
-nominative singular, accusative singular and dative plural. All other
-case endings are quite effortlessly added to the stem.</p>
-<p>The stem is most conveniently found from the <strong>genitive
-singular</strong> form by dropping the ending -ος (like the stem λιβ-
+<p>The third declensional macroclass includes words whose stem ends in a
+consonant, or the vowels ι or υ (or semivowels y or ϝ). All three
+genders are present. The gen.sg has the ending -ος (-os). In theory, the
+endings are the same for all words in this declension, but the
+differences between stems final sound and the clash with the endings
+cause e.g.&nbsp;assimilation and contraction, and the endings have some
+variation. The differences are mostly apparent in the nominative
+singular, accusative singular and dative plural. All other case endings
+are quite effortlessly added to the stem.</p>
+<p>The stem is most conveniently found from the <strong>gen.
+sg.</strong> form by dropping the ending -ος (-os) (like the stem λιβ-
 (lib-) from the noun ὁ λίψ gen. λιβ-ός (ho líps, gen. lib-ós)
 <em>south</em>). For the 3rd declension tables
 <a data-link-newtab="" href="/smyth/body.1_div1.2_div2.4.html+body.1_div1.2_div2.4_div3.5" data-url="smyth/body.1_div1.2_div2.4.html+body.1_div1.2_div2.4_div3.5">see Smyth
-§240</a>.</p>
+§240</a> and for the development and description of the macroclass, see
+.</p>
 <h2 id="examples-from-papygreek-corpus">Examples from PapyGreek
 corpus</h2>
 <h3 id="rd-declension-nouns">3rd declension nouns</h3>
@@ -53,7 +52,7 @@ gunaik-ós) <em>woman, wife</em> <a data-link-newtab="" href="/search/17" data-u
 lemma</a> (note the occasionally appearing hypercorrect accusative
 singular form γυναῖκαν instead of γυναῖκα (see below, discussion).</li>
 </ul>
-<ol type="1" start="2">
+<ol start="2" type="1">
 <li>Stems in a dental stop τ, δ, θ (t, d, th), except ντ (nt),
 e.g.:</li>
 </ol>
@@ -69,7 +68,7 @@ this lemma</a></li>
 dat.pl. ποσί (ho poús, pod-ós, dat.sg. podí, acc.sg. póda, dat.pl. posí)
 <em>foot</em> <a data-link-newtab="" href="/search/24" data-url="search/24">search all forms of this lemma</a></li>
 </ul>
-<ol type="1" start="3">
+<ol start="3" type="1">
 <li>Stems in ντ</li>
 </ol>
 <ul>
@@ -77,7 +76,7 @@ dat.pl. ποσί (ho poús, pod-ós, dat.sg. podí, acc.sg. póda, dat.pl. posí
 dat.pl. gérousi) <em>old man</em> <a data-link-newtab="" href="/search/25" data-url="search/25">search all forms of this
 lemma</a></li>
 </ul>
-<ol type="1" start="4">
+<ol start="4" type="1">
 <li>Stems in ν</li>
 </ol>
 <ul>
@@ -85,7 +84,7 @@ lemma</a></li>
 dat.pl. Héllēsi(n)) <em>Greek</em> <a data-link-newtab="" href="/search/26" data-url="search/26">search all forms of this
 lemma</a></li>
 </ul>
-<ol type="1" start="5">
+<ol start="5" type="1">
 <li>Stems in a liquid (λ or ρ)</li>
 </ol>
 <ul>
@@ -98,7 +97,7 @@ gen.sg. kheir-ós gen.pl. kherôn dat.pl. khersì(n)) <em>hand</em>
 <li>ὁ, ἡ μάρτυς gen. μάρτυρ-ος (ho, hē mártus gen. mártur-os)
 <em>witness</em> <a data-link-newtab="" href="/search/29" data-url="search/29">search all forms of this lemma</a></li>
 </ul>
-<ol type="1" start="6">
+<ol start="6" type="1">
 <li>Stems in (ε)ρ, with three Ablaut grades in the stem</li>
 </ol>
 <ul>
@@ -111,7 +110,7 @@ lemma</a></li>
 <li>ὁ ἀνήρ gen.sg. ἀνδρ-ός (ho anḗr gen.sg. andr-ós) <em>man</em>
 <a data-link-newtab="" href="/search/32" data-url="search/32">search all forms of this lemma</a></li>
 </ul>
-<ol type="1" start="7">
+<ol start="7" type="1">
 <li>Stems in σ (neuter nouns in -ος, names in -ης)</li>
 </ol>
 <ul>
@@ -123,7 +122,7 @@ lemma</a></li>
 <li>ὁ Διογένης, Διογένους (ho Diogénēs gen.sg. Diogénous)
 <em>Diogenes</em> <a data-link-newtab="" href="/search/35" data-url="search/35">search all forms of this lemma</a></li>
 </ul>
-<ol type="1" start="8">
+<ol start="8" type="1">
 <li>Stems in ι/ε(y)</li>
 </ol>
 <ul>
@@ -132,28 +131,28 @@ lemma</a></li>
 <li>ἡ ὕβρις gen.sg. ὕβρεως (hē húbris gen.sg. húbreōs) <em>violence</em>
 <a data-link-newtab="" href="/search/37" data-url="search/37">search all forms of this lemma</a></li>
 </ul>
-<ol type="1" start="9">
+<ol start="9" type="1">
 <li>Stems in υ or in υ/ε(ϝ)</li>
 </ol>
 <ul>
 <li>ὁ πῆχυς gen.sg. πήχεος (ho pêkhus gen.sg. pḗkheos) <em>forearm</em>
 <a data-link-newtab="" href="/search/38" data-url="search/38">search all forms of this lemma</a></li>
 </ul>
-<ol type="1" start="10">
+<ol start="10" type="1">
 <li>Stems in ηυ/η(ϝ)</li>
 </ol>
 <ul>
 <li>ὁ βασιλεύς gen.sg. βασιλέως (ho basileús gen.sg. basiléōs)
 <em>king</em> <a data-link-newtab="" href="/search/39" data-url="search/39">search all forms of this lemma</a></li>
 </ul>
-<ol type="1" start="11">
+<ol start="11" type="1">
 <li>Stems ending in ευ, αυ, ου</li>
 </ol>
 <ul>
 <li>ναῦς <a data-link-newtab="" href="/search/41" data-url="search/41">search all forms of this lemma</a></li>
 <li>βοῦς <a data-link-newtab="" href="/search/42" data-url="search/42">search all forms of this lemma</a></li>
 </ul>
-<ol type="1" start="12">
+<ol start="12" type="1">
 <li>Irregularities</li>
 </ol>
 <ul>
