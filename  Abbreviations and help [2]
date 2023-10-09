@@ -43,6 +43,28 @@ synoptic table of the postag-codes.</p>
 <td style="text-align: center;">n(om)</td>
 <td style="text-align: center;">p(os)</td>
 </tr>
+<tr class="even">
+<td style="text-align: center;">v(erb)</td>
+<td style="text-align: center;">2</td>
+<td style="text-align: center;">p(l)</td>
+<td style="text-align: center;">i(mpf)</td>
+<td style="text-align: center;">s(ubj)</td>
+<td style="text-align: center;">p(ass)</td>
+<td style="text-align: center;">f(em)</td>
+<td style="text-align: center;">g(en)</td>
+<td style="text-align: center;">c(omp)</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;">a(dj)</td>
+<td style="text-align: center;">3</td>
+<td style="text-align: center;">d(u)</td>
+<td style="text-align: center;">(pe)r(f)</td>
+<td style="text-align: center;">o(pt)</td>
+<td style="text-align: center;">m(ed)</td>
+<td style="text-align: center;">n(eut)</td>
+<td style="text-align: center;">d(at)</td>
+<td style="text-align: center;">s(up)</td>
+</tr>
 </tbody>
 </table>
 <h2 id="linguistic-abbreviations">Linguistic abbreviations</h2>
