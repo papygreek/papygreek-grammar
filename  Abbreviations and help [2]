@@ -145,9 +145,6 @@ synoptic table of the postag-codes.</p>
 </tbody>
 </table>
 <h2 id="linguistic-abbreviations">Linguistic abbreviations</h2>
-<ul>
-<li>pos = part-of-speech</li>
-</ul>
 <h3 id="case">Case</h3>
 <ul>
 <li>nom = nominative</li>
@@ -168,6 +165,10 @@ synoptic table of the postag-codes.</p>
 <ul>
 <li>sg = singular</li>
 <li>pl = plural</li>
+</ul>
+<h3 id="part-of-speech">Part-of-speech</h3>
+<ul>
+<li>pos = part-of-speech</li>
 </ul>
 <h3 id="tense">Tense</h3>
 <h3 id="voice">Voice</h3>
