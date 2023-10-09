@@ -6,18 +6,29 @@ the morphological annotation code (postag-string), as well as the
 syntactic labels visible in the syntactic trees, see also <span class="citation" data-cites="celano2014c">Celano (2014c)</span>. These
 will ease the understanding and using the PapyGreek Search. Below also a
 synoptic table of the postag-codes.</p>
-<table>
+<table style="width:100%;">
+<colgroup>
+<col style="width: 11%">
+<col style="width: 11%">
+<col style="width: 11%">
+<col style="width: 11%">
+<col style="width: 11%">
+<col style="width: 11%">
+<col style="width: 11%">
+<col style="width: 11%">
+<col style="width: 11%">
+</colgroup>
 <thead>
 <tr class="header">
 <th style="text-align: left;">1: pos</th>
-<th style="text-align: center;">2:</th>
-<th style="text-align: center;">3:</th>
-<th style="text-align: center;">4:</th>
-<th style="text-align: center;">5:</th>
-<th style="text-align: center;">6:</th>
-<th style="text-align: center;">7:</th>
-<th style="text-align: center;">8:</th>
-<th style="text-align: center;">9:</th>
+<th style="text-align: center;">2: person</th>
+<th style="text-align: center;">3: number</th>
+<th style="text-align: center;">4: tense</th>
+<th style="text-align: center;">5: mood</th>
+<th style="text-align: center;">6: voice</th>
+<th style="text-align: center;">7: gender</th>
+<th style="text-align: center;">8: case</th>
+<th style="text-align: center;">9: degree</th>
 </tr>
 </thead>
 <tbody>
