@@ -6,6 +6,34 @@ the morphological annotation code (postag-string), as well as the
 syntactic labels visible in the syntactic trees, see also <span class="citation" data-cites="celano2014c">Celano (2014c)</span>. These
 will ease the understanding and using the PapyGreek Search. Below also a
 synoptic table of the postag-codes.</p>
+<table>
+<thead>
+<tr class="header">
+<th style="text-align: left;">1: pos</th>
+<th style="text-align: center;">2:</th>
+<th style="text-align: center;">3:</th>
+<th style="text-align: center;">4:</th>
+<th style="text-align: center;">5:</th>
+<th style="text-align: center;">6:</th>
+<th style="text-align: center;">7:</th>
+<th style="text-align: center;">8:</th>
+<th style="text-align: center;">9:</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">n(oun)</td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+</tr>
+</tbody>
+</table>
 <h2 id="linguistic-abbreviations">Linguistic abbreviations</h2>
 <h3 id="case">Case</h3>
 <ul>
